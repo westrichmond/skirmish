@@ -18,3 +18,2660 @@ No part of this publication may be reproduced, stored in a retrieval system, or 
 Express permission is given to reproduce this document for personal use.
 
 Send all correspondence to: westrichmondwargamegroup@gmail.com
+
+Table of Contents
+ 1 Prelude	8
+ 2 1982 Preface	8
+ 3 2014 Preface	9
+ 4 Introduction	10
+ 4.1 Dice	10
+ 4.2 Movement and Distance	10
+ 4.3 Characters	11
+ 5 Attributes	11
+ 5.1 Strength – STR	11
+ 5.2 Dexterity – DEX	11
+ 5.3 Intelligence – INT	12
+ 5.4 Movement – MOV	12
+ 5.5 Wealth – ₢	12
+ 5.6 Starting Values for Human Characters	12
+ 5.7 Effective Attribute Values	12
+ 5.8 Increasing Attributes and Skills	13
+ 5.9 Attribute Checks	13
+ 5.9.1 Difficulty	13
+ 5.9.2 Margin	14
+ 5.9.3 Opposed Rolls	14
+ 6 Skills	14
+ 6.1 INT 7 Skills	15
+ 6.1.1 Axe	15
+ 6.1.2 Bayonet	15
+ 6.1.3 Bow	15
+ 6.1.4 Crossbow	15
+ 6.1.5 Knife	15
+ 6.1.6 Polearms	15
+ 6.1.7 Shield	15
+ 6.1.8 Sword	16
+ 6.2 INT 8 Skills	16
+ 6.2.1 Common Melee Weapons	16
+ 6.2.2 Literacy	16
+ 6.2.3 Running	16
+ 6.2.4 Shotguns	16
+ 6.2.5 Shoulderarms	16
+ 6.2.6 Sidearms	16
+ 6.2.7 Small Arms	16
+ 6.2.8 Staff	17
+ 6.2.9 Swimming	17
+ 6.2.10 Thrown Weapons	17
+ 6.3 INT 9 Skills	17
+ 6.3.1 Alertness	17
+ 6.3.2 Automatic Weapons	17
+ 6.3.3 Climbing	17
+ 6.3.4 Enhanced Hearing	18
+ 6.3.5 Expert Swimmer	18
+ 6.3.6 Marksmanship	18
+ 6.3.7 Spacesuit	18
+ 6.3.8 Stealth	18
+ 6.3.9 Tough	19
+ 6.3.10 Very Tough	19
+ 6.3.11 Weight Training	19
+ 6.4 INT 10 Skills	19
+ 6.4.1 Acrobatics	19
+ 6.4.2 Astrobatics	19
+ 6.4.3 Fencing	19
+ 6.4.4 Martial Arts Level 1	20
+ 6.4.1 Quick Reflexes	20
+ 6.5 INT 11 Skills	20
+ 6.5.1 Medic	20
+ 6.5.2 Tactics	20
+ 6.5.3 Two Weapon Fighting	20
+ 6.6 INT 12 Skills	21
+ 6.6.1 Expert Stealth	21
+ 6.6.2 Martial Arts Level 2	21
+ 6.7 INT 13 Skills	21
+ 6.7.1 Strategy	21
+ 6.8 INT 14 Skills	1
+ 6.8.1 Doctor	1
+ 6.8.2 Martial Arts Level 3	1
+ 6.8.3 Martial Arts Level 4	1
+ 6.8.4 Martial Arts Master	1
+ 6.9 Weapon Skills	1
+ 6.9.1 Weapon Familiarity	1
+ 6.9.2 Common Melee Weapons:	2
+ 6.9.3 Common Missile Weapons:	2
+ 6.9.4 Uncommon Melee Weapons:	2
+ 6.9.5 Common Small Arms:	2
+ 6.9.6 Common Thrown Weapons:	2
+ 7 Example Character	4
+ 8 Fighting	4
+ 8.1 Threat Zone	4
+ 8.2 Disengaged	4
+ 8.3 Engaged	5
+ 8.4 Turns and Phases	5
+ 8.4.1 Initiative	5
+ 8.4.2 Movement	5
+ 8.4.3 Actions	5
+ 8.4.4 Forced Retreats	6
+ 9 Initiative	6
+ 10 Combat Movement	6
+ 10.1 Important Rule of Thumb	7
+ 10.2 Jumping	7
+ 10.3 Falling	7
+ 10.4 Actions During Movement	8
+ 10.5 Facing And Position	8
+ 10.6 Moving Onto Other Characters	8
+ 10.7 Movement Options for Disengaged Characters	8
+ 10.7.1 Stand Still	9
+ 10.7.2 Stand up	9
+ 10.7.3 Move One Step	9
+ 10.7.4 Move One Pace	9
+ 10.7.5 Half Move	9
+ 10.7.6 Full Move	9
+ 10.7.7 Delay	9
+ 10.8 Movement Options for Engaged Characters	9
+ 10.8.1 Stand still	10
+ 10.8.2 Stand up	10
+ 10.8.3 Shift	10
+ 11 Combat Actions	10
+ 11.1 Stand up	11
+ 11.2 Shoot	11
+ 11.3 Attack	11
+ 11.4 Defend or Dodge	11
+ 11.5 Disengage	11
+ 11.6 Changing Options	12
+ 11.7 Actions Available to Disengaged Characters	12
+ 11.7.1 Stand up	12
+ 11.7.2 Take a breather (Optional)	12
+ 11.7.3 Shoot	12
+ 11.7.4 Ready	12
+ 11.7.5 Drop	13
+ 11.7.6 Dodge	13
+ 11.7.7 Optional: Move and shoot	13
+ 11.7.8 Charge attack	13
+ 11.7.9 Full move	13
+ 11.8 Actions Available to Engaged Characters	13
+ 11.8.1 Stand up	13
+ 11.8.2 Shoot a charging enemy	14
+ 11.8.3 Drop and/or pick up weapons	14
+ 11.8.4 Attack	14
+ 11.8.5 Defend	14
+ 11.8.6 Attack hand-to-hand	14
+ 11.8.7 Disengage	14
+ 11.9 Actions Available to Characters in HTH Combat	14
+ 11.9.1 Attack	15
+ 11.9.2 Ready a Weapon	15
+ 11.9.3 Attempt to Disengage	15
+ 11.9.4 Attempt to Subdue	15
+ 11.9.5 Disarm Opponent	15
+ 12 Attacking	15
+ 12.1 Rolling To Hit	16
+ 12.2 Rolling To Avoid	17
+ 12.3 Damage	18
+ 12.4 Effects of Damage	18
+ 12.5 Forced Retreats	19
+ 12.6 Standard Damage Progression	19
+ 13 Weapons	20
+ 13.1 Weapon Limitations	23
+ 13.2 Strength Minimum	23
+ 13.3 Two-Handed Weapons	24
+ 13.4 Weapon Length	24
+ 13.5 Thrown Weapons	24
+ 13.6 Missile Weapons	24
+ 13.7 Aiming	25
+ 13.8 Attacking Into a Melee	26
+ 14 Protection from Damage	26
+ 14.1 Armor	26
+ 14.2 Encumbrance	27
+ 14.3 Shielding and Energy Shields	28
+ 15 Other Items	29
+ 15.1 Batteries	29
+ 15.2 Misc	29
+ 16 Special Combat Rules	29
+ 16.1 Improvised Weapons: “Clubs,” “Rocks,” and “Knives”	29
+ 16.2 Pole Weapons	30
+ 16.3 Bayonets	30
+ 16.4 Sweep Attacks	31
+ 16.5 Staff	31
+ 16.6 Selective Fire and Automatic Weapons	31
+ 16.7 Shotguns	33
+ 16.8 Energy Weapons	34
+ 16.9 Stun Weapons	35
+ 16.10 Plasma and Mono-filament Swords	35
+ 16.11 Fire	35
+ 16.12 Grenades and Molotovs	36
+ 16.13 Flame Throwers	38
+ 16.14 Knockdown Attack, and Throws	38
+ 16.15 Hand-to-hand and Unarmed Combat	39
+ 16.15.1 Unarmed Combat Damage	39
+ 16.15.2 Standard Damage Progression	40
+ 16.15.3 Attempting Hand-to-hand Combat	41
+ 16.15.4 Using Martial Arts Skills	42
+ 16.15.5 Knockdowns and Throws.	43
+ 16.15.6 Subduing a Foe	43
+ 16.15.7 Disarm Opponent	43
+ 17 Terrain and Environmental Factors	44
+ 17.1 Broken Ground	44
+ 17.2 Water	44
+ 17.3 Mud And Snow	44
+ 17.4 Smoke, Fog, and Dense Atmospheres.	44
+ 17.5 Complete Darkness	44
+ 17.6 Ice	45
+ 17.7 Walls	45
+ 17.8 Pits And Holes	45
+ 17.9 Changes In Gravity	45
+ 17.10 Microgravity	46
+ 17.11 Vacuum or Hostile Atmospheres	47
+ 18 Experience Points	47
+ 18.1 Redeeming Experience Points	48
+ 18.2 Buying Skill bonuses	49
+ 18.3 Improving Attributes	49
+ 19 Types of Scenarios	50
+ 19.1 Arena	50
+ 19.2 Duel	51
+ 19.3 Practice Combat	51
+ 19.4 Interior adventures	51
+ 19.5 Replacement for another game	51
+ 19.6 Handicap	52
+ 20 Combat Example	53
+ 21 Optional Rules	54
+ 21.1 Optional Advanced Initiative System:	54
+ 21.2 Movement	54
+ 21.3 Fatigue / Nonlethal Damage	55
+ 21.4 Aimed Shots and Critical hits	56
+ 21.5 Quick-Shot	57
+ 21.6 Partial Armor	57
+ 21.7 Degraded Armor	58
+ 21.8 Opportunity and Suppression Fire	58
+ 22 Proposed Rules	59
+ 22.1 Gauss / coil guns	59
+ 22.2 Exoskeletons / Powered Suits	59
+ 22.3 Death and Revival	59
+ 22.4 Changing scale	59
+ 22.5 Long distance	59
+ 22.6 Square grid	59
+ 22.7 Action Point system	60
+ 23 Legal Stuff	60
+ 23.1 Copyright Registration of Games	60
+ 23.2 Creative Commons License	60
+ 23.3 Open Gaming License	61
+ 24 Dexterity Adjustments Table	63
+ 24.1 MISSILE AND THROWN WEAPONS	63
+ 24.2 CONCEALMENT	63
+ 24.3 SUPPORT	63
+ 24.4 AIMING AND AIMED SHOTS	63
+ 24.5 ADVERSE CONDITIONS	64
+ 24.6 OTHER	64
+ 24.7 ADJUSTMENTS DUE TO RANGE	64
+ 24.8 WOUNDING	64
+ 25 Lists of Actions	65
+ 26 Skill List	66
+ 27 Dice and Probabilities	67
+ 27.1 2d6	67
+ 27.2 3d6	67
+ 27.3 4d6	68
+ 27.4 5d6	68
+ 28 Notes	68
+
+ 1  Prelude
+Bruce walked through the mist shrouded forest, searching for any rebel that may be unlucky enough to encounter him. Entering a clearing, he spied his quarry. Bruce immediately dropped to the ground. The rebel, now prone, and with his rifle poised to kill, quickly got off three rounds. Braced for impact, Bruce felt the hits slam hard against his vest. The enemy was now taking careful aim. Bruce drew and fired his autopistol and seeing that his enemy was about to fire rolled to one side; the shot went by; another went off. Bruce looked over to see his enemy cursing at his weapon and throwing it at one side. The rebel stood up and pulled off a grenade. Bruce took carful aim and fired off the remaining rounds in his magazine. The rebel reeled with the impact of hit after hit and slumped to the ground. A wounded but alive Bruce Corr of the Colony Defense Team let out a sigh of relief and rose to his feet.
+
+ 2  1982 Preface
+This game is a fast paced, action packed combat module compatible with Metagaming's highly successful The Fantasy Trip. In the place of swords and sorcery are lasers, rifles, and deadly weapons of technology.
+
+Two or more players create characters and send them against each other. The characters' combination of strength, dexterity, and intelligence and the skill of the player will determine which player wins or loses. Winning characters will increase in skill, losers are buried.
+
+This module can also be combined with Melee, Wizard, or any other parts of The Fantasy Trip. Try pitting your best swordsman against a star warrior with graphite armor and a laser pistol. Let some ulterior characters get lost in
+a barbaric past.
+
+Be creative! We allow you the limits of your imagination!
+
+Good Gaming,
+
+West Richmond Wargame Group
+
+ 3  2014 Preface
+
+What you have before you is a project started by some teenagers in the early 80s. We had grown up playing games of all sorts including several early role-playing games but found the rules confusing or not well written. We found Metagaming's Melee and later The Fantasy Trip to have more logical rules and was fun to play. Along with a few friends we played it a lot. But what we really wanted to play was a science fiction RPG and we found it easy to modify the rules to a science fiction setting and during 1980 and 81 we did just that. We wrote these documents to share with others and hoped Metagaming would buy it but they were not interested. They did publish the article we wrote under the title Unofficial TFT Variant: Martian Vanguard MRAV in their magazine, Interplay. What we didn't know at the time was that Metagaming was falling apart and they were soon out of business. This game then sat on the shelf until recently. Inspired by others who have created new versions of role-playing games released in the 80s, I digitized our typewritten rules and re-wrote them to be based off of Chris Goodwin's Warrior and Wizard, an open licensed RPG.
+
+I hope you enjoy our little game.
+
+Carlisle
+
+We would like to thank our playtesters: 
+
+1982 Playtesters: David Butler, Kirk Collingwood, Barbara Henry, Carl Mueller, Todd Sites, Michael Vunk, and Matthew Rhode.
+
+2014 Playtesters: Aaron Jolley
+
+Special Thanks to Winchell Chung's Atomic Rockets site: http://www.projectrho.com/public_html/rocket/
+
+ 4  Introduction 
+SKIRMISH is a game of close quarters combat using modern or speculative weapons. SKIRMISH could be described as between a war game and a roleplaying game. Each player has a playing piece that represents a character on a playing map while simulating a battle. Role playing elements are not required, but can make playing more fun and these rules can be use to handle the combat elements of a role playing game.
+
+The game is suitable for two or more players, and can be played in three modes: player vs. player, player vs. player with a referee (here called a gamemaster or GM) or multiple players cooperating plus a GM. In player vs. player, each player creates a character and fights it out; in a player vs. player with GM situation, the gamemaster controls the environment as well as any additional characters not run by the players (known as non-player characters or NPCs); these NPCs can include other humans, aliens, or monsters, if present. If playing cooperatively with multiple players and a GM, one or more players create a character, and one person acts as the gamemaster and creates adventures and NPCs, makes decisions based on tough calls where there might be a question about the interactions between character abilities and the rules, and the like. 
+ 4.1  Dice
+SKIRMISH only uses six-sided dice. You'll need at least three of them, perhaps as many as six or seven, but probably no more than that. These dice will be referred to in the text as "d6" for six-sided die. Two dice will be referred to as 2d6, three dice as 3d6, and so on. Adjustments to the dice roll, also called die modifiers, are referred to as follows: 2d6+1 means to roll two six-sided dice and add one to the total, while 3d6-2 means to roll three dice and subtract two. Other roleplaying games use dice with differing numbers of sides, and refer to those dice similarly. We use the notation here out of habit and clarity, even though d6 are the only die type we use in this game.
+ 4.2  Movement and Distance 
+Combat and movement take place on a hexagonal grid. Two types of distance are referred to in SKIRMISH: hexes and multihexes. A hex is simply one space on the map; a multihex refers to one hex plus the six hexes immediately surrounding and touching it. One hex is approximately one and 1/3 meters (or about four feet) across. One multihex is approximately 4 meters (or 13 feet) across; one combat turn is approximately five seconds. 
+ 4.3  Characters 
+The unit for play in this game is a character. He is created by the player and users the combination of attributes, skills, wealth, items, and player strategy to explore and survive. Attributes are defined as quantitative properties used to define a character within the game setting. Skills are learned competencies which gives their possessor some ability or advantage not given to others that do not have it. Characters also have qualitative properties such a personality, motivation, etc which are determined by the player.
+ 5  Attributes
+All characters have four Attributes: Strength, Dexterity, Intelligence, and Movement. Through accumulating experience points, these attributes can be increased. Some sever injuries may permanently reduce them. 
+ 5.1  Strength – STR
+Strength represents two things: a character's physical strength (including lifting ability and ability to deal damage), and his ability to withstand damage. Attacks do damage to a character's Strength (see Combat for more information); the character's current Strength is equal to his normal Strength score minus any damage he has taken.
+ 5.2  Dexterity – DEX
+Dexterity represents a character's quickness, general physical agility, and hand-eye coordination. Characters roll dice against their Dexterity to hit other characters during combat (see Attribute Checks). Some weapons, armor, and other conditions reduce a character's Dexterity score; this is referred to as a character's Effective Dexterity. Most of the time when a character rolls against his Dexterity, he always uses his Effective Dexterity.
+ 5.3  Intelligence – INT
+Intelligence represents a character's general reasoning, perception, and memory. Characters roll against their Intelligence to sense things, to remember things that happened in the past, and to troubleshoot problems.
+ 5.4  Movement – MOV
+Movement is not quite an Attribute, per se. Human characters begin with a Movement value of 10. Not-human characters may have different Movement values.
+
+There is also an alternative set of rules for movement under Section 17 Optional Rules.
+ 5.5  Wealth – ₢
+Although wealth is not a character attribute, it controls an important part of the capabilities of a character. A beginning character starts out with units of wealth, called Credits (₢), so that he may buy weapons and armor to use in combat. See the Armor and Weapons Table for prices.
+ 5.6  Starting Values for Human Characters
+All characters receive a total of 32 points to allocate between the three Attributes (plus Movement, if desired). Human characters have minimum scores of 8 in Strength, Dexterity, and Intelligence. A beginning character starts out with 200 Credits. Non-human characters can have different starting points or different minimums.
+ 5.7  Effective Attribute Values
+Attributes will sometimes be referred to by their "effective" values, such as Effective Strength (eSTR), Effective Dexterity (eDEX), or Effective Intelligence (eINT). Take the current value of those Attributes, modified by negative factors like injury or encumbrance, and positive factors like certain skills or technology. Wounds reduce a character's Effective Strength (see Effects of Damage), while a character's Effective Dexterity can be reduced either directly through the type of armor worn or indirectly through encumbrance (see Encumbrance). 
+
+ 5.8  Increasing Attributes and Skills
+Characters can gain Experience Points (EP) through adventuring. Experience Points may then be spent to increase Attributes and Skills. See Experience Points.
+ 5.9  Attribute Checks 
+Attribute Checks are used to resolve conflict. Essentially, anytime two forces: two characters or a character verses a difficult situation want something different to happen, an Attribute Check might be called for. Attribute Checks can represent combat, the use of skills, and inborn abilities, or feats of Strength, Dexterity, or Intelligence. Bonuses or penalties can be applied to the basic attribute value due to the influence of a character's skills, damage received in combat, or other factors.
+
+In most cases to make an Attribute Check, roll three 6-sided dice; also referred to as 3d6. If you roll less than or equal to the appropriate Attribute along with various bonuses or penalties, the check is a success. Sometimes Attribute Checks will be referred to by the name of the Attribute being checked, such as Strength Check, Dexterity Check, or Intelligence Check.
+
+In combat, the typical attribute check is made on three dice against effective dexterity (3d6/eDEX) is made to see if an attacker is able to strike their foe. This is also called a Roll to Hit or Roll to Attack.
+
+Any time there is another character in the line of fire of an intended target, either in front of the target or beyond the target there may be a need to make a 3d6/eDEX roll to avoid hitting the unintended character. A success of this roll means you have avoided the unintended target. This is also called a Roll to Avoid or a Roll to Miss.
+
+Other examples of attribute checks: 3d6/eINT to spot a hiding person, 4d6 if that person is camouflaged. 3D6/eSTR to break down a standard household door.
+ 5.9.1  Difficulty
+Some contests of skill are more difficult than others. To represent this, an Attribute Check is made using additional dice: instead of 3d6 use 4d6, 5d6, occasionally more. The mechanical effect is to reduce the chance a character will succeed at their Attribute Check. Some easy checks can be made on 2d6 as well. In combat, the Roll to Hit is usually done on three dice, but when the target is trying to avoid being hit (called Dodging or Defending) this difficulty is shown by using 4d6 vs effective Dexterity. Sometimes an easy attribute check is done using 2d6.
+
+With increased difficulty, automatic hits and misses have different target numbers: On 4d6, a roll of 4 and 5 are automatic hits. 20 is an automatic miss. 21 and 22 are dropped weapons. 23 and 24 are broken weapons.
+ 5.9.2  Margin
+Sometimes you'll want to know how well a character does at an action. The margin is the amount by which the character succeeds (margin of success) or fails (margin of failure) at an Attribute Check. Example: Bruce, with a Dexterity of 12, attempts to make his Dexterity Check. He rolls 9 on 3d6, making his margin of success 12 minus 9 or 3. 
+
+Margin of failure is considered a "negative margin of success"; any margin of failure is considered less than any margin of success.
+ 5.9.3  Opposed Rolls
+Occasionally, two characters will be in direct opposition to one another. In circumstances like this, each character rolls his Skill or Attribute Check; whichever one has a higher margin of success wins the check. Usually it just means that character gets what he wants, though there could be additional consequences depending on the exact circumstances of the conflict. If you need to know a net margin of success (the amount by which one character beats the other), subtract the lower margin of success from the higher.
+ 6  Skills 
+Skills are abilities or knowledge that a character has learned to do. In general a character cannot do something unless he has the skill for it. Some abilities can be done without having learned a skill, but with an additional penalty to success. For example, characters can use weapons that they do not have a skill for, but they are at a -4 DEX modifier when trying to hit. No skill is needed to fight with certain improvised weapons.
+
+A starting character can learn a total number of Skills equal to his Intelligence; some Skills take up two or more "slots" toward this total. The cost of each Skill, as well as the minimum Intelligence required to learn it, is noted following the Skill's description. A character cannot learn a Skill unless his Intelligence is equal to or greater than its INT minimum. Some skills have prerequisites of other skills or other attribute minimums. A character can change their skills between, but not during, combats. 
+
+Many Skills call for an Attribute Check under certain circumstances; normally an Attribute Check is only required in a situation of combat, conflict, or other stress. An Attribute Check should only be required if the consequences of failure are as interesting as those of success. 
+
+Prerequisites: For some Skills a prerequisite is listed. The character must have all of the prerequisites in place for a Skill before he can learn it. For instance, if a Skill calls for having a Dexterity score of 13 or more, plus the Swords Skill, the character must have 13 or more Dexterity and Swords before he can learn the other one.
+ 6.1  INT 7 Skills
+Characters wishing to learn these skills must have an INT of 7 or more.
+ 6.1.1  Axe
+The ability to fight with axes, hammers, mauls, and maces. Note: no skill is required to use a club in combat. Cost: 2 Slots.
+ 6.1.2  Bayonet
+The ability to fight with a bayonet as attached to a rifle or other firearm. 
+Cost: 1 Slot.
+ 6.1.3  Bow
+The ability to shoot accurately with bow and arrow. Cost: 2 Slots.
+ 6.1.4  Crossbow
+The ability to fire a crossbow accurately. Cost: 1 Slot.
+ 6.1.5  Knife
+The ability to fight with short bladed weapons. Cost: 1 Slot.
+ 6.1.6  Polearms
+The ability to fight with pole arms such as spears, halberts, and glaives. Pole weapons have special combat rules. Cost: 2 Slots. (only 1 if the characters already knows Bayonet)
+ 6.1.7  Shield
+The ability to hold a shield in one hand while fighting with a weapon in another. Shields have special combat rules. Cost: 1 Slot. [In addition to armor protection, should a shield wearer be able to defend and attack in the same action with an attack penalty? Or is this only for people who also have two-weapon skill?]
+ 6.1.8  Sword
+The ability to fight with all sizes of bladed weapons. Cost: 2 Slots. (only 1 if the characters already knows Knife)
+ 6.2  INT 8 Skills
+ 6.2.1  Common Melee Weapons
+A collective skill that covers the use of Axe, Knives, Pole Weapons, and Swords. Cost: 3 Slots.
+ 6.2.2  Literacy
+The character knows how to read and write any languages he can speak. Assumed to be part of general knowledge in educated societies. Literacy Cost: None. In societies where few are educated, this costs 1 slot and is a prerequisite for any skill involving research or formal study.
+ 6.2.3  Running
+Running is primarily skill at long distance running; add +2 to the character's Movement in all situations where long distance running is a factor. Running Cost: 2 slots.
+ 6.2.4  Shotguns
+Like the Sidearms skill, but covers just Shotguns. Cost: 1 Slot.
+ 6.2.5  Shoulderarms
+Like the Sidearms skill, but covers the ability to use rifles and similar long barreled firearms. Cost: 1 Slot.
+ 6.2.6  Sidearms
+The ability to use pistols and similar short barreled firearms. Not only does this skill cover how to safely fire the weapon, but also standard safety procedures, field maintenance and simple repairs. Cost: 1 Slot.
+ 6.2.7  Small Arms
+Combines the skills of Sidearms, Shotguns, and Shoulderarms. Cost: 2 Slots. (only 1 Slot if you already have Sidearms, Shotguns, or Shoulderarms)
+[Should fully automatic fire be a separate skill?]
+ 6.2.8  Staff
+Not a Wizard's Staff but a study pole about two meters in length used for Stick Fighting. It may also be called a Quarterstaff, Short Staff, or Bō. They have special combat rules. An item of the right length and diameter could be used as an improvised weapon, but it may break easier. Cost: 1 Slot.
+ 6.2.9  Swimming
+The character knows how to swim. A character without this Skill makes a 3d6 Dexterity Check every turn or begins to drown. Encumbrance reduces this directly. A character with Swimming only has to make this roll in an emergency situation. Swimming Cost: 1 Slot.
+ 6.2.10  Thrown Weapons
+The characters is train to toss weapons such as knives, rocks, small axes, and spears forcefully and accurately. They also get a +2 DEX bonus whenever they thrown something and may make a quick shot attack with thrown weapons. Cost: 2 Slots.
+ 6.3  INT 9 Skills
+ 6.3.1  Alertness
+A character with the Alertness Skill rolls 1 die less on Intelligence Checks related to seeing and perception, whether actively searching or passively noticing things. He can also roll a 3d6 Intelligence Check to notice an ambush before being attacked. Alertness Cost: 2 slots. Min. INT: 9
+ 6.3.2  Automatic Weapons
+The ability to use fully automatic weapons. Without this skill there is a -4 DEX penalty to use fully automatic weapon even if the character is trained to use the weapon in semi-	automatic or burst modes. Includes routine maintenance and the ability to clear jams. Prerequisite: Shoulderarms. Cost 1 Slot.
+ 6.3.3  Climbing
+Climbing is the ability to climb mountains and rock walls; it's any climbing where climbing gear is used (ropes, spikes, pitons, etc.) This Skill requires a climbing kit to use effectively. Climbing Cost: 1 Slot.
+
+
+
+ 6.3.4  Enhanced Hearing
+The character hears much better than normal. He rolls 1 fewer die on all hearing Perception Checks, and has a chance to hear other characters in situations where they are normally unable to be heard (such as while attempting Stealth, planning an ambush, etc.)  Enhanced Hearing Cost: 3 slots.
+ 6.3.5  Expert Swimmer
+The character is an excellent swimmer and is skilled in water rescue techniques such as lifeguarding, CPR, and rescue swimming. He is certified to save lives on the water, if in a culture that does so. He can roll a 3d6 Dexterity Check to attempt to rescue a swimmer who is drowning, and can roll a 4d6 Intelligence Check to attempt resuscitation against a swimmer who has lost all Strength to drowning, if begun within 3 minutes. Expert Swimmer Cost: 1 Slot.
+ 6.3.6  Marksmanship
+The character gets a +3 bonus to hit with all missile weapons that he knows how to use. Cost: 3 Slots
+ 6.3.7  Spacesuit
+The ability to work and fight while wearing a spacesuit in outer space or protective suit in other hostile environments. This also includes training on how to deal with punctures or other common emergencies and the proper use of airlocks and decontamination procedures. This skill is not needed to simply wear a suit, but without this skill actives are limited. Cost: 1 Slot.
+ 6.3.8  Stealth
+The character has the ability to move silently. On a successful 3d6 vs eDEX Check, the character cannot be heard by characters with normal hearing. Characters with Enhanced Hearing can hear the character up to 3 multihexes away, but only if they are actively listening. On a failed roll, those with Enhanced Hearing can hear the character if they are passively listening within 3 MH; those with normal hearing can hear the character if they are actively listening and within 3 MH. In both cases a successful 3d6 Intelligence Check is necessary, with a margin of success greater than the Stealth character's Dexterity Check. Stealth Cost: 2 Slots.
+
+
+
+ 6.3.9  Tough
+A Tough character has had years of rough and tumble combat experience, and has taken a few hits in his time. He takes one point less damage from every hit in combat. (If the optional nonlethal damage rules are used, he also takes two points less nonlethal damage.)  Tough Cost: 2 slots. Prerequisite: STR 14+
+ 6.3.10  Very Tough
+This character makes the Tough character look like a green troop, wet behind the ears. He takes two points less damage from every hit. (If the nonlethal damage rules are used, he also takes 4 points less nonlethal damage.)  Very Tough Cost: 3 Slots. Prerequisites: STR 16+ and Tough.
+ 6.3.11  Weight Training
+The character has engaged in an exercise discipline that allows them to carry more than others of their same Strength attribute. It increases their effective STR but does not give them any additional hit points. +2 STR Cost: 3 Slots.
+ 6.4  INT 10 Skills
+ 6.4.1  Acrobatics
+Acrobatics allows the character to roll one fewer die on any Attribute Checks required to keep his balance, maintain footing, avoid falling objects, or other similar feats. He can also increase his leaping Movement (....) with a successful 3d6 Dexterity Check. He can also climb up a rope, or climb a wall, tree, or other obstacle, using a rope, at a rate of 2 hexes per Turn, with no Attribute Check required (anyone without this Skill must roll a successful 2d6 Dexterity Check, and can only move 1 hex per Turn). Cost: 3 Slots. Prerequisite: Dexterity 12 or more.
+ 6.4.2  Astrobatics
+The ability to work and fight in outer space and microgravity environments with and without a spacesuit. See Microgravity in Adverse Conditions. Prerequisite: Dexterity 12 Cost: 2 Slots, only 1 if you already have Acrobatics.
+ 6.4.3  Fencing
+The character is an expert swordsman, studied and skilled in formal sword combat; Fencing is essentially a martial art form. The character can only use Fencing if his Effective Dexterity is 14 or higher. In sword combat, the character does double damage on a roll of 5-7 and triple damage on a roll of 3-4. Fencing Cost: 3 Slots. Prerequisites: Dexterity 14+, Effective Dexterity 14+, Weapon Familiarity with Swords. 
+
+ 6.4.4  Martial Arts Level 1
+This is a basic, formally studied unarmed combat form. The Skill represents multiple forms, and the player can choose which the Skill is intended to represent. The character does one extra point of damage when fighting bare-handed. In order to use any Martial Arts Skills, the character must either be unarmored or wearing armor no heavier than cloth. Martial Arts I Cost: 2 Slots. Prerequisites: DEX 13+ 
+ 6.4.1  Quick Reflexes
+Quicker than average manual dexterity. It allows the character to roll one fewer die on any Attribute Checks required for a quick-shot, catch a thrown object, or other similar feats. Cost 3 Slots. Prerequisite: DEX 13+
+
+ 6.5  INT 11 Skills
+ 6.5.1  Medic
+The Medic is a skilled in emergency or combat first aid. He can heal up to 2 points of damage to any character (lethal or nonlethal) immediately after the combat or incident in which the damage was incurred. He must have a medical kit. Two or more chirurgeons cannot pool their efforts to heal a character of more than 2 points. Each use of the Medic Skill takes 5 minutes. Cost: 2 Slots.
+ 6.5.2  Tactics
+This is the ability to formulate battle plans, anticipate what the enemy will do, and "push troops". The character can use this in combat at any scale from single to about battalion size. The character can have the GM roll a 5d6 Intelligence Check to determine what the enemy (NPC) will do; if the roll succeeds, the GM must tell the player, truthfully, what he plans to have the enemy do. The character (and his party, if he is the party leader) gets +1 on any initiative rolls. Tactics Cost: 1 Slot.
+ 6.5.3  Two Weapon Fighting
+A character with this Skill has the ability to fight with a weapon in each hand. More to the point, he can fight with two weapons that aren't part of a combination (combinations are sword and dagger, sword and main gauche, sword and spiked buckler, net and trident, paired cesti); a character without this skill can fight with two weapons that are part of a combination. 
+
+The character with Two Weapon Fighting can:
+ 
+Attack with both weapons, against the same or different targets. The first attack is at normal value; the second is at -4. 
+Attack with one weapon and parry (defend) with one. 
+Parry (defend) with both. 
+
+Two Weapon Fighting can be used in combination with the Fencing skill and appropriate weapons (two rapiers or a rapier and main gauche). Two Weapon Fighting Cost: 3 Slots. Prerequisites: DEX 13+, skills for all weapons used.
+ 6.6  INT 12 Skills
+ 6.6.1  Expert Stealth
+This is the ability to "hide in plain sight". With successful 3d6 Intelligence Check, the character can hide in an area even when there is a chance someone might be able to see him; if there is any cover at all he can hide behind it, or he can hide in bizarre areas where no one would think to hide, much less look. He can peek around corners and through windows and slightly-open doors without being seen. With a successful 4d6 Intelligence Check he can "break a tail" if there is someone following him. (Without this Skill these checks are on 5d6 and 7d6, respectively.)  To use Expert Stealth, the character must be wearing leather, cloth, or no armor. Expert Stealth Cost: 3 Slots. Prerequisite: Stealth
+ 6.6.2  Martial Arts Level 2
+Like Martial Arts Level 1, but the character does 2 points of damage in combat. The character can also throw a target; this acts like a shield rush, and uses the rules for shield rush, but a shield isn't required. Cost: 2 Slots. Prerequisite: Martial Arts 1
+ 6.7  INT 13 Skills
+ 6.7.1  Strategy
+This is knowledge of strategy and military science. This is a higher level than Tactics; it involves coordination of troop movements at battalion level and above, knowledge of supply lines, the ability to coordinate disparate operations groups (such as air and ground, or ground troops and psychological operations), and the like. A party led by a character with Strategy receives +2 on all Initiative in combat. Strategy Cost: 2 Slots. Prerequisites: Tactics, plus two years' military experience. 
+
+ 6.8  INT 14 Skills
+ 6.8.1  Doctor
+One trained in trauma medicine. A Doctor has all of the abilities of a Medic, and can heal one additional point of damage with or without a medical kit. (Note that healed damage is not cumulative between Doctors and/or Medics; two of either or both can't work together to add their healing abilities). Cost: 2 Slots. Prerequisite: Medic
+ 6.8.2  Martial Arts Level 3
+Prerequisite: Martial Arts Level 2, DEX of 14+ For details see Hand-to-Hand Combat. Cost: 2 Slots.
+ 6.8.3  Martial Arts Level 4
+Prerequisite: Martial Arts Level 3, DEX of 15+ For details see Hand-to-Hand Combat. Cost: 2 Slots.
+ 6.8.4  Martial Arts Master
+Prerequisite: Martial Arts Level 4, DEX of 16+ For details see Hand-to-Hand Combat. Cost: 3 Slots.
+ 6.9  Weapon Skills 
+ 6.9.1  Weapon Familiarity
+The character is familiar with a weapon, or type of weapon, and knows how to use it in combat at no penalty. Attempting to use a weapon in combat without knowing how to use it incurs a -4 penalty on all rolls to hit; some weapons either can't be used unskilled or can potentially injure the unskilled user (this is noted in the weapon's description). Costs and Minimum Intelligence scores for the various weapon groups are listed in the table below:
+
+
+Skill
+Slots
+Min. INT
+Notes
+Axe/Mace/Hammer
+2
+7
+Except club (no skill required)
+Bows
+2
+7
+
+Common Melee Weapons
+3
+9
+Weapon Category
+Common Missile Weapons
+3
+9
+Weapon Category
+Crossbow
+1
+7
+
+Knife
+1
+7
+
+Longbow
+1
+7
+
+Pistols
+1
+8
+Refers to modern pistols
+Pole Arms
+2
+7
+
+Quarterstaff
+1
+8
+Uncommon Melee Weapon
+Rifles
+1
+8
+Refers to modern rifles
+Shield
+1
+7
+
+Shotguns
+1
+8
+Refers to modern shotguns.
+Small Arms
+2
+8
+ Weapon Category
+Swords
+2
+7
+Weapon Category (includes Knives).  Part of Common Melee Weapons
+Thrown Weapons
+2
+8
+
+
+
+
+
+
+
+The weapon categories are as follows:
+ 6.9.2  Common Melee Weapons: 
+Includes Axe/Mace/Hammer, Knives, Pole Arms, Swords.
+ 6.9.3  Common Missile Weapons: 
+Includes Bows, Crossbows, Slings.
+ 6.9.4  Uncommon Melee Weapons: 
+Each of the following is its own Skill and must be bought separately:  Blowgun, Bola, Boomerang, Cestus, Lasso, Naginata, Net, Quarterstaff, Sha-Ken, Spear Thrower.
+ 6.9.5  Common Small Arms:
+Pistols (incl. Revolvers), Rifles, Shotguns, Submachine Guns.
+ 6.9.6  Common Thrown Weapons:
+Thrown Rock, Thrown Knife, Grenades.
+
+The cost of any of the "Common" groups is reduced if you have any of the component groups, by the cost of the component groups. More information on weapons, including using them in combat, may be found in the Combat section.
+
+Familiarity with a weapon also provides some effective Armory skill when using that weapon; the character knows how to perform basic field maintenance and some extremely minor repairs. Weapon Familiarity Cost: See table. Min. INT: See table.
+ 7  Example Character
+[THIS NEEDS TO BE REDONE TO REFLECT NEW RULES]
+After the player selected Bruce's attributes and skills he went to the Armor and weapons Table. He would enter combat with a ready automatic pistol and 2 reloads (the third is in the gun) which count as small items and do not encumber him, neither does the total weight of all the things he is carrying. 
+
+
+
+Bruce Corr
+STR=11 DEX=12 INT=9 MOV=10
+
+Skills: 
+Knife (1 Slot), Sidearms (1 Slot),  Swimming (1 Slot), Marksmanship (3 Slots), Acrobatics (3 Slots)
+
+Item				Mass		Cost
+Plastic Cloth Vest	1 kg		100₢
+Autopistol 			1.5 kg		130₢
+3 reloads (27 rounds) 	nil		3₢
+Totals: 			2.5 kg			233₢, 17₢ left over
+
+ 8  Fighting 
+First, some necessary definitions: 
+
+ 8.1  Threat Zone
+The hex immediately in front of a character, and the two hexes immediately adjacent to that hex. Also called the character's "front hexes". A character who is unconscious, dead, fallen, prone, surprised, etc., has no Threat Zone. 
+ 
+ 8.2  Disengaged
+A character who is not in another character's Threat Zone is Disengaged. 
+
+ 8.3  Engaged
+A character who is in another character's Threat Zone is Engaged. The character doing the Engaging is not necessarily himself be Engaged, though two characters who are facing one another and are in each other's Threat Zones are both Engaged with each other. A foe with his back or side to you cannot engage you nor can they attack you with a melee, thrown or missile weapon. 
+ It is possible that a character may be unable to Engage another, due to large disparities in size, power level, etc.; a normal human (one hex) is unable to, by himself, Engage a dragon (seven hexes or more). 
+
+Characters who are Disengaged have much more freedom of movement than characters who are Engaged; see below under Combat Movement for more information. 
+ 8.4  Turns and Phases
+Combat takes place in turns, representing five seconds each. The events during a turn follow a strict sequence. Nothing happens simultaneously. Each movement or attack may affect the next one. 
+
+During a turn, each figure may execute one movement option and one action option from the lists below. Available actions are limited by the amount of movement a character has done that turn. The options available also depend on whether the character is engaged or disengaged. 
+
+A combat turn is broken up into the following Phases: 
+ 8.4.1  Initiative
+Determine the order that players move their characters. For more details see Initiative.
+ 8.4.2  Movement
+Characters take their movement actions (including not moving) in the order determined during the initiative phase. How far he moves is limited to the option chosen and his MOV. The second player does the same and the third, etc. See Combat Movement.
+
+ 8.4.3  Actions
+All actions, especially attacks, are carried out. This includes declaration of actions, attacks, defending or dodging, rolls to hit or miss, determination of damage, and applying effects of damage. Figures act in order of an effective Dexterity. This eDEX is only modified by armor, encumbrance, and accumulated damage. When making the attack this effective DEX and further adjust it for things such as range, concealment etc. If any figure gets knocked down or is killed before his turn to act comes he does not get to act that turn. See Combat Actions.
+
+ 8.4.4  Forced Retreats
+Any character who has a standing enemy in the characters threat zone and  inflicted hits on that enemy while not getting hit by that enemy may force the enemy to retreat. See Forced Retreats.
+
+If both sides have figures still willing and able to fight, begin the next turn. 
+
+ 9  Initiative
+During the Initiative phase, characters don't do anything. Players determine which characters move first. However, if one side surprises the other they automatically get the initiative. If all figures on one side did nothing but run last turn, they will always get the initiative if they plan to run this turn. If they plan to turn and fight, roll for initiative. 
+
+Each side rolls one die and adds any modifiers from Tactics or Strategy skills. Movement then takes place in this order. 
+
+See Optional Rules for an optional alternative to this.
+ 
+ 10  Combat Movement 
+Each figure has a movement allowance (MOV) of a certain number of hexes. All normal human figures have a basic MOV of 10. This can also be adjusted by the Running skill, armor, encumbrance, or adverse conditions. If your MOV is adjusted to one or below, the figure is not limited to moving a hex in order to complete and option. One can always move one hex and complete and option. One can move if he is kneeling or prone. His crawling MOV is 2 and is not adjusted unless his normal MOV is adjusted to one or below. A figure must stop its movement if it becomes engaged. 
+
+Characters move in Initiative order, with the exception of chases (situations where one character is moving and another character is trying to catch him -- this isn't a strict game definition; if it looks like a chase then it is one). In a chase, the character ahead always moves first, though for the other Phases the characters act in Effective Dexterity order. 
+
+ 10.1  Important Rule of Thumb
+Regarding combat movement and actions, a character can perform any action which his movement during the turn and current circumstances allow. For instance, if a character performs a Shift action while Engaged (thus moving one hex) and then somehow stops being Engaged for any reason (the character Engaging him dies, falls over, disappears, or anything else) he is now treated as a Disengaged character who has moved one hex, and can perform any of the actions available to a Disengaged character that has only moved one hex; he could shoot with a missile weapon if he has it ready, or ready a weapon, or drop, or dodge, or attack with a ready melee weapon or barehanded if he has a target. 
+
+ 10.2  Jumping
+A jump requires no extra MOV: a two hex pit require 2 MOV to jump over, but you must make a saving roll to jump it. 2 dice for a one hex hole, 5 for a two hex hole, 8 for a three hex hole (or wall of the same width) against STR + DEX. Missing means you fall into the pit or onto the wall; roll randomly if the wall is wider than one hex. If it is a pit that is more that two meters deep roll 3d6/DEX to see if you grab the other side. If successful you may try to pull yourself up a 4 die roll against STR saving roll. But ever you fail you take 1 hit or fatigue damage (see recovering from hits). 
+
+ 10.3  Falling
+
+If you fall in, you take 1 die damage for ever 5 meters you fall; any armor stopping no more than 2 hits! Pits over two meters deep cannot be climbed out; you must use a rope (at one meter a turn). Such a deep pit can only be fired into from an adjacent hex. One is such a pit can only fire into an adjacent normal leveled hex. [have hits from falling reflect exponential nature of acceleration]
+ 10.4  Actions During Movement 
+Certain actions maybe attempted during the movement part of the turn. Jumping is one such action. A disengaged character can also try to grab a dropped weapon on the run. If you spent 3 MOV you always pick it up and may continue to move. If you only move though the hex, after you have completed movement, you roll 3d6/eDEX to pick it up and no MOV is spent. No other action may be taken this turn. Also see Pits in the Adverse Conditions section. 
+ 10.5  Facing And Position 
+The counter or miniature that represents a character faces toward one side of its hex. It also can take various positions. Facing is shown by the direction the counter is in. A player may always change facing during the movement phase, even if it does not otherwise move. Facing determines which figures can attack which. Attacks can only be made into hexes in front of the figure. The prone position means you are lying on the ground. The kneeling position means you are on your knees and the standing position means you are on your feet. Only the Drop, Stand Up and Fire missile weapon option can be used to change positions. Anyone that is crawling or picking up a dropped weapon is considered to have all rear hexes for the purpose of being attacked. You can only engage figures if they are in one of your front hexes and vice versa. Figures on the same side do not engage each other. An attack with a melee weapon from the enemy's side hex gives a +2 DEX; attacks from the rear hex give a +4 DEX. If an attack is made on a kneeling figure it is at a +2 DEX and he attacks you with a -2 DEX. (for regular weapons only) If an attack is made on a prone figure with a regular weapon, it is made at a +4 and the prone figure cannot attack with a regular weapon. 
+
+ 10.6  Moving Onto Other Characters 
+Normally, only one figure occupies a hex. A figure may never move though a standing or kneeling figure. A figure may move into a hex with a fallen, unconscious, or dead figure and stop. He must roll 3 dice against his DEX to avoid falling when he does so. A figure may also jump over such a figure at a cost of 3 from its MA that turn, making the same saving roll. 
+
+ 10.7  Movement Options for Disengaged Characters
+ During the Movement Phase, only characters who are Disengaged when their chance to move arrives, may move freely. As the movement phase continues characters may change from being disengaged to engaged due to movements of their foes. Characters who are disengaged at the beginning of their movement phase may do any of the following options: 
+
+ 10.7.1  Stand Still
+Movement is not required. A character may choose to stay stationary.
+
+ 10.7.2  Stand up
+Standing up, from a fallen, crawling, or prone position, costs the character's full Movement for the Turn. A character standing up from a kneeling, swatting, or sitting position may either then do a Half Move or Change Weapons.
+
+ 10.7.3  Move One Step
+The character can move one hex. 
+ 10.7.4  Move One Pace
+The character can move up to two hexes. 
+ 10.7.5  Half Move
+The character can move up to half of his Movement (round up). 
+ 10.7.6  Full Move
+The character can move up to his full Movement. 
+ 10.7.7  Delay
+The character can choose to temporarily end his movement, to wait and see what else happens during the turn. A Delay action can be performed after moving any amount up to half of the character's Movement score. [probably needs to be removed]
+
+ 10.8  Movement Options for Engaged Characters
+During the Movement Phase, characters who are Engaged when their chance to move arrives are more limited in their choices. An Engaged character can make one of the following types of movement actions: 
+
+ 10.8.1  Stand still
+And use no movement. 
+ 10.8.2  Stand up
+This is almost identical to a Disengaged character's Stand up movement action. A character standing from a kneeling position can only shift or change weapons.
+ 10.8.3  Shift
+The character may move up to one hex, to another hex in which his Engagement status does not change. (In other words, he must be Engaged with all of the characters he was Engaged with before. If he was Engaged with only one character, he may move to one adjacent hex in his opponent's threat zone; if he was Engaged with more than one character, the adjacent hex he moves to must be in all opponents' threat zones.)  It costs the same amount of Movement as a Step (one hex in either case); the main difference between a Step and a Shift is that a Shift is done while Engaged, and must be done from an Engaged position to another Engaged position with the same character. 
+
+
+ 11  Combat Actions 
+When it comes to combat, a character is considered to be in one of three states: Disengaged, Engaged, or Engaged in Hand-to-hand Combat (HTH). A character who moves into another character's threat zone (which means the hex directly in front of that character and the two hexes on either side of it) becomes Engaged and must stop moving immediately. An Engaged character is Engaged regardless of his own facing; the salient feature is that another character is capable of attacking him. 
+
+A character who is anywhere but in another character's threat zone is Disengaged and is free to choose many actions. 
+
+Characters go in order of their Effective Dexterity scores, from high to low. If two characters are tied, go in order of their initiative for this turn
+
+The order determined during this Phase holds for the rest of the combat turn, even if a character's Effective Dexterity changes during the turn. 
+
+The actions are further explained below: 
+
+ 11.1  Stand up
+A character who has fallen, been knocked down, or prone may stand up. This uses up all of his movement for the turn. A character that is kneeling may stand up and take limited actions.
+
+ 11.2  Shoot
+The character attacks with a ready missile weapon. 
+
+ 11.3  Attack
+The character attacks another with a non-ranged attack (ready melee weapon or barehanded). 
+
+ 11.4  Defend or Dodge
+These are similar in that it makes a character harder to hit by an enemy. Defend is used by a character who is Engaged, against hand-to-hand or melee combat (i.e. any non-ranged attack), while Dodge is used by a character who is Disengaged, against ranged attacks (missile attacks or thrown weapons.)  In order to Defend, a character must have a ready weapon in hand with which to parry or block the incoming attack; in order to Dodge, the character must be able to move. If a target is Dodging or Defending, the attacker rolls an additional 1d6 die, typically a 4d6/eDEX to hit him instead of 3d6/eDEX. A roll of 4 and 5 are automatic hits and have no other effects. 20 is an automatic miss. 21 and 22 are dropped weapons. 23 and 24 are broken weapons. A person must have some object in his hands (weapon, stick, etc.) to defend. Defending is effective against figures in your front hexes. Neither of these options will allow for an attack, they are totally defensive. [Should an unarmed blocks be allowed to defend against small weapons?] [Should a character be allowed to attack while defending if their attacker missed the roll by greater than a certain margin?]
+
+ 11.5  Disengage
+A Disengage action occurs during the Combat Actions phase rather than Movement. To Disengage, move one hex away from the opponent, outside of his threat zone. If he wishes to attack you he may do so, regardless of your relative Effective Dexterity scores; if your eDEX is greater than his, his attack roll is at -1 per point of difference. Disengaging from Hand-to-hand combat has its own rules. [Disengaging while kneeling or prone]
+
+ 11.6  Changing Options
+It is legal to change intended options to meet changing conditions. The only requirement is that you must not have moved more than the new option allows. If you moved none or one hex you could change to any other option of the table. If you moved more than one half your MA you cannot take any other option. 
+
+A character who performs a Step action into another character's threat zone (thus becoming Engaged) may be treated as if he performed a Shift action, and can perform any of the "Shift and..." actions. 
+
+ 11.7  Actions Available to Disengaged Characters
+During the Combat Actions Phase, a character who is Disengaged may perform one of the following actions (note in all instances the Move portion of the action has already occurred during the Movement Phase): 
+
+ 11.7.1  Stand up
+A character who is fallen, prone, kneeling, swatting, crawling or sitting may stand up during the turn and do nothing else. 
+ 11.7.2  Take a breather  (Optional)
+If using optional nonlethal damage rules, a character can recover 1d6 nonlethal damage and do nothing else. 
+ 11.7.3  Shoot
+A character who has moved no more than One Step ( one hex ) or did not move but dropped to prone, kneeling, or sitting position may shoot with a missile weapon he has ready. The character may also attempt a quick draw.
+ 11.7.4  Ready
+A character who has moved no more than One Pace (two hexes) may drop or re-sling their weapon (if they have one) and then ready a weapon that is not currently ready. Two disengaged figures within a hex of each other may use this option to exchange weapons. A prone figure must roll 3 dice against DEX to ready a weapon. 
+
+ 11.7.5  Drop
+A character who has travelled no more than a Half Move may drop to the ground, to a prone, kneeling, crouching, or sitting position (the player specifies which) 
+ 11.7.6  Dodge
+A character who has travelled no more than a Half Move may perform a Dodge action. 
+
+ 11.7.7  Optional: Move and shoot
+A character who has travelled no more than a Half Move while also firing a non-bow missile weapon. They have a -4 DEX penalty. 
+
+ 11.7.8  Charge attack
+A character who has travelled no more than a Half Move may attack with any ready weapon, except a missile weapon, or attempt Hand-to-hand combat. If the moved at least three hexes toward a foe and attack with a pole weapon, they get a damage bonus. If a charge and attack is done against someone with a pole weapon, the pole weapon user gets an attack bonus. See Pole Weapons for more details.
+ 11.7.9  Full move
+A character who has moved more than half, up to his full Movement score may take no action during the turn. 
+
+ 11.8  Actions Available to Engaged Characters
+
+A character who is Engaged may perform one of the following actions (note again that all movement related to these actions has already occurred during the Movement Phase): 
+
+ 11.8.1  Stand up
+A character who has already stood up during the turn may do nothing else. 
+
+ 11.8.2  Shoot a charging enemy
+A character who has not moved during the turn, and became engaged due to a charging enemy,  may shoot once at that enemy with a ready missile weapon. He the missile weapon is longer than short, he then drops the missile weapon. A character can almost always do this; the situations in which he can't will be specified. 
+
+ 11.8.3  Drop and/or pick up weapons
+A character who has shifted no more than one hex may drop any weapon or object(s) he has in hand, and either ready one new non-missile weapon, or pick up one dropped weapons in his hex. He may do nothing else. 
+
+ 11.8.4  Attack
+A character who has shifted no more than one hex may attack with a non-missile, ready weapon. 
+
+ 11.8.5  Defend
+A character who has shifted no more than one hex may perform a Defend action. 
+
+ 11.8.6  Attack hand-to-hand
+A character who has shifted no more than one hex may attack barehanded or with a small weapon. He drops all weapons he has in hand that are not small weapons that can be used in HTH combat. 
+
+ 11.8.7  Disengage
+A character who has not moved during the turn may attempt to move out of an opponent's threat zone. 
+
+ 11.9  Actions Available to Characters in HTH Combat
+
+When a character is involved in Hand-to-hand Combat they are not allowed to move during the Movement Phase. During the Combat Phase they may pick one of the following actions:
+
+ 11.9.1  Attack
+Attack an enemy with their hands or one of the allowed weapons in HTH combat such as a knife, brass knuckles, or pistol.
+
+ 11.9.2  Ready a Weapon
+Attempt to draw a knife or pistol, or pick up a dropped weapon. This requires a 3d6/DEX roll to succeed. Only one weapons may be readied. The +4 DEX bonus does not apply to this roll. 
+
+ 11.9.3  Attempt to Disengage
+Attempt to Disengage from Hand-to-hand Combat. See HTH Combat rules.
+
+ 11.9.4  Attempt to Subdue
+Attempt to subdue your enemy. See HTH Combat rules.
+
+ 11.9.5  Disarm Opponent
+Attempt to disarm your opponent. See HTH Combat rules.
+ 12  Attacking 
+An attack is an attempt to harm an enemy. An attack may be by a melee, thrown, or missile weapon, or grenade, or Hand-to-hand combat. A melee weapon is one that can only attack from an adjacent hex and is not thrown, nor is a missile weapon. A missile weapon is one that projects a physical object at great speed, such as a bullet, or  a focus energy bolt to do damage. A thrown weapon is one that is thrown and does damage when it hits its target. Grenades and the like do damage by exploding or releasing a gas. Hand-to-hand Combat is close combat using fists and sometimes knives and pistols. 
+
+A ready weapon is the one in his hand, ready to use. It stays ready until dropped, thrown, broken, or is being reloaded. Some weapons can do multiple attacks in one turn. The number of times a weapon can attack in one turn is shown in the shots/turn column on the weapons table. 
+
+During the action phase all actions are completed in the order of an effective DEX. This is adjusted by armor and encumbrance only and is written beside the basic DEX, in parenthesis. The character with the highest effective DEX will complete his action first. If this action is the firing of a weapon and it is fired two or more times in the same turn, they all do not hit at the same time. The first shot is fired when the character's turn to act came. The next would not be fired until after all figures of the same DEX had gone. The next would not be fired until after all figures of the next lower DEX had gone. If one fired three shots and had an effective DEX of 13, the first would be fired when his turn to act came. The next would be fired before figures with an effective DEX of 12. fired. The last would be fired before figures of an effective DEX of 11 fired, when this figure rolls to hit for each shot he then includes all other DEX adjustments. The automatic rifle and machine gun are the only exceptions to this rule. They may fire in groups of two, instead of one, in the automatic setting. 
+
+To attack a character rolls a Dexterity Check also called a Roll to Hit, modified by his weapon, armor, wounds, Skill, and other factors. On a successful check, he hits the target and then rolls the weapon's damage.
+
+
+ 12.1  Rolling To Hit 
+When a character attacks, the player states which enemy is being attacked. He then rolls 3d6 to see whether or not he hits. To hit, a character must roll its Effective Dexterity or LESS on 3 dice. Many factors modify this roll. Some of the most common are the armor the attacker is wearing and the wounds he has suffered. Various DEX adjustments are scattered throughout this booklet, but are all listed in the DEX Adjustments Table. All adjustments are figured before each attack before rolling. If the roll is below the target number, you have hit. There are special rules for automatic fire. See Automatic Weapons. 
+
+There are a few exceptions when rolling to hit. If you roll a 3 it is always a hit and the weapon does triple damage. If you roll a 4 it is always a hit and the weapon does double damage. If you roll a 5 it is always a hit, the weapon does normal damage. 
+
+A roll of 16 is always a miss. A roll of 17 is also always a miss and the attacker drops his weapon, put a dropped weapon counter in that figures hex; he has to pick it up next turn. A roll of 18 is also a miss and the attacker's weapon is broken. If this is a missile or energy weapon roll one die. Rolls of 1, 2, and 3 for energy weapons and 1 for gas-action weapons mean the weapon is permanently broken and cannot be repaired unless taken to a Weaponsmith at their shop. Other results mean the weapon is temporarily broken and can be fixed between combats by anyone with the right weapon skill and tools. For any other weapon an 18 means it is permanently broken, except for a club which needs two 18 results to break. 
+
+On 4d6, below 8 is an automatic hit, above 20 is an automatic miss.
+On 5d6, below 11 is an automatic hit, above 24 is an automatic miss.
+On 2d6 a 2 is an automatic hit, a 12 is an automatic miss.
+On 1d6 a 1 is an automatic hit.
+
+ 12.2  Rolling To Avoid 
+When using thrown or missile weapons, if there are one or more characters in your line fire either in front of or beyond your intended target, then you may need to make a Roll to Avoid. A Roll to Avoid is only made after the Roll to Hit the intended target has failed. Make a 3d6/eDEX roll for each unintended target, in order of distance, but unlike the roll to attack, if you succeed this roll, you have missed this unintended target. If you have missed all unintended targets, then the shot is no longer considered a threat. 
+
+An exception to this rule occurs if the intervening character is in an adjacent hex to the attacker and is on the same side as the attacker. Thrown weapons that do not hit their target, or any unintended targets in front of the target become dropped weapons in the hex of the target [maybe they should go a little beyond]
+
+Some modifiers that were bonuses for the Roll to Hit become penalties for the Roll to miss: distance, automatic fire, shotgun shell spread. For example increasing amounts of distance make it harder to hit a target and so distance provides a DEX penalty. When trying to avoid an unintended target, distance makes less likely for a hit and so its a bonus. There is usually a bonus for the additional shots when firing from an automatic weapon. Similarly there is a bonus when firing shot from a shotgun. These become penalties – it's easier to hit the unintended target with these weapons.
+
+If there is an unintended target before the intended target, apply a penalty to hit to target equal to the distance modification of the intervening character. If the attacker misses the target and the margin of failure is less than this penalty, then there is a chance you've hit the intervening character instead. If there is more than one intervening character just use the penalty associated with the intervening character furthest away (that is, closest to the target). Example: Zork throws a knife at Bruce who is 6 hexes away. Alice steps in the way at 3 hexes away. The penalty to hit Bruce has now changed from a -6 to a -9  ( -3 being the distance penalty associated with Alice.) If Zork misses Bruce by less than 3, then he must Roll to Avoid Alice with a 3 DEX bonus – that is its makes it more likely for a miss. If Chuck beyond Bruce at 9 hexes away and in the line of fire then the Roll to Avoid bonus is 9.[up to what distance that you need to roll to avoid? 10 hexes for thrown. When penalties take chance of hit below 5?] [If intervening character is Dodging?] Also read Attacking Into a Melee.
+
+ 12.3  Damage 
+If the attacker hits with a weapon the damage caused by that weapon takes effect immediately. Most weapons require a roll on dice of determine the exact damage. when, on the weapons table, the damage is given, the first number is the number of dice you roll. If there is a second number you add or subtract it from the number you roll. A damage of 2d6 + 1 means you roll two six-sided dice and add one to the resulting number. From this number you subtract the number of hits your target's armor (if any) stops to yield the number of hits your target takes. Subtract this number from his STR. When attacking an unarmored foe, treat any weapon that has a modifier that may produce a 0 or less damage as producing 1 hit.
+
+When a character is wounded in combat, subtract the value of any armor or other protective abilities from the amount of damage. The result is the amount of damage the character takes. For example, if a target wearing Plate armor (with an armor value of 5) is hit for an attack dealing 8 points of damage, he takes 8 minus 5 yielding 3 points in damage.
+
+Also see shielding and energy shields to see how they treat energy weapons.
+
+ 12.4  Effects of Damage 
+
+A character's Effective Strength is equal to his regular Strength minus the amount of damage he has taken. When a character's Effective Strength reaches 3 he gets an extra -3 DEX penalty. When his eSTR is 1 as a result of damage, he falls unconscious; when it reaches 0, he dies. 
+
+[Optional rules to make death and recovery more realistic ]
+
+A character that takes 5 or more points of damage in a single turn has his Effective Dexterity reduced by 2 for one turned – defined as one movement and one action phase. Thus if a character takes 5 hits before his own action, he has a -2 eDEX for the action phase this turn and the movement phase next turn.
+
+A character that takes 8 or more damage in a single turn falls down. If the damage is figured after armor, the character falls down automatically; if the total is 8 damage before armor but less than that after, the character can make a Dexterity Check at -2 (no penalty if he has the Acrobatics Skill) to avoid falling down. If this roll is successful, he is instead moved back one hex. 
+
+If using the Optional Movement Rules above, a character loses 1 Movement for every 2 damage he takes (this is calculated from Strength loss; don't recalculate Movement for Strength then apply this as additional penalty!). 
+
+Also see Optional Rules for details on Nonlethal Damage. 
+
+ 12.5  Forced Retreats
+If one attacks an adjacent enemy with any weapon, doing damage, but not taking any himself, he may move that enemy one hex in any direction. He may then chose to move into the vacated hex or stand still. if the only hex to retreat into contains a dangerous condition (deep water, fire, pit, etc.) the retreating figure must roll 3d6/DEX to avoid moving and/or falling into it. If he is successful he does not retreat. 
+
+ 12.6  Standard Damage Progression 
+When converting bonuses to dice, the progression is: 1 point, 2 points/1d6-4, 3 points/1d6-3, 1d6-2, 1d6-1, 1d6. Dice are additive to this; 1d6+2 with an additional +1 becomes 1d6+3 or 2d6-3, an additional +1 makes it 2d6-2, and so on. When a value falls on the cusp between some number of dice +3 and one more die -3, (for example, 1d6+3 and 2d6-3) usually the better choice is fewer dice with the bonus. 
+
+See the following table: 
+
+Damage Progression Table
+
+
+Bonus:
+0 dice
+One die
+Two dice
+Three dice
++1
+1 point
+1d6+1
+2d6+1
+3d6+1
++2
+2 points/
+1d6-4
+1d6+2
+2d6+2
+3d6+2
++3
+1d6-3
+1d6+3/
+2d6-3
+2d6+3/
+3d6-3
+3d6+3/
+4d6-3
++4
+1d6-2
+2d6-2
+3d6-2
+4d6-2
++5
+1d6-1
+2d6-1
+3d6-1
+4d6-1
++6
+1d6
+2d6
+3d6
+4d6
+
+[a]I know this part is wonky. I haven't ever gotten around to fixing it. I've actually got a fix in email somewhere, I just haven't ever implemented it.
+
+	 
+
+When adding bonuses to values that already have bonuses or penalties, a full dice value +1 goes to the top of the next column. For instance, 1d6+3 with an additional +4 in bonuses becomes 1d6+7 which becomes 2d6+1, while 1d6-3 with +4 in bonuses becomes 1d6+1. 
+
+This table can also be used to determine base damage done by Strength value; the 0 dice column is simply Strength equal to the listed bonus, while the one die column is equal to 6 plus the bonus, the two dice column 12 plus the bonus, and so on. A punch is considered a bludgeoning attack, while any other attack does damage by weapon type. (For example, a character with 10 Strength (read the One die column at +4) does 2d6-2 bludgeoning damage with a punch, while a character with 14 Strength would do 2d6+2.) 
+
+ 13  Weapons 
+The weapons available to characters in SKIRMISH are listed in the table below. 
+
+Weapons Table
+
+
+Weapon Name
+Damage
+STR Min.
+Length
+Notes
+Knives:
+
+
+
+
+Utility Knife
+1d6-1
+-
+Short
+Thrown
+Fighting Knife
+1d6+1
+10
+Short
+
+
+
+
+
+
+Swords:
+
+
+
+
+Saber / Machete / Cutlass
+2d6-2
+10
+Medium
+
+Broadsword / Katanna 
+2d6-1
+13
+Medium
+
+Broadsword / Katanna 
+2d6+1
+13
+Medium
+Two-handed 
+Mono-filament Sword
+3d6+6
+
+Medium
+
+Plasma Sword
+5d6+4
+
+Medium
+
+
+
+
+
+
+Axe:
+
+
+
+
+Club/Baton
+1d6
+9
+Medium
+Thrown
+Hatchet
+1d6
+9
+Medium
+Thrown
+Stun Baton
+
+     
+
+
+
+
+
+
+
+Boarding Axe / Crash Axe / Tomahawk
+1d6+2
+11
+Medium
+Thrown
+Fire Axe 
+2d6
+12
+Medium
+Two-handed
+Sledge Hammer
+2d6+2
+14
+Medium
+Two-handed
+
+
+
+
+
+Pole Arms:
+
+
+
+
+Spear
+1d6
+11
+Long
+Thrown
+Spear
+1d6+1
+11
+Long
+2-handed
+Bayonet
+1d6+1
+11
+Long
+2-handed
+Stun Spear
+
+
+
+
+
+
+
+
+
+Missile Weapons:
+
+
+
+
+
+
+
+
+
+Sling
+1d6-2
+-
+
+
+Modern Recurve Bow
+
+
+
+
+Compound Bow
+
+
+
+
+Longbow
+1d6+2
+11
+
+2-handed
+Light Crossbow
+2d6
+12
+
+2-handed
+Heavy Crossbow
+3d6
+15
+
+2-handed
+
+
+
+
+
+Sidearms
+
+
+
+
+Pistol
+2d6
+9
+Short
+
+High-powered Pistol
+3d6 + 2
+15
+
+
+Semi-automatic Pistol
+2d6
+10
+Short
+
+High-powered Semi-automatic Pistol
+3d6 + 2
+16
+
+
+Laser Pistol
+4d6 + 2
+nil
+Medium
+
+Plasma Pistol
+5d6 + 3
+10
+Medium
+
+
+
+
+
+
+Shoulderarms
+
+
+
+
+Rifle
+4d6 + 1
+10
+Long
+Two-handed
+Semi-automatic Rifle
+4d6 + 1
+10
+Long
+Two-handed
+High-powered Rifle
+7d6
+17
+Long
+Two-handed
+Automatic Rifle
+3d6 – 1
+11
+Long
+Two-handed
+Submachine Gun
+2d6
+9
+Medium
+Two-handed
+Coil Rifle
+5d6
+10
+Long
+Two-handed
+Laser Rifle
+6d6
+nil
+Long
+Two-handed
+Plasma Rifle
+7d6 + 3
+10
+Long
+Two-handed
+Shotgun
+See rules
+12
+Long
+Two-handed
+Automatic Shotgun
+See rules
+12
+Long
+Two-handed
+ Stun Gun
+
+
+
+
+
+
+
+
+
+Other Weapons
+
+
+
+
+Brass Knuckles
+Varies with STR
+
+
+
+
+Th
+-
+
+Thrown
+Staff
+1d6+2
+11
+Medium
+
+Burning Torch
+(See Notes)
+-
+Medium
+See below under Fire Damage
+Improvised Weapon
+(See Notes)
+
+Short/Medium
+See below under Improvised Weapon
+Molotov
+(See Notes)
+
+
+See below under Fire Damage
+Fragmentation Grenade
+(See Notes)
+
+
+See below under Firearms
+Concussion Grenade
+(See Notes)
+
+
+See below under Firearms
+Gas Grenade
+(See Notes)
+
+
+See below under Poisons
+
+
+
+
+
+
+
+
+Legend 
+Weapon Name - this refers to the name of the weapon. 
+Damage - the number of dice rolled to determine the weapon's damage 
+STR Min. - the minimum STR required to wield the weapon effectively; see below under Strength Minimum. 
+
+ 13.1  Weapon Limitations 
+The weapons table shows the damage, number of attacks per turn, weight, cost, the STR required to use each weapon, and the number of rounds that can be fired before it needs reloading for every weapon. 
+
+A human can have no more than one two-handed weapon or two one-handed ready weapons at one time. He can carry up to two additional weapons on his belt, in a holster, slung on his back, etc. at one time. But he can carry up to four other small items (anything with a mass of less than 1 kg) One can carry one energy shield at one time. One can wear one set of either armor or shielding, two sets of armor or shielding, or one set of each at a time. DEX adjustments are cumulative, though. 
+
+Ultimately, the amount of things one can carry is limited by his strength. One can carry up to two times his STR in kilograms without encumbrance, from two to three at a -2 MOV, from three to four at a -1 DEX and a -4 MOV, and from four to not more than five times with a -2 DeX and a -6 MOV. These MOV reductions are not cumulative with armor and shielding; take the lowest adjustment. See Encumbrance.
+
+Most weapons the produce a recoil require strength to control when firing.
+For every STR point you lack when firing a weapon you get a -1 DEX. If this is
+a one-handed weapon, you can hold it two-handed, requiring only half the STR. Automatic Rifle or the Submachinegun one-handed, requiring twice the STR. This is because they have a pistol grip in the stock. The Particle Rifle and the Machine Gun also have but need greater strength to fire them one handed. 
+
+ 13.2  Strength Minimum
+This refers to the minimum Strength necessary in order to use the weapon. A weapon may be used by a character with less STR, but he is at -1 to hit for every 1 STR less, and at -1 to damage for every 2 STR less. A character with more Strength can do more damage, at +1 for every 2 STR higher, with a corresponding -1 DEX penalty to hit, up to a maximum of +3 damage. [ Maybe the penalty should be a greater chance for a broken weapon]
+
+ 13.3  Two-Handed Weapons
+Two-handed weapons require both hands for most characters. A shield must be either slung on the back or dropped in order to use a two-handed weapon. Melee weapons and guns that are normally two handed can be used one handed if STR is 10 or more above minimum strength requirements.
+
+ 13.4  Weapon Length
+Long melee weapons can attack an opponent up to two hexes away; Medium melee weapons can attack into the next hex; Short melee weapons can only attack in the same hex in hand-to-hand combat or into the next hex at a -1 DEX penalty. 
+
+ 13.5  Thrown Weapons
+A thrown weapon may be thrown by a character with the Thrown Weapons Skill, or with a weapon-specific skill that allows it. Thrown weapons take a penalty of -1 DEX to hit for every hex between the attacker and the target. A thrown weapon that misses its target might hit someone else; see below under Rolling to Avoid and Attacking Into Melee for more information. With the exception of an adjacent friendly character, If there are any intervening characters that the attacker wishes to miss, they must successfully make a roll to avoid each character before rolling to hit their target.
+
+ 13.6  Missile Weapons
+A missile weapon takes a -1 DEX penalty for every two multihexes (or, six hexes) between the attacker and the target. There is no penalty against targets in the same multihex or up to two away, -1 for 3 to 4 multihexes, -2 for 5 to 6, etc. Like with throw weapons, a roll to avoid must be made if there are intervening characters. 
+
+Missile weapons fire in a line of fire or, in the case of automatic weapons and shotguns an arc of fire. These start in the center point of the firer's hex though the center point of the target's hex (for lines of fire) or any center point (for arcs of fire) and continue to the ends of the board. If there is a figure in these lines or arcs of fire that you do not want to hit you must roll to avoid. See Rolling to Avoid. 
+
+The lines or arc of fire stop when all of the shots have hit figures or have passed by all figures. If, when rolling to hit, you roll a 16, 17, or 18 on any target other than the first for each bullet, you do not count any adverse effect on the weapon, but that shot cannot hit any more targets. Suppose you fire at a target, miss, and roll to hit one behind him. You roll an 18, but your weapon doesn't break, the bullet misses and cannot hit any more targets in the line of fire. 
+
+Missile weapons never get adjustments for the targets facing, but do have their own special adjustments. Characters get adjustments if their enemy is concealed. If your target is leaning from behind a wall you have a -4 DEX adjustment. If that figure was firing over a wall from behind it you have a -6 DEX. If you are leaning from behind a wall firing your weapon you are at a -2 DEX. If your target is prone or kneeling behind a body you are a -4 DEX. If you miss him, then roll to hit or miss the body. You also get a -2 DEX if you are firing at a prone or kneeling figure, even if is not behind a body. All those previous adjustments for concealment are not cumulative the same is for the next set concerning support. You get a +1 DEX if you are using a rifle and you moved no more than one hex. This is because you are using the stock. You also get a +1 DEX if you are firing a pistol when prone. You also get a +2 DEX if your weapon is supported by solid objects, such as the side or top of a wall, a table, etc. You get a +3 DEX if you fire while using a bipod. Bipods can only be used in the prone position, kneeling behind a 1 meter wall, or standing behind a half meter wall. Bipods can only be used on Shoulderarms. You also get adjustments for special actions. If you move more than one hex and shoot you are at a -2 DEX and the number of shot/turn of the weapon is halved. 
+
+ 13.7  Aiming
+An attacking character, using any type of weapon, may delay attacking in order to aiming or wait for an opening before attacking. Aiming is different from making an aimed shot. The attacking character may not move or change facing and the only other option they may choose is to Defend and only against the target he is aiming at. If he waits one turn he gets a +1 DEX and if he waits two or more turns he gets a +2 to DEX for this attack. If he is knocked down, moves voluntarily or involuntarily, took damage to the head, or took 5 or more hits, his aiming is negated. 
+
+ 13.8  Attacking Into a Melee
+
+[ If attacking into a brawl of characters engaged in Hand-to-hand fighting, add a -4 DEX penalty for each character in the brawl above one. So for two characters in a brawl there is a -4 DEX penalty, for three characters there is a -8 DEX penalty, etc. If you missed the intended target, then you need to roll to avoid the other brawlers.]
+
+If the path taken by a thrown or missile weapon passes through any hexes occupied by other characters, or into a hand-to-hand brawl in a single hex, the attack takes a -1 DEX penalty for each character in the way. If the attack misses its primary target, it could hit any of those other characters. Roll an Effective Dexterity Check for each character in the path, starting with the one closest to the attacker, at standard penalties for ranged combat; a successful check means the attack misses its unintended targets. This check is also called Rolling to Avoid. When attacking into a brawl, choose the order in which characters are targeted randomly. 
+
+ 14  Protection from Damage
+ 14.1  Armor
+Each type of armor is rated with a defense value. Any time a character is hit in combat, subtract the armor's defense value from the amount of damage rolled. The result is the amount of damage the character takes. 
+
+If using the Optional Nonlethal Damage Rules, damage stopped is Lethal damage first. Cloth/Padded Armor stops 1 Lethal and 2 Nonlethal, and is assumed to be worn under all other armor types; all armor types thus stop 2 Nonlethal damage in addition to their full Lethal value.
+
+A shield can be used to block attacks. A shield held in the "ready" position protects against attacks from the character's front zone (the three front hexes), while a shield slung on the back protects against attacks from behind only (the hex directly behind the character). 
+
+A dagger held in the left hand can be used to parry or block attacks as well. 
+
+Besides providing defense, armor is also heavy and binding, and reduces both a character's ability to move and his Effective Dexterity score. (If using the Optional Movement Rules, the Dexterity penalty determines the movement reduction.) 
+
+Armor does not protect from poisonous gases, hostile environments, or vacuum, and only partially protects from fire. [redo shields to reflect lighter materials]
+
+Armor
+Type:
+Defense
+Value:
+DEX
+Penalty
+Weight
+(kg)
+Movement
+Penalty
+Notes
+Energy Suit Protective Suit
+nil
+-1
+2
+nil
+
+Spacesuit
+1
+-2
+10
+-1
+
+Padded
+(Cloth)
+1
+-0
+7
+-0
+
+Leather
+2
+-1
+8
+-2
+
+Steel
+5
+-3
+10
+-4
+
+Projectile Absorbing Cloth
+10
+-2
+3
+-4
+
+Ceramic
+13
+-3
+7
+-4
+
+Heavy Alloy
+15
+-4
+14
+-6
+
+Tower Shield
+3
+-1
+15
+-
+
+Large Shield
+2
+0
+10
+-
+
+Full Backpack
+1
+-1 or -2
+Contents
+
+Stops 1 hit from behind, prevents shield from being slung on back
+Dagger
+1
+0
+
+
+See notes for Defending
+
+ 14.2  Encumbrance
+Encumbrance can reduce a character's Effective Dexterity as well as his movement. Penalties to Effective Dexterity are cumulative with the type of armor worn; movement penalties are not. (If using the Optional Advanced Movement Rules, movement loss does accumulate based on Dexterity penalties as well.)
+
+Amount Carried
+Effects
+0-2x STR in kg
+None. No penalties; full swimming movement allowed.
+2-3x STR in kg
+-2 to Movement
+3-4x STR in kg
+-4 to Movement. -1 to Effective Dexterity
+4-5x STR in kg
+-6 to Movement. -2 to Effective Dexterity
+5-7x STR in kg
+-6 to Movement. -1 STR every 2 minutes (nonlethal/fatigue).  Max of 10 minutes.
+STR squared in kg
+Maximum lift. Character can move 1 hex with 4d6 Effective Strength check, otherwise no movement allowed.
+
+ 14.3  Shielding and Energy Shields
+Shielding, in the form of energy reflecting, absorbing, and dispersing material, protects from energy weapons, fire and partially from all other weapons. Energy Shields protect from energy weapons and fire, only. Shielding and Energy Shields stop energy weapons and fire damage like armor but it subtracts the amount of hits equal to the number rolled on dice. The amount of dice rolled is expressed by the R-factor. If one fires on a target with R2 shielding, the amount of hits stopped is rolled on 2 dice. 
+
+Energy Shields protect from the person wearing it and any figures in adjacent hexes. All people in this area must be wearing a protective suit to avoid taking damage from the field. This damage is equal to the unit's R-factor in hits per turn. Every time an energy shield is turned on roll 3 dice, on an 18 it breaks. Force Field stop damage from shots fired from the inside of this field and from the outside. Deflectors protect from shot fired from the outside of it only. Reflectors send successful shot back to their firers' doing half damage. One cannot tell what kind of shield is or whether it is on or not unless he fires into it. A player who turns a shield on should write this fact down at the beginning of the turn.
+
+When an energy weapon hits a figure wearing shielding the shielding will remove a certain number of dice from the damage roll equal to its R-factor. If a laser rifle is fired at a figure with R-2 shielding it would do 4 dice damage instead of 6 dice. For all other weapons, it would stop the number of hits specified by the table.
+
+If a figure wearing an energy shield gets hit from the rear hex only, and if is not an aimed shot, roll the amount of damage it does or less on four dice to see if the shield breaks.
+ 15  Other Items
+ 15.1  Batteries
+
+All energy weapons and mono-filament swords use energy stored in batteries. When a weapon runs out of energy, after a number of shots or turns, one must spend one turn reloading it. But a character can use a battery pack attached to the belt and connected to the weapon with a cord. This pack has as much energy as two batteries, in addition to the battery in the weapon. The only disadvantage is that it counts as a weapon in size, taking up space on the belt. Only one battery pack can be attached to a weapon at one time and can be removed in one turn. Batteries from every weapon may be recharged between combats for 5₢. 
+[Battery backpacks]
+ 15.2  Misc
+
+Rope  (10 m)
+Flashlight
+Fire Extinguisher ( one use )
+Gas Mask
+Tether ( per hex in length )
+Visor
+Flash Goggles
+Bipod
+Tripod
+Sandbags - ½ m high
+Entrenching Tools
+
+ 16  Special Combat Rules
+ 16.1  Improvised Weapons: “Clubs,” “Rocks,” and “Knives”
+Improvised weapons can be found in most environments treated like clubs, rocks, or knives. A club or knife is a melee weapons, while a rock is a thrown weapon and both do damage based on the attacker's Strength. Pipes, bats, large wrenches, lumber, and other items of similar shape can be considered clubs. Similarly pistol handles and shotgun or rifle stocks may be used as a club if the weapon can not be used because it is out of ammunition or broken. Bottles, bricks, etc., can be considered rocks. Shanks, shivs, broken bottles or other sharp weapons can be considered knives. 
+A rock does the damage shown on the HTH combat damage table. A one-handed club does the same plus 3; the two-handed club does the same plus 4. Brass knuckles count as clubs but are always one-handed, can't be thrown, can't be dropped, and can be used in HTH combat. 
+Some improvised weapons may be unbalanced and their use is at a DEX penalty. They may also break easily upon use like a bottle or chair in the classic bar room brawl. Exact rules will vary depending on an item and should be agreed upon ahead of time. [Examples] [ Effective range of rocks based on ST]
+
+ 16.2  Pole Weapons
+If a Charge and Attack action is used with a Pole Arm, and the last three hexes of the attacker's movement are in a straight line (no facing changes), the attack does double damage. If a character with a Pole Arm is attacked by someone Charging, and he sets the Pole Arm to meet the charge, he gets +2 to his Effective Dexterity to hit the Charger, and does double damage. 
+
+Pole Weapons of long length can also be used to jab at an enemy two hexes away. Only enemies in the hexes in front of the attacker's front hexes can be jabbed. An enemy two hexes directly ahead can only be jabbed if there is no figure in the intervening hex. A charge attack with a pole weapon can not be combined with a jab attack. A jab attack never gets a damage bonus.
+
+[create and insert diagram of long polearm use]
+
+ 16.3  Bayonets
+A knife can be attached to a rifle type weapon (Either before combat or one turn during combat) it is a bayonet. A bayonet does the same amount of damage that a knife would, but if you move 3 or more hexes before attacking this damage is doubled, cumulative with any other damage multiples. A weapon can also fire and attack with a bayonet in the same turn without adjustment if they against the same target. A bayonet is a regular weapon and can only attack into adjacent hexes. Because of the length of the bayonet it will strike before any other weapon will, no matter what the attacker's DEX is.
+
+ 16.4  Sweep Attacks
+Any two handed cutting weapon (Broadsword, Katana, Fire axe, Plasma Sword, for example) may be used to make a sweep attack against any foes in the attackers threat zone. (3 hexes for most attackers, 5 if the attacker has Martial Arts Level 4). Roll to hit normally, but add a -4 DEX penalty for the sweep attack.
+ 16.5  Staff
+A staff requires a Strength of 11 and when used to do a melee attack does 1d6 + 2 damage. It addition to being used to defend, it can do two special attacks: the staff may be used to attempt to disarm a defender. Its a -4 to effective DEX and if successful the defender must make a successful saving throw of 3d6 against DEX or the defender drops their weapon. Similarly the staff may be used to trip a defender. Its a -4 DEX attack and if successful the defender must make a 3d6/STR saving throw to avoid failing onto the ground.
+
+ 16.6  Selective Fire and Automatic Weapons
+Some firearms are capable of multiple attacks per turn, including several single shots, burst fire and fully automatic fire. Selective fire weapons allow the attacker to switch between these modes once per turn. In the weapons table, the rate of fire for selective fire weapons will show three numbers. For example, the Assault Rifle shows: 4 / 2 / 13 meaning: 4 shots per turn in semi-automatic mode, 2 three-round bursts in burst mode, and 13 shots per turn in full automatic mode.
+
+There is a minimum STR listed for each weapon. For every STR a character lacks for that weapon, there is a -1 DEX penalty. Resting the weapon against a solid object with remove 2 from this penalty. Using a bipod will reduce the recoil penalty by half (round down) and a tripod or static mount will eliminate the recoil penalty. When using weapons in burst or fully automatic mode, there is also an additional one point of STR required for every 3 rounds shot beyond the first.
+
+Burst fire is typically three rounds and fully automatic fire shoots up to the maximum rate of fire per turn. For every three rounds fired at a target, the attacker gets a +1 DEX bonus to hit. After applying all the DEX bonuses and penalties roll to hit normally, but your margin of success yields how many bullets hit the target. 
+
+Zorgo (STR=11, DEX=12) first fires his Assault Rifle at a target 10 multihexes ( 40 meters ) away. The first turn he fires two 3-round burst at +1 automatic fire, -4 for distance for each burst. Make a roll to hit for each burst. Then on the next turn fires in fully automatic mode: 13 rounds, +4 automatic fire, -4 for distance [recoil penalty]  At this point he only has 6 rounds left in his magazine.
+
+When trying to roll to avoid a character, the automatic fire bonus becomes a penalty. If John was in Zorgo's way at 5 multihexes, there would be a -2 penalty for distance and a -4 penalty for automatic fire during the roll to miss. Any rounds that miss John could still hit Zorgo's intended target.
+
+When firing at more than one target in a turn, there is a penalty of +1 per Multihex distance between the first target and the new target.
+
+If the foe takes 8 or more hits of damage during automatic fire he will fall down immediately and any remaining rounds will fly past his body. A character that takes 8 or more damage in a single turn falls down. If using rules for aimed shots critical hits, there may be different situations that cause the foe to fall.
+
+Sweep attacks under fully automatic fire can effect every character within the arc of fire. In addition to all typical bonuses and penalties, add a -4 DEX penalty for every target in a sweep attack. The attacker must first state the line of the beginning and end of the sweep. Starting with the first character is the sweep of automatic weapon fire, make a roll to hit, record how many bullets hit each target. then proceed to every character within the sweep. Unless the next target is immediately adjacent to the last, loose one round per hex between each target. The sweep continues until you reach the end of the intended arc, or run out of shots that turn. [roll to miss]
+
+A jam may occur any time a broken weapon result is encountered during a roll to  hit. Characters with the right skill are able to clear this jam. [increase of jam for successive turns of automatic fire]
+
+ 16.7  Shotguns
+Shotguns are capable of firing several different types of ammunition: birdshot, buckshot and slug. [Proposed: less lethal/rubber/wooden slugs, grenade, electric stun.] 
+
+When firing birdshot or buckshot the shot spreads as it travels away from the shotgun. There is a +1 DEX bonus for any target at less than half the effective range and +2 DEX bonus after half the effective range. This bonus does not apply when firing slug ammunition. It acts like a single bullet.
+
+Types of shot: Birdshot is typically used for hunting small game and has lower recoil and is used with shotguns set for a wide spread. Birdshot does 2d6 damage. Buckshot is used for larger game and in combat and is used in shotguns set for a narrow spread. Slugs are basically very large bullets fired from the shotgun and have the most recoil.
+
+The Hunting Shotgun is a pump action shotgun with a full length barrel and is showed loaded with birdshot. The Combat Shotgun is a semi-automatic shotgun with a full length barrel and loaded with buckshot. The Sawed-off Shotgun has a shorted double-barrel loaded with buckshot. Slugs can be loaded in any of these although its most likely used in the Combat Shotgun.
+
+The effective range with a shotgun will depend partial on the gun and partially on the type of shot. With birdshot / wide has 40% of the effective range for buckshot / narrow. Birdshot / narrow ? Buckshot / wide ? The effective range for slugs is twice buckshot / narrow. Divide damage by two if you hit any target past effective range. 
+
+Birdshot does 2d6 damage -2 ST to use, Buckshot 4d6, Slug 5d6, +1ST to fire 
+
+ Full Body Armor is twice as effective against birdshot and buckshot as slugs or regular bullets. Armored vests and jackets do not have this advantage.
+
+NAME
+DAMAGE
+COST IN CREDITS
+ROUNDS
+COST OF RELOAD
+SHOTS / TURN
+MASS IN KG
+ST ONE HANDED
+ST TWO HANDED
+
+Hunting Shotgun
+2d6 w
+150
+5
+3
+2
+3
+xx
+10
+Combat Shotgun
+4d6 n
+350
+8
+6
+3
+3.5
+23
+13
+Sawed-off Shotgun
+4d6 w
+
+2
+1
+2
+2.5
+22
+12
+
+[ Redo shotguns
+Hunting shotgun: long length, birdshot wide spread 2d6 damage, less recoil
+Combat shotgun: medium length: buckshot narrow spread 4d6 damage, mount for bayonet. Slug rounds: no spread, longer range, more recoil
+]
+
+
+ 16.8  Energy Weapons 
+All energy weapons are powered by batteries. The weapon chart lists the number of shots that may be fired before it drains a single battery. Once a battery is drained, it must be switched for a fresh battery using the Ready action much like reloading a firearm. Most energy weapons are capable of firing multiple shots of lower energy. The least powerful of these shots is 1d6 of damage. For example, the laser rifle may do up to 6d6 of damage, or when switched, it can fire 6 shots of 1d6 each, or 3 shots of 2d6. One is not required to fire more than one shot at the lower power levels. [Maybe battery capacities should be listed as d6 worth of shots say 48 or 50] [Built-in battery, battery belt pack, battery backpack.
+
+Energy weapons are less influenced by range – only half the distance penalty of firearms. Anti-laser smoke will act as R1 shielding on lasers until it dissipates. Head shots with lasers may cause blindness if the target wasn't wearing protective googles or face mask.
+
+ 16.9  Stun Weapons
+Don't cause much damage, but if they do at least one point of damage the target must make a 4d6/eSTR roll to avoid dropping ready weapons and being knocked down for two turns during which they may take no actions. Characters with Tough skill roll a 3d6/eSTR and Characters with Very Tough skill roll a 2d6/eSTR.
+
+ 16.10  Plasma and Mono-filament Swords
+They require the Sword skill and their effectiveness is enhanced by the Fencing skill. A Plasma Sword uses charged particles in a tight field to do its damage and is an energy weapon for all purposes. The Mono-filament sword uses a strong mono-filament wire supported by a force field and is not an energy weapon even though it is powered by a battery. Swords are regular weapons and can only attack into the adjacent hexes. If any weapon defends against a variable sword it is broken as a weapon although it can still defend. The same is true for Plasma Sword except when defending with another Plasma Sword [Vibroblades?]
+
+ 16.11  Fire
+[Make sure weapons producing fire damage match these new rules]
+Fire damage is based on the size of the fire and the amount of exposure to it. Generally, a weapon that is on fire does +2 damage; a burning torch is treated as if it were a club that is on fire. Realistically, a flaming weapon probably won't set the target on fire; if the target is highly flammable (doused in gasoline or the like) the chance is 50/50 on a successful hit. (Even for things like newspaper, one normally needs to apply the flame for a few seconds to get it to burn; see for yourself the next time you start a fire.) 
+
+For a target on fire: 
+
+* One limb only (such as the arm): 1d6-4 per Turn, until it's put out 
+* Half the body: 1d6-2 per Turn, until it's put out 
+* Whole body: 1d6 per Turn, until it's put out. 
+
+Stop, drop, and roll can put out a fire in one Turn; the character takes one full Turn of burning unless someone is helping. Running while on fire fans the flames; one Turn of running turns one burning limb into a half-body burn, and a half-body burn into a full body burn; running while burning increases whole body damage by +2 per Turn. The character must succeed on an Intelligence Check to avoid running (3d6 for one limb, 4d6 for half body, 5d6 for whole body); attempting to stop running while already doing so is at +1 die. 
+
+A character moving through a burning hex takes 1d6-4 damage, +2 per additional hex moved through. A character who stops in a burning hex takes 1d6-2 damage. A character who, for some reason, stays put in a burning hex, takes 1d6 damage per turn he stays there. If the fire has burned down to hot coals, add +1d6 to the damage (note that a hex that has just caught on fire, because of a spell or other reason, probably is not at the hot coals stage). A character must succeed on a 3d6 Intelligence Check to move into or stay in a burning hex. 
+
+Armor protects against all, some, or none of this damage, depending on the circumstances. Against burning attacks such as a torch, flaming arrow, or fireball, armor provides its full value. If the character is immolated, or is inside a hex of fire (via the spell, being inside a burning building, etc.), any non-fireproofed, medieval-type armor protects with half its value. If the character is wearing armor and is dunked or soaked in gasoline or some other flammable liquid that runs inside the armor and coats the character, armor won't protect against this. 
+
+ 16.12  Grenades and Molotovs
+[ Types: Concussion, Fragmentation, Stun, Flammable, Incendiary, Smoke, Gas ]
+
+All types of grenades can be thrown but because you aren't trying to strike an enemy, but an area near enemies, you take a -1 DEX adjustment for every multihex distant. There are no rolls to avoid like with thrown and missile weapons. If you miss your roll it still lands, but not in the place you wanted it to. After you miss, roll one die to determine the direction in which the grenade lands. The number of hexes in this direction is equal to margin of failure of the attempt to hit, that is, if you rolled 15 and you need a 13 or less it lands two hexes from its original target hex. 3, 4, and 5 are automatic hits, but produce no other effects, a 16 and 17 are automatic misses, and an 18 means that you have dropped it in your hex. Because of mechanical or electronic fuses, one does not have to light any type of grenade or molotov. Maximum Range for all thrown grenades is 3 x STR of the thrower in meters ( 2.25 x STR in hexes, 0.75 x STR in MH.)
+
+The effects of a molotov are immediate. All other grenades go off at the
+end of the turn thrown or at the end of the next movement phase. The player states which, before it is thrown. A molotov does 4 hits of damage
+to anyone in the hex it lands in and 2 hits to anyone in the adjacent hexes.
+Anyone in the target hex must make a 4d6/eDEX, to avoid being soaked by the burning liquid. Failure means the target is on fire. The liquid will keep burning in the target hex or on a soaked figure for 12 turns after it lands. It does 4 hits of damage immediately to anyone who moves into the target hex and stops and does 2 immediately hits to anyone that moves through the burning hex. The only armor that will protect against fire damage is full body armor and it will only protect a soaked figure for one turn. After that, he takes 4 hits/turn until the fire is put out (either diving underwater or a fire extinguisher). [reconcile this with W&W fire rules]
+
+A fire extinguisher counts as a one-handed weapon for size. All hits done by fire are cumulative before subtracting armor, that is, you add the total number of hits that fire does to you then subtract armor. If one ran through two fire hexes and stopped in a third (wearing armor that stopped 5 hits) he would take 6 hits. Fires also produces smoke in the hex they occupy, see Smoke Grenades, below. 
+
+A high explosive grenade does 4d6 damage in the MH it lands in and 2d6 damage in the adjacent hexes. Armored vests and jackets will stop only half as many hits as they normally do against this kind of damage. An incendiary grenade uses molotov rules but spreads a burning material which cannot be extinguished, into the MH it lands in. When it explodes it does 8 hits to anyone in the target MH it lands in and 4 hits to those in the adjacent hexes. when anyone moves into such a fire hex he takes 4 hits if he moves through and 8 hits if he stops. 
+
+Smoke and gas grenades produce clouds. On the first turn it is one hex in size. On the second turn it is a MH in size. The cloud will grow into the adjacent hexes until it has burned 5 turns, then it stops. The cloud dissipates two turns after the grenade has burned out. A slight wind will cause the cloud to drift. A strong wind will disperse the cloud with few effects on characters. A tear gas grenade causes a -4 DEX [ and -2 INT?] to everyone that stands or moves though the cloud without a gas mask. This penalty remains until the end of the combat. A smoke grenade causes a -1 DEX for every hex of smoke fired through, from, or into. It also acts as R1 shielding for energy weapons firing through it. Smoke is also produced from fires as a result of molotovs, incendiary grenades, and flame throwers. Unlike other grenade type weapons, smoke and gas grenades can be picked up and re-thrown. The person who re-throws it takes 2 hits of damage per turn he has the grenade in his hands. Only jacket and body armor protect from such damage, because they are the only armor to include gloves. A gas mask will protect from tear gas, but causes a -1 DEX. Even though a grenade can be thrown and gets adjustments as one, it is not a thrown weapon. [Some skillful characters may be able to throw back grenades before they explode under the right circumstances.] [Types of gas: irritant, corrosive, nerve. Types of protection]
+
+ 16.13  Flame Throwers
+These weapons fire and ignite a stream of oil, producing effects similar to those produced by molotovs. when firing one can select whether to shoot a small or large burst. One can fire 4 small, 2 large, or 2 small and 1 large burst before he runs out of fuel. A small burst will produce 3 hexes of fire and a large burst will produce 7 hexes of fire. when rolling to hit use missile weapon adjustments. When the oil lands place fire counters in the appropriate amount of hexes, connected, in any arrangement the firing player wants. If the roll to hit was successful one of these hexes could be placed in the target figure's hex. If it misses, a fire counter must be placed adjacent to the figure and the other counters placed adjacent to it and each other, but not in the target figures hex. If there are more than one figure within the area that the fire will land, roll to hit separately. when the oil lands in does 4 hits to anyone in the hexes the oil lands in and 2 hits in the adjacent hexes. Anyone in these fire hexes must roll 4 dice against DEX to avoid being soaked with oil. All other effect are the same as fires created by molotovs.
+
+If a figure with a flame thrower is hit from the rear hex, only, there is a chance that the flame thrower blows up. If the shot is an aimed shot, roll the amount of damage or less the shot does on 3 dice to see if the fuel ignites. All effects are the same as for the molotov, but one must make a 5d6/eDEX saving roll. One cannot wear a flame thrower at the same time one is wearing an energy shield. backpack, or backpack battery. 
+
+ 16.14  Knockdown Attack, and Throws
+These attacks all work similarly. A knockdown attack is also called a slam or, if wielding a shield, a shield-rush. A slam is just running into someone with a shoulder or body mass, while a shield rush is the same thing only leading with the shield. In a throw, the attacker actually grabs a target and tosses him. In all cases, the attacker must make a successful attack roll. The target then rolls a 3 die Strength Check (based on his unwounded Strength); if he fails this check, he is down on the ground. (Anyone trained in Martial Arts throwing may substitute a Dexterity Check for a Strength Check.)  If the target is stronger than the attacker, he receives a bonus to his Strength Check equal to the difference; if weaker, he receives a penalty equal to the difference. 
+
+ 16.15  Hand-to-hand and Unarmed Combat
+There are two ways to do combat with hands and feet: attacking a foe in an adjacent hex and Hand-to-hand combat within the same hex. One's strength determines the damage in both types of combat. See Unarmed Combat Damage. It also determines damage from knives and brass knuckles. There are also other combat options than just attacking or defending. Martial Arts skills greatly enhance HTH and Unarmed Combat.
+
+ 16.15.1  Unarmed Combat Damage
+Use the following table to determine damage from an unarmed attack in regular or HTH combat. If the attack roll results in a dropped or broken weapon result, the attacker does 1d6 damage to themselves.
+
+STR
+Damage
+HTH
+Brass Knuckles
+One-Handed Club
+Two-handed Club / Knife HTH
+8 or less
+1d6 – 4
+1d6 – 3
+1d6 – 2
+1d6 – 1
+1d6
+9 or 10
+1d6 – 3
+1d6 – 2
+1d6 – 1
+1d6
+1d6 + 1
+11 or 12
+1d6 – 2
+1d6 – 1
+1d6
+1d6 + 1
+1d6 + 2
+13 or 14
+1d6 – 1
+1d6
+1d6 + 1
+1d6 + 2
+1d6 + 3
+15 or 16
+1d6
+1d6 + 1
+1d6 + 2
+1d6 + 3
+2d6 – 2
+17 to 20
+1d6 + 1
+1d6 + 2
+1d6 + 3
+2d6 – 2
+2d6 – 1
+21 to 24
+1d6 + 2
+1d6 + 3
+2d6 – 2
+2d6 – 1
+2d6
+25 to 30 
+1d6 + 3
+2d6 – 2
+2d6 – 1
+2d6
+2d6 + 1
+
+Damage done in HTH combat is the above +1
+Damage done in HTH combat with a knife is above +4
+Damage done in HTH combat with brass knuckles is above +2
+Damage done in regular combat with a one handed club is above +3
+Damage done in regular combat with a two handed clubs is above +4
+Rocks used as thrown weapons do the damage shown.
+
+ 16.15.2  Standard Damage Progression 
+When converting bonuses to dice, the progression is: 1 point, 2 points/1d6-4, 3 points/1d6-3, 1d6-2, 1d6-1, 1d6. Dice are additive to this; 1d6+2 with an additional +1 becomes 1d6+3 or 2d6-3, an additional +1 makes it 2d6-2, and so on. When a value falls on the cusp between some number of dice +3 and one more die -3, (for example, 1d6+3 and 2d6-3) usually the better choice is fewer dice with the bonus. 
+
+See the following table: 
+
+Damage Progression Table
+
+
+Bonus:
+0 dice
+One die
+Two dice
+Three dice
++1
+1 point
+1d6+1
+2d6+1
+3d6+1
++2
+2 points/
+1d6-4
+1d6+2
+2d6+2
+3d6+2
++3
+1d6-3
+1d6+3/
+2d6-3
+2d6+3/
+3d6-3
+3d6+3/
+4d6-3
++4
+1d6-2
+2d6-2
+3d6-2
+4d6-2
++5
+1d6-1
+2d6-1
+3d6-1
+4d6-1
++6
+1d6
+2d6
+3d6
+4d6
+
+[a]I know this part is wonky. I haven't ever gotten around to fixing it. I've actually got a fix in email somewhere, I just haven't ever implemented it.
+
+	 
+
+When adding bonuses to values that already have bonuses or penalties, a full dice value +1 goes to the top of the next column. For instance, 1d6+3 with an additional +4 in bonuses becomes 1d6+7 which becomes 2d6+1, while 1d6-3 with +4 in bonuses becomes 1d6+1. 
+
+This table can also be used to determine base damage done by Strength value; the 0 dice column is simply Strength equal to the listed bonus, while the one die column is equal to 6 plus the bonus, the two dice column 12 plus the bonus, and so on. A punch is considered a bludgeoning attack, while any other attack does damage by weapon type. (For example, a character with 10 Strength (read the One die column at +4) does 2d6-2 bludgeoning damage with a punch, while a character with 14 Strength would do 2d6+2.) 
+
+ 16.15.3  Attempting Hand-to-hand Combat
+A character may attempt Hand-to-hand combat only under the following circumstances:
+1] The enemy is unable to move; he has his back to the wall.
+2] The enemy is kneeling or prone.
+3] The enemy has a lower MOV.
+4] The attack comes from the rear hex.
+5] The enemy also wants to attempt HTH Combat.
+
+Attempting HTH combat counts as an attack. If any of the above circumstances allow the attempt, move the character into the enemy's hex. If the attacking character has a knife or pistol ready, they may use it within HTH Combat, otherwise they must drop other weapons or items in their hands. Roll one die to  determine how the defender act using the following table:
+
+2 or less
+The defender drops all weapons or other items in their hands ( unless it was a pistol or knife ) and both character's fall to the ground.
+3 or 4
+As above, but if the defender has a pistol or knife on their belt, they have in ready within HTH Combat on the next turn.
+5 or 6
+The attacker stays in their hex. The defender does not drop their weapons and HTH Combat does not take place.
+7 or more
+As above, but the defender gets one automatic hit and then calculates damage from their ready weapon. The defender may then pick another option and complete their turn.
+
+Modify the above roll as follows: 
+If the attacker comes from behind -2
+For every level of Martial Arts skill that the Defender has above the attacker: +1
+
+If any more characters attempt to join an existing HTH Combat, no roll is needed.
+
+Characters engaged in HTH combat have a +4 DEX to hit each other. Any character outside of HTH combat wishing to attack them with a melee weapon also get a +4 DEX. If one, engaged in HTH combat, misses their target they must roll to avoid any other characters in HTH combat. If any adjacent character, outside of HTH combat, attempts to attack another character within HTH combat misses them, then they must roll to avoid all other characters in the brawl. If anyone, outside HTH combat, attempts to attack characters within HTH combat with a thrown or missile weapon, roll to hit first then roll randomly to see who it hit.
+
+ 16.15.4  Using Martial Arts Skills
+Using Martial Arts skills is limited to characters who are unarmored, or who's armor and/or shields reduce their DEX by no more than 2 or is wearing an armored vest.
+
+Martial Arts Level 1 gives +1 damage to done in regular unarmed combat and HTH
+Martial Arts Level 2 gives +2 damage and the character may attempt to knockdown their enemy.
+Martial Arts Level 3 gives +3 damage, the knockdown option, the ability to defend bare handed against all weapons, and they may attempt to throw their enemy.
+Martial Arts Level 4 gives all the abilities of Martial Arts 3 plus all their side hexes count as front hexes, and their rear hex counts as a side hex. When attempting to defend, the attacker must roll 5d6/eDEX – 5 is an automatic hit, 24-26 are automatic misses, 27-28 are dropped weapons, 29-30 are broken weapons.
+Martial Arts Master gives all the abilities of Martial Arts 4 plus when anyone tries to hit them in a normal attack they must use 4d6/eDEX. When anyone tries to hit them while they are dodging they must use 5d6/eDEX. When they try to attack bare handed and do 3 more more hits on an enemy, they have hit a critical area and the enemy must drop their weapon.
+
+ 16.15.5  Knockdowns and Throws.
+If allowed, knockdowns and throws can be done instead of melee attack. Roll Opposed Rolls 3d6 against effective Strength. Characters with Martial Arts training may choose to use eDEX instead of eSTR and they get a +1 for each level of Martial Arts skills. 3, 4, or 5 is always a success. 16, 17, or 18 is always a failure. If successful the opponent is knocked to the ground. A throw is resolved like a knockdown, but if successful the attacker knocks them to the ground and moves them one hex.
+
+ 16.15.6  Subduing a Foe
+A character in HTH combat may attempt to subdue their enemy. Opposed rolls on 3d6 against eSTR are made. A character with Martial Arts training may optionally use eDEX instead of eSTR. Add +1 for every level of Martial Arts skill the character has. If the roll is successful the enemy can not move or take any other action for two turns. After that they may make another opposed rolls to break away, otherwise they have been subdued. Any attacks against a subdued foe are an automatic hit.
+
+ 16.15.7  Disarm Opponent
+In HTH combat, if your enemy has a ready weapon, like a knife or pistol, and you are unarmed, you may attempt to take it away from them or force them to drop their weapon. Make opposed rolls vs effective Strength. Add +1 for every level of Martial Arts skill the character has. Success means the enemy has lost their weapon and its now your ready weapon or (your option) on the ground.
+
+ 17  Terrain and Environmental Factors
+Battles are not always fought in flat unobstructed rooms. Adverse conditions
+add variety and keep the game from becoming boring quick-draw situations. The number and type of adverse condition should be agreed upon by the players before combat occurs, but at least one type should be used in even the simplest
+games.
+
+ 17.1  Broken Ground 
+Broken ground and other bad footing subtracts 2 from the DEX of any moving or fighting characters, except those that do not move and use thrown or missile weapon. Anyone that moves more than half his MOV must roll 3 dice against DEX, with the -2 DEX for bad footing. Failure means the figure falls down somewhere in this path, roll randomly to find where. Characters with Acrobatics need only roll 2d6/eDEX
+
+ 17.2  Water 
+Water that is ankle deep (10 cm) will have the same effects as broken ground. water that is knee-deep (50cm) has the same effects and cuts MOV by half. Water that is deep cannot be fought in effectively.
+
+ 17.3  Mud And Snow 
+Treat mud and snow as broken ground. Mud also reduces MOV to half (rounded up) at ankle depth and to one-quarter at knee depth. Snow cuts MOV by 4 at ankle depth and 8 at knee depth. Minimum MOV is always 1. [rolls for slipping]
+
+ 17.4  Smoke, Fog, and Dense Atmospheres. 
+These produce a -1 DEX to hit for every hex fired through or into. Laser weapons also have a -1 damage for each smoke hex it fired through. Any character standing in smoke without a gas mask is also at a -2 DEX. Anti-laser smoke reduces laser damage by 1 die – just like R1 shielding.
+
+ 17.5  Complete Darkness 
+Complete darkness subtracts 8 from your DEX and you must roll 3 dice against your DEX to avoid falling if you move more than half your MOV. If anyone fires a missile or thrown weapon, however, his DEX is reduced to 5 (not reduced by 5, but your DEX is considered 5, only lucky shots hit.
+
+A flashlight will completely remove all penalties for 3 MH in the direction
+it is pointed for the one that is holding it and anyone firing at him. It
+is small one-handed item for size and must be ready to turn on and point.
+
+ 17.6  Ice 
+If anyone is standing or moving 5 MOV or less roll 2d6/DEX to avoid falling down. If he moves more than 5 MOV he rolls 3 dice. Failure means the figure falls down somewhere in his path, roll randomly to see where. He must stand up or crawl next turn. One cannot fall if he is prone, kneeling, or crawling.
+
+ 17.7  Walls 
+A half-meter wall (stone, brick, dirt, sandbags, etc.) will completely
+protect a prone figure behind it. He can still fire over or around it but
+exposes himself. See Concealment. A meter wall does the same for kneeling
+and prone figures, but prone figures cannot fire over it. A two meter wall
+has the same effect for all figures, but only standing figures can fire over
+it. walls over two meters completely block fire and no one can fire over them.
+A half meter wall does not protect from a standing figure less than 3 hexes away.
+A meter wall does not protect from one next to it. One can throw grenades
+over a wall without exposing himself, but he has a -8 DEX because he cannot
+see what he is throwing at. walls that are 1 meter high cannot be moved over
+they must be jumped over using the rules below. walls over 1 meter cannot be jumped over.
+ 17.8  Pits And Holes 
+Pits, sometimes called foxholes, protect figures in them as though they were behind a wall of the appropriate depth (see above). A pit that is a meter deep or more must be jumped over, instead of walked through. See Jumping and Falling.
+ 17.9  Changes In Gravity 
+Gravity changes the amount your weapons and armor weigh and thus increase or decrease your encumbrance. This can reduce your MOV and/or DEX. See Weapon Limitations in the attacks section to find these effects. You first must decide how much the gravity is increased or decreased. Treat the Earth as having a gravity of 1; doubled gravity is 2, half gravity is 0.5. A gravity of 1.72 will completely incapacitate the average (STR 10) human. Multiply the total weight of what you are carrying by the gravity. This is your new total weight. Subtract 1 from the gravity factor, then multiply it by 70. Add this number to your weight carried. This adjustment is due to your own weight. (A human weighs 70 kg). Suppose Bruce (see page 7) goes fighting on a 0.7 gravity planet. His new weight would be 5.5 x 0.7 or 3.85. His own weight would be -0.3 x 70 or -21 to yield the effects of having -45kg. If he were on a 1.2 gravity planet the effects would be the same as carrying 20.6 kg. It also changes the distance that one can jump. If you wanted to jump a 2-hex wide hole under 0.5 gravity it would count as a 1 hex wide hole; the same hole under 1.5 gravities would count as a 3 hex wide hole. [ increase effective STR ]
+
+ 17.10  Microgravity 
+Microgravity can be a very hazardous environment to fight in. It occurs in objects in deep space, orbit or freefall. If you are running, fire a weapon that has recoil (that is, it requires STR to use) or are hit by such a weapon, there is a chance that you lose your footing and start floating. If you move more than 3 hexes or meet any of the other conditions make a saving roll of 4 dice against your STR + DEX, halved. If you are holding on a rail of handhold or another person anchored in such a way (using one hand to do so), subtract one die. If you are prone it is an automatic success. If you have Astrobatics skill subtract two dice. If you fail this saving roll you are floating. If you were running you are floating in the direction you were running at the same number of hexes per turn every turn until you regain control or run into something. You can voluntarily start floating, but cannot voluntarily stop; you must make the same saving roll. If you fire or are hit by a recoil weapon you are moving at one-quarter hex per turns if it requires a two-handed ST of 6 or less. The person who got hit moves at 1 hex every 4 turns. Additional shots automatically effect speed, so if he got hit by 3 more shots after he lost his footing he would be moving at one hex/turn. Weapons whose two-handed ST is between 7 and 14 push people at one-half hex/turn, and over 14 at one hex/turn. If you fired the weapon, you are floating in the direction opposite the one you fired it in, usually directly backwards. If you got hit by the weapon you are floating in the direction it was fired towards. If you got hit in the back you would be floating forward. One that loses footing cannot change direction or speed by using his feet. A figure can turn turn his counter by one hex side/turn; two if you have Astrobatics. Remember that you can only fire into your front hexes. To recover from floating pick the Stand Up option and roll the saving roll but add one die. All other adjustments occur. You stop automatically if you hit a wall, taking 1 hit of damage for every 3 hexes/turn you move. You can also turn and fire your weapon to stop moving. If you hit a person he must make the saving roll to avoid floating. If he is successful you stop moving. If he is not both of you are floating at half your original speed. If your speed is reduced to 0 you stop moving but are still floating. In such situations where microgravity occurs and you outside (spacecraft hull, asteroid, etc.) one might use a tether. Normally in such a situation, one could float off and never come back. A tether line limits movement and floating to the number of hexes it is long. One can pull himself on a tether at half his MA. A tether has a ST of 25 if you try to break it and is a -8 to hit with a throw or missile weapon. 
+ 17.11  Vacuum or Hostile Atmospheres 
+To fight under these conditions one must be wearing what is commonly called a spacesuit. A typical spacesuit has R1 shielding built in and stops a total of 2 hits of damage. One can wear either one set of armor or one set of shielding, not both. The spacesuit produces a -2 DEX and a -2 MOV. If any hit penetrates a spacesuit a leak occurs. One must spend all of the next turn patching one leak or take one die damage. No matter how many leaks there are one always taken the same damage. For every second turn there is a leak you take 2 dice damage; for every third, 3 dice, etc. Hostile environments, such as poisonous or poisoned atmospheres differ only in damage produced; players decide what it is.
+ 
+ 18  Experience Points 
+Characters gain Experience Points from adventuring, which are awarded at the end of an adventure. Experience Points can be spent to improve Attributes, buy new spells or Skills, or buy bonuses to spell or Skill use. 
+
+Examples of how experience points can be rewarded: 
+
+1 point for being involved in a fight.
++1 point for getting multiple hits in on one or more targets, and/or for successfully defending.
++1 point for winning the fight.
+ 
+1 point for making one or more noncombat Attribute Checks (whether or not related to Skills ) 
++1 point for doing so for making multiple Skill or Attribute Checks on multiple occasions. [ maybe this should be only for attribute checks that succeed by a wide margin like 10 ]
++1 for winning a conflict through use of noncombat Skill or Attribute Checks or for avoiding a fight through noncombat Skill use or Attribute Checks 
+
++1 point good roleplaying bonus 
++1 point for a situation in which good roleplaying results in the character's defeat. 
+ 18.1  Redeeming Experience Points 
+Buying a new Skill costs ((20 - character's INT) + Skill's minimum INT) x number of Slots the Skill costs 
+
+You may substitute DEX for INT in here, if all of the following conditions apply: (a) the Skill is DEX-based, or requires a DEX Check (including combat Skills that use DEX), (b) the character's DEX is higher than the Skill's minimum INT. Similarly, a STR based skill may have its cost determined against the character's STR.
+
+Buying either a new Skill requires some way to learn the skill, plus time spent in training. It doesn't have to be noncombat time, if sufficient time passes during an adventure for training to occur, assuming the character has access to the appropriate teachers and materials during that time.
+ 
+The character's maximum number of Skills no longer apply when buying additional Skills or bonuses. 
+
+The following table shows the amount of EP that is required to learn a skill per slot of that skill.
+
+
+
+
+
+
+
+
+
+
+Skill Minimum INT
+
+
+
+
+
+
+
+
+
+Character INT
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+8
+19
+20
+
+
+
+
+
+
+
+
+9
+18
+19
+20
+
+
+
+
+
+
+
+10
+17
+18
+19
+20
+
+
+
+
+
+
+11
+16
+17
+18
+19
+20
+
+
+
+
+
+12
+15
+16
+17
+18
+19
+20
+
+
+
+
+13
+14
+15
+16
+17
+18
+19
+20
+
+
+
+14
+13
+14
+15
+16
+17
+18
+19
+20
+
+
+15
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+16
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+ 18.2  Buying Skill bonuses 
+Characters can buy bonuses to Skills. If the Skill has an improved, advanced, or expert version, the character must already have that version of the Skill. Bonuses cost 3 points times the Skill's slot cost for +1, to a maximum of +3 to one Skill. 
+
+To buy a bonus that applies to both the basic and advanced versions of a Skill, spend points based on the highest slot cost of all of the Skills in the chain. 
+
+The bonus must not duplicate an existing Skill. 
+
+ 18.3  Improving Attributes 
+Characters can buy up their Attributes with Experience Points. If the new Attribute point would bring the character's total points into the 31-40 range, the Attribute point costs 20 Experience Points. If it would bring the character into the 41-50 range, it costs 40 Experience Points. In the 51-60 range it costs 80 Experience Points. And so on. If the character is low enough points that it would bring him into the 21-30 range, it costs 10 points, and to 20 or less would cost 5 Experience Points. 
+
+It's assumed that an active adventuring life will give the character opportunities to train up his Dexterity or Intelligence, but the character must specify if he's working on Strength. 
+
+There are no hard and fast rules for how much time it takes to buy a new Skill or spell, to buy bonuses to a Skill or spell, or to buy up an Attribute, except that it generally takes weeks (to buy bonuses) or months (to buy a new Skill or spell or increase Attributes). 
+
+ 19  Types of Scenarios 
+Skirmish can be played as either an arena combat game, an interior adventuring game, or as a replacement for another modern or science-fiction roleplaying game ruleset. 
+
+ 19.1  Arena
+When creating an arena, it can be sufficient to draw a playing field on hex paper. It's recommended that the area contain plenty of obstacles, and an environment conducive to being used in combat (anything from sand that can be kicked into an opponent's eyes to old, rusted, weapons (or pieces thereof) laying around, bones and body parts from previous combats, bloodstains, etc.) There can be additional restrictions placed on participates, for example: no missile weapons, no automatic or heavy weapons, no grenades, unarmed combat only.
+
+Arena games are good for player vs. player type games, with or without a referee, or as a sideline to a bigger adventure or campaign. Arena games should include a basic goal or victory condition other than just killing off the other side, as well as a beginning setup (including where characters start, their basic weapons and armor, etc.). 
+
+Combat continues until all on one side have fallen or escaped through the entrance hexes on the side of the board they started at. Unconscious figures cannot be slain. Each victor gets 100₢. Each loser gets 25₢ unless he ran away unhurt, in which case he would get nothing. 
+
+Experience points can be awarded as follows: Each character gets 1 point for  participated in combat. ( Cowards get nothing ) 1 point for being on the winning side. 1 point for being the one to kill or subdue each foe. 1 point if you also took damage from a foe while in combat. For more examples see Section 15 Experience Points.
+
+Wargame style scenarios can also be treated as arena games, especially with multiple players on a team and a GM. Experience points and other rewards may vary determine by the GM.
+
+ 19.2  Duel
+Setup like arena combat, but continues until one side is dead, or ( if agreed upon ) unconscious or subdued. The victor(s) get all items their foes had and may keep these items or resell them at 75% of their original price. Surviving foes may only keep their wealth and items they did not carry into the arena. 
+
+ 19.3  Practice Combat
+Players wear no armor and use practice, stun weapons, or only fight hand-to-hand instead of normal weapons. These can be supplied and returned if the character does not have his own. Practice weapons have the same characteristics as stun weapons, but do no damage. Hits are recorded electronically. One loses when becomes unconscious (with stun weapons) or accumulates a certain number of recorded hits (for practice weapons) Winners get credits of any amount agreed on by the players from the loser and each character gets 1 experience point. A characters can not usually be killed in practice combat and any wounds are quickly recovered.
+
+ 19.4  Interior adventures
+Characters can use these rules to explore the interior of various locations such as a spaceships, space stations, buildings or caverns. They are usually drawn or mapped out on hex paper or square-ruled graph paper. Interior adventures usually have a GM, but self guided adventures are also possible.
+
+ 19.5  Replacement for another game
+GMs and players can use adventures as is, converting opponents using the conversion rules at the end of the document. [conversion rules maybe]
+
+ 19.6  Handicap
+If an experienced character is put against a novice character there are ways to balance the game. One way is to put some type of adverse condition that would be to the disadvantage of the experienced one, such as broken ground on his half of the board; giving the novice a foxhole to fire from, etc. Another giving the novice advanced weapons or armor.
+
+The number of different combat situations are countless. Because of this players can invent their own scenarios. Some interesting ones are on a spaceship, maybe microgravity or vacuum but most certainly a small map board. Aliens can be used. Look in your favorite science fiction novel. Most only differ in attributes some have special abilities, such a free marksmanship skill. Mechanical robots can have STR and DEX attributes but there "intelligence" is different and would not have a INT in a human's sense, but they do have program restrictions, made by the players such as it cannot kill or it cannot use the dodge option, etc.
+
+ 20  Combat Example
+[NEEDS TO BE REDONE TO REFLECT NEW RULES]
+The combat in the introduction took place during the development of the game. This is how it went. First look at the character sheets‘
+
+Bruce Corr
+STR=11 DEX=12 INT=9 MOV=10
+EP=26
+
+Skills: 
+Knife (1), Sidearms (1), Marksmanship (3), Acrobatics (3)
+
+Item				Mass		Cost
+Heavy Alloy Vest		1 kg	100₢
+Graphite-Epoxy Helmet
+Visor
+Autopistol 			1.5 kg 130₢
+3 reloads (24 rounds) 	nil		3₢
+4 Riot Grenades
+Totals: 			2.5 kg	233₢, 17 left over
+
+Autopistol ready, 
+2 reloads, 4 grenades secondary.
+
+Zorgo
+STR=11 DEX=12 INT=9 MOV=12
+EP=0
+
+Skills:
+Shoulderarms (1), Thrown Weapons (2), Marksmanship (3), Running (2)
+
+Item				Mass		Cost
+Rifle						90₢
+12 Rounds ( 2 Reloads )		 2₢
+Kevlar Vest				100₢
+Grenade					50₢
+
+
+
+
+
+Rifle ready, 
+Grenade secondary
+
+Bruce has been in a duel before and has won, so he is an experienced character. Zorgo is a beginning character. The players decide that Zorgo should be given the initiative for the first and 2 extra credits to buy a grenade and Bruce should start without a ready weapon. Combat ensued like this:
+
+TURN 1- Zorgo has the initiative and lets Bruce move first. He drops to prone. Zorgo also drops to prone. Zorgo has the higher effective DEX: (DEX = 12 + 3 for Marksmanship -3 because Bruce is prone + 1 for firing a rifle without moving more than one hex = 13) He gets to fire first. He can fire two shots before Bruce acts. Both hit. The total amount of damage (greatly reduced by Bruce's armor) is 2. Bruce has an effective DEX of 12; he does a quick draw but misses his roll to draw the weapon so he cannot fire it this turn. Zorgo can and does fire one more shot which hits but does no damage.
+
+TURN 2 Zorgo wins the initiative and lets Bruce move. Bruce‘ does not move. Neither does Zorgo. Zorgo decides to aim this turn. Bruce readies his weapon.
+
+TURN 3 Bruce wins the initiative. Zorgo does not move. Bruce crawls one hex and Dodges. Zorgo fires 3 shots. The first with an additional DEX adjustment of +1 due to his aiming, hits doing 2 hits of damage. On the second he rolls an 18 broken weapon; roiling one die he finds it permanently broken. He can never use that gun again.
+
+
+TURN 4 Bruce gets the initiative. Both do not move. They roll one die because they both have the same effective DEX. Zorgo goes first. He Stands Up and cannot do anything else. Bruce fires 5 rounds from his autopistol. Four rounds miss but one hits doing 2 points of damage.
+
+TURN 5 Zorgo gets the initiative. He goes first, moving 2 hexes and reading
+a grenade. Bruce does not move. Bruce can fire the last 4 rounds from his
+gun. The first hits doing 2 points of damage; so does the second doing 4 points of damage. The third hits doing 4 points of damage and killing Zorgo. For EXP he gets 22 for the hits he did on him and 24 for killing him, but subtracts 24 due to the 12 hexes between them when Zorgo died. He also gets an extra 252 Credits because this was a duel. Bruce now has a total of 48 EXP, 205 Credits, and all the weapons he started with. He decided to sell all his enemies' weapons. 
+
+ 21  Optional Rules
+ 21.1  Optional Advanced Initiative System: 
+All characters make a Dexterity Check, and go first in order from highest to lowest margin of success. Skills of Tactics and Strategy are applied.
+ 21.2  Movement
+MOV=(STR+eDEX)/2    Movement is equal to the character's (Current Strength + Effective Dexterity) / 2 (round up). Care should be taken when calculating this value, as it can change even during combat; wounds, armor, and other factors can all have an effect on the character's Movement. 
+
+ 21.3  Fatigue / Nonlethal Damage
+If using the Optional Movement Rules above, a character loses 1 Movement for every 2 damage he takes (this is calculated from Strength loss; don't recalculate Movement for Strength then apply this as additional penalty!). 
+
+Optional Nonlethal Damage Rule: Damage is divided into two types: Lethal and Nonlethal. There are four types of attacks: 
+
+* Stunning, which do all of their damage as Nonlethal only 
+* Bludgeoning, which do 1/3 of their damage as Lethal and 2/3 as Nonlethal 
+* Damaging, which do all of their damage as Lethal 
+* Shock, which do all of their damage as Lethal, and the same amount as Nonlethal 
+
+All other attacks, and spells that are not specified, do their full damage as Lethal. Strength loss from spellcasting is considered to be Nonlethal damage. As in the Optional Spellcasting Damage Rule, a character falls unconscious when he has taken a total amount damage (Lethal and Nonlethal) equal to his Strength, but only dies when his Lethal damage equals his Strength score. 
+
+Armor stops Lethal damage first, and healing spells heal Lethal damage first, unless otherwise specified. 
+
+A character can take a breather; he does nothing else and recovers 1d6 worth of nonlethal damage. This means he does nothing else during the turn; no movement, no fighting, no spending STR on maintaining spells (though any spells that aren't up for upkeep this turn, or any spells that cost 0 STR for upkeep, will continue). If he takes any damage at all through armor, lethal or nonlethal, during the Turn, then his breather is spoiled and he does not recover. Other characters are at +3 to hit a character who is taking a breather. 
+ 
+A character who goes unconscious essentially spends every turn taking a breather; he recovers 1d6 nonlethal damage each turn. He becomes conscious once he recovers more STR than the amount of lethal damage he has taken (note that that's greater than, not greater than or equal to; a character who has taken 2 lethal damage has to recover to 3 STR or better before he becomes conscious). Example: A character with 10 STR who has taken 12 damage, 4 lethal and 8 nonlethal, is now at -2 STR. Since he has taken 4 lethal damage he has to recover to greater to 5 or more STR, so he has to recover at least 7 STR worth of nonlethal damage. 
+
+A character who has gone unconscious due to taking a total of more than half his STR in lethal damage won't wake up during this combat; it takes 1 minute per additional STR loss to wake up, and he has to be receiving some kind of assistance.
+* Take a breather: (Optional)  A character can recover 1d6 nonlethal damage and do nothing else.
+Optional: each turn of melee attack, defense or full run increase fatigue by one
+[Should a new attribute: Endurance, be introduced to track this?]
+ 21.4  Aimed Shots and Critical hits
+In this game hits represent generalized injury. Double and Triple damage represent hits in vulnerable places, like the heart. Damage can also be taken in special critical places producing adverse effects without necessarily killing the target. These hits can be either accidental or intentional. If on any to-hit roll on 3 or 4 dice you roll a 3, 4, 5, or 6 you have a chance of making a critical hit. Roll 2 dice to find where it is. A 2-7 is not a critical hit. 8 is right leg, 9 is left leg, 10 is weapon arm (usually right unless otherwise stated), 11 is other arm, and 12 is head.
+
+One can also select these areas as the target of an attack. The DEX adjustment for making a head shot is -6. One at the arms or legs is -4. If a shot at the head is successful and does 2 or more hits the target has a -4 DEX next turn. If it does 5 or more hits he is stunned and falls unconscious. If a shot to the arm is successful and does 3 or more hits the target drops his weapon if it hit the weapon hand. If it does 6 or more hits the arm cannot be used until it heals between combats. If it does 8 or more hits the arm is lost, permanently. All other damage above 8 passes by and is not applied to the target.
+
+ If a shot to the leg does 3 or more hits he must immediately drop to the kneeling position. He remains down for the rest of this turn and the next turn. On the third turn he may standup and do any other option. If it does 6 or more hits he falls and the use of the leg is lost until healing occurs between combats. His MOV is reduced to 0. If a hit to the leg does 18 or more hits, the leg is lost permanently; Your MOV is reduced to 0 for this combat and is permanently reduced to 4 for any other combats. All other damage above 18 passes by and is not applied to the target.
+
+ 21.5  Quick-Shot
+[Quick Actions: Draw and fire, leave cover and fire, quick drop, quick reload] 
+
+One may attempt a quick shot of short missile weapon (like a pistol) or thrown weapon (like a knife)  They may try only if he does not have a ready weapon and there is a short missile or thrown weapon on his belt. The roll to hit is increased by 1d6, thus its usually 4d6 against most foes, but 5d6 against a dodging foe. If two figures with the same eDEX perform a quick draw at each other, instead of randomly deciding who fires first, use the roll to draw, the most successful, that is has the highest margin, fires first. 
+
+[critical failure on quick-shot causes attacker to drop weapon or injure himself] 
+[critical failure on leave cover and fire allows foe to get in a shot]
+
+You also get special adjustments and rules concerning automatic weapon fire. If a figure with a shoulderarm weapon becomes engaged he may either fire off one shot (or two shots for the assault rifle and machine gun on full automatic fire) and drop it or use it as a melee weapon, i.e. club or bayonet. If one fires it while using a bayonet he must then drop it.
+ 21.6  Partial Armor
+An armored jacket or vest can be worn instead of full body armor. The advantage of the jacket is that it can be worn without loss to MOV. An armored vest or helmet can be worn without loss to both DEX and MOV. But, anytime an aimed shot or a critical hit to the legs, for the jacket, or to the legs and arms, for the vest, occurs, the armor does not stop it. The same is true for jacket and vest shielding. Figures without helmets are not protected from critical or aimed shot to the head. Flash Goggles and Visors protect from the bright flashes associated with energy weapons. If a figure without googles or a visor is hit in the head by an energy weapon he must make a 4d6/eDEX saving roll to avoid blinding. The permanent disability of -4 DEX occurs when blinded. A helmet without a visor is also not protected from aimed shots with a thrown knife.
+
+Against fire, grenades, and shotguns the armored vest or jacket is not as effective. Any vest stops only one third, rounded down, as many hits against these weapons. The jacket stops one-half as many hits, rounded down. Full body armor is not effected by this.
+
+See Armor table for details about jackets, vests and helmets for each armor type.
+ 21.7  Degraded Armor
+This will take extra record keeping but is more realistic. As armor takes hits it will break down until it is completely useless. Full body armor will take 40 times the number of hits it will absorb before it is degraded. Thus Graphite-Epoxy, which absorbs 13 hits will take 520 hits before it is useless. Shielding will take 40 times its R rating in damage dice of absorption before it is useless. R2 shielding will absorb 80 dice of damage. Armor that is taken to an Armorer before it is more than half damaged can be fully repaired (cost?)
+ 21.8  Opportunity and Suppression Fire 
+A character attacking with a missile or thrown weapon may elect to target a hex instead of a particular foe. A character with a melee weapon may select an adjacent hex in their hostile zone, for example, in anticipation of a foe coming through a doorway. Once this action is declared, the attack takes place during the foe's next movement phase when a foe enters the targeted hex (of nearby)  The attacking player may wish to write down the targeted hex to conceal the exact location from opposing players. The roll to hit is done immediately, during the foes movement phase, instead of during the attackers normal action phase. If a foe moves into that hex during the movement phase then opportunity fire takes place immediately. Similarly if a foe that was under cover, leaves cover for any reason during the action phase, opportunity fire takes place during the foe's action. The attacker is at a -2 DEX penalty, but this can be removed if they had been aiming. In general, only a single foe may be attacked during opportunity fire, even with a weapon capable of multiple attacks although other foes may be hit by a weapon that does blast damage like a shotgun or grenade. The attacker may not move or change facing during opportunity fire, although they may stop opportunity fire, change facing or move no more than one hex, then declare opportunity fire again during the attack phase, giving their foes a brief chance to move. Normal Range penalties apply. Change target hex penalty: The attacker may attack a foe who presents themselves, but it not in the target hex, however a -1 DEX penalty is applied per hex between the declared target hex and where the foe is. 
+
+Similar to opportunity fire, an attacker selects a hex that they will be actively firing to. There is no additional DEX penalty but they expend the maximum shots/turn of the weapon for each turn of suppression fire, even it no foe enters the hex, or no foe is hit. Multiple foes may be hit up to the shot fired by the suppressing weapon. Normal Range penalties apply. Automatic weapons are particularly suited for suppression fire.
+ 22  Proposed Rules
+ 22.1  Gauss / coil guns
+
+ 22.2  Exoskeletons / Powered Suits
+
+ 22.3  Death and Revival
+
+ 22.4  Changing scale
+
+ 22.5  Long distance 
+Long distance shooting and maximum range of weapons. When firing missile weapons at targets at very long distances (those well beyond the range of the board) there are limits of maximum range base on each weapon's characteristics. Maximum effective range is the maximum distance before there is a reduction in the amount of damage that weapon does. Marksmanship skill also gives more advantages when shooting at long distances than just the increase chance to hit.
+
+[Chart]
+
+ 22.6  Square grid 
+If using a square grid, one multihex is a group of nine squares arranged three-by-three; it might prove useful to set one multihex to be 4 meters by 4 meters. In a square grid, assume that for lateral movement, one diagonal square is equal to two squares of movement distance, but for areas assume that one space diagonally is equal to one hex (one yard or meter). 
+ 22.7  Action Point system
+ Can the system of combat movement and actions be converted into system of action points which allow for the same actions but are also more flexible and still playable?
+ 23  Legal Stuff 
+SKIRMISH(TM) System Reference Document Copyright 2014 by Carlisle Childress and Chad Brandt. 
+
+This game is derived from Warrior and Wizard(tm), copyright 2008 by Christopher A. Goodwin and is licensed for our use under the Creative Commons Attribution-Share Alike 3.0 United States License. (http://creativecommons.org/licenses/by-sa/3.0/us/) 
+
+The text of SKIRMISH(TM) is dual licensed under a Creative Commons Attribution-Share Alike 3.0 United States License and the Open Game License. 
+
+SKIRMISH is a trademark of Carlisle Childress and Chad Brandt and is considered Product Identity under the Open Game License. Use of the name SKIRMISH to refer to these rules is permitted as long as authorship information is maintained and the document is distributed in accordance with the terms of the license. 
+
+ 23.1  Copyright Registration of Games 
+
+[http://www.copyright.gov/fls/fl108.html]
+
+Copyright does not protect the idea for a game, its name or title, or the method or methods for playing it. Nor does copyright protect any idea, system, method, device, or trademark material involved in developing, merchandising, or playing a game. Once a game has been made public, nothing in the copyright law prevents others from developing another game based on similar principles. Copyright protects only the particular manner of an author’s expression in literary, artistic, or musical form.
+
+ 23.2  Creative Commons License
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 United States License.
+
+[http://creativecommons.org/licenses/by-sa/3.0/us/legalcode]
+
+ 23.3  Open Gaming License
+
+OPEN GAME LICENSE Version 1.0a
+
+The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
+
+1. Definitions: (a)"Contributors" means the copyright and/or trademark owners who have contributed Open Game Content; (b)"Derivative Material" means copyrighted material including derivative works and translations (including into other computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted; (c) "Distribute" means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute; (d)"Open Game Content" means the game mechanic and includes the methods, procedures, processes and routines to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Product Identity. (e) "Product Identity" means product and product line names, logos and identifying marks including trade dress; artifacts; creatures characters; stories, shorelines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content; (f) "Trademark" means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its products or the associated products contributed to the Open Game License by the Contributor (g) "Use", "Used" or "Using" means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content. (h) "You" or "Your" means the licensee in terms of this agreement.
+
+2. The License: This License applies to any Open Game Content that contains a notice indicating that the Open Game Content may only be Used under and in terms of this License. You must affix such a notice to any Open Game Content that you Use. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any Open Game Content distributed using this License.
+
+3.Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of this License.
+
+4. Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license with the exact terms of this License to Use, the Open Game Content.
+
+5.Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.
+
+6.Notice of License Copyright: You must update the COPYRIGHT NOTICE portion of this License to include the exact text of the COPYRIGHT NOTICE of any Open Game Content You are copying, modifying or distributing, and You must add the title, the copyright date, and the copyright holder's name to the COPYRIGHT NOTICE of any original Open Game Content you Distribute.
+
+7. Use of Product Identity: You agree not to Use any Product Identity, including as an indication as to compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of that Product Identity. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark. The use of any Product Identity in Open Game Content does not constitute a challenge to the ownership of that Product Identity. The owner of any Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity.
+
+8. Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.
+
+9. Updating the License: Wizards or its designated Agents may publish updated versions of this License. You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally distributed under any version of this License.
+
+10 Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute.
+
+11. Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so.
+
+12 Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected.
+
+13 Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination of this License.
+
+14 Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
+
+15 COPYRIGHT NOTICE Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
+
+ 24  Dexterity Adjustments Table
+ 24.1  MISSILE AND THROWN WEAPONS
+
+Using a missile weapon with the Marksmanship skill	
++3
+Throwing anything with the Thrown weapons skill		
++2
+Throwing anything over a wall that you cannot see over
+-6
+Firing a shotgun at a target 15 or more hexes away		
++3
+Firing pistol after a quickdraw					
+-2
+Firing in Complete Darkness				
+your DEX is 5 (not -5)
+Moving more than one hex firing any missile weapon	
+-2
+ 24.2  CONCEALMENT 
+(not cumulative with each other)
+
+Firing at a target that is half-hidden			
+-4
+Firing at a prone or kneeling target behind a body	
+-4
+Firing at a prone figure						
+-3
+Firing at a kneeling figure					
+-2
+ 24.3  SUPPORT 
+(not cumulative with each other)
+
+Supported by a tripod						
++4
+Supported by a bipod						
++3
+Using a rifle weapon moving no more than one hex	
++1
+Using a pistol weapon when prone				
++1
+Weapon is supported						
++2
+ 24.4  AIMING AND AIMED SHOTS 
+(any weapon)
+
+Aiming for one turn						
++1
+Aiming for two or more turns					
++2
+Any head shot							
+-6
+Arm or leg shot							
+-4
+Arm shot with a knife						
+-6
+ 24.5  ADVERSE CONDITIONS
+
+Broken ground, water, mud, snow					
+-2
+Complete darkness for regular weapons				
+-8
+Attacking into or from smoke or fog 					
+-1 per hex
+Using a regular weapon against or from a floating figure	
+-4
+Effected by Tear Gas							
+-4
+ 24.6  OTHER
+
+Using a weapon that you do not have the skill for, except for
+clubs, rocks, and brass knuckles	
+-4
+Using a weapon that you do not have the ST to use	 
+-1 for every ST you lack
+Hand to Hand combat								
++4
+Attacking with a regular weapon at an enemy with his back to you
++4
+Attacking with a regular weapon at an enemy wiﬂt) his side to you
++2
+ 24.7  ADJUSTMENTS DUE TO RANGE
+
+For missile weapons, 0-2 MH			
+No adjustment
+For missile weapons, beyond 2			
+-1 for every 2 additional MH
+For thrown weapons 					
+-1/hex
+For throwing grenade weapons			
+-1/MH
+ 24.8  WOUNDING
+
+You took 5, 6, or 7 points of damage last turn	
+-2
+You took 8 or more points of damage 		
+-2 and Fall down
+You ST is 2 or 3 	
+-3
+You ST is 1 or 0						
+Cannot attack; fall down
+You got hit in the head doing 2, 3, or 4 points of damage		
+-2
+You got hit in the head doing 5 or more points of damage		
+Cannot attack; fall down.
+
+Also see the Weapons and Armor Table for complete explanations.
+ 25  Lists of Actions
+
+Disengaged Characters
+Action
+Maximum Movement before Action
+Stand Up
+Stand Still
+Take a breather
+Stand Still
+Shoot
+One Step
+Ready Weapon
+One Pace
+Drop
+Half-Move
+Dodge
+Half-Move
+Attack
+Half-Move
+Run
+Full-Move
+
+Engaged Characters
+Action
+Maximum Movement before Action
+Stand Up
+Stand Still
+Shoot
+Stand Still
+Drop
+Stand Still
+Pick up a weapon
+Stand Still
+Attack
+Shift
+Defend
+Shift
+Switch
+Shift
+Attempt HTH
+Shift
+Disengage
+Stand Still
+
+Hand-to-Hand Combat Options
+Action
+Maximum Movement before Action
+Attack
+Stand Still
+Ready
+Stand Still
+Disengage
+Stand Still
+Subdue
+Stand Still
+Disarm 
+Stand Still
+
+ 26  Skill List
+Name
+Slots
+INT
+DEX
+STR
+Prerequisite Skill
+Axe
+2
+7
+
+
+
+Bayonet
+1
+7
+
+
+
+Crossbow
+1
+7
+
+
+
+Knife
+1
+7
+
+
+
+Longbow
+1
+7
+
+
+
+Pole Weapons
+2
+7
+
+
+(Bayonet)
+Shield
+1
+7
+
+
+
+Sword
+1
+7
+
+
+(Knife)
+Literacy
+1
+8
+
+
+
+Common Melee Weapons
+3
+8
+
+
+(any Melee)
+Running
+2
+8
+
+
+
+Sidearms
+1
+8
+
+
+
+Shoulderarms
+1
+8
+
+
+
+Flame Thrower
+1
+8
+
+
+
+Machine Gun
+1
+8
+
+
+
+Grenade Launcher
+1
+8
+
+
+
+Staff
+1
+8
+
+
+
+Swimming
+1
+8
+
+
+
+Thrown Weapons
+2
+8
+
+
+
+Alertness
+2
+9
+
+
+
+Climbing
+1
+9
+
+
+
+Enhanced Hearing
+3
+9
+
+
+
+Expert Swimmer
+1
+9
+
+
+Swimming
+Small Arms
+2
+9
+
+
+(any firearms)
+Heavy Weapons
+2
+9
+
+
+(any hvy weap)
+Energy Weapons
+1
+9
+
+
+
+Marksmanship*
+1 – 3
+9
+14
+
+(any missile weap)
+Weapon Master*
+1 – 3
+9
+14
+
+(any melee)
+Spacesuit
+1
+9
+
+
+
+Stealth
+2
+9
+
+
+
+Weight Training
+3
+9
+
+
+
+Tough
+2
+9
+
+14
+
+Very Tough*
+3
+9
+
+16
+Tough
+Acrobatics
+3
+10
+12
+
+
+Astrobatics
+2
+10
+
+
+
+Martial Arts Level 1
+2
+10
+13
+
+
+Quick Reflexes
+3
+10
+13
+
+
+Medic
+2
+11
+
+
+
+Tactics
+1
+11
+
+
+
+Two Weapon Fighting
+3
+11
+13
+
+(any melee)
+Expert Stealth*
+3
+12
+
+
+Stealth
+Martial Arts Level 2
+2
+12
+13
+
+Martial Arts 1
+Strategy*
+2
+13
+
+
+Tactics
+Doctor*
+2
+14
+
+
+Medic
+Martial Arts Level 3
+2
+14
+14
+
+Martial Arts 2
+Martial Arts Level 4
+2
+14
+15
+
+Martial Arts 3
+Martial Arts Master*
+3
+14
+16
+
+Martial Arts 4
+ 27  Dice and Probabilities
+
+Charts showing probabilities for different numbers of dice and the automatic hit and miss numbers.
+
+ 27.1  2d6
+
+
+ 27.2  3d6
+If you roll a 3 it is always a hit and the weapon does triple damage. If you roll a 4 it is always a hit and the weapon does double damage. If you roll a 5 it is always a hit, the weapon does normal damage. 
+
+A roll of 16 is always a miss. A roll of 17 is also always a miss and the attacker drops his weapon, put a dropped weapon counter in that figures hex; he has to pick it up next turn. A roll of 18 is also a miss and the attacker's weapon is broken. If this is a missile or energy weapon roll one die. Rolls of 1, 2, and 3 for energy weapons and 1 for gas-action weapons mean the weapon is permanently broken and cannot be repaired unless taken to a Weaponsmith at their shop. Other results mean the weapon is temporarily broken and can be fixed between combats by anyone with the right weapon skill and tools. For any other weapon an 18 means it is permanently broken, except for a club which needs two 18 results to break. 
+
+On 4d6, below 8 is an automatic hit, above 20 is an automatic miss.
+On 5d6, below 11 is an automatic hit, above 24 is an automatic miss.
+On 2d6 a 2 is an automatic hit, a 12 is an automatic miss.
+On 1d6 a 1 is an automatic hit.
+
+
+If on any to-hit roll on 3 or 4 dice you roll a 3, 4, 5, or 6 you have a chance of making a critical hit. Roll 2 dice to find where it is. A 2-7 is not a critical hit. 8 is right leg, 9 is left leg, 10 is weapon arm (usually right unless otherwise stated), 11 is other arm, and 12 is head. 
+
+
+ 27.3  4d6
+With increased difficulty, automatic hits and misses have different target numbers: On 4d6, a roll of 4 and 5 are automatic hits. 20 is an automatic miss. 21 and 22 are dropped weapons. 23 and 24 are broken weapons. 
+
+A roll of 4 and 5 are automatic hits and have no other effects. 20 is an automatic miss. 21 and 22 are dropped weapons. 23 and 24 are broken weapons. 
+
+ A roll of 4 and 5 are automatic hits and have no other effects. 20 is an automatic miss. 21 and 22 are dropped weapons. 23 and 24 are broken weapons.
+
+ 27.4  5d6
+5d6/eDEX – 5 is an automatic hit, 24-26 are automatic misses, 27-28 are dropped weapons, 29-30 are broken weapons.
+
+ 28  Notes
+
