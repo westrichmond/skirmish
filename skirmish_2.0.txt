@@ -1,3 +1,20 @@
 SKIRMISH!
-A game of close quarters combat using modern and speculative weapons.
+A Game of Close Quarters Combat Using Modern and Speculative Weapons
+by Carlisle Childress and Chad Brandt Illustrations by Chad Brandt Copyright 2015
 
+Version 2.0 Draft C
+
+Version History:
+1.0 First Release, January 1982
+1.1 Digital Conversion, fix typos and minor clarifications, March 2014 1.2 Re-indexing, more minor fixes April 2014
+2.0 Rewritten to be based on Warrior and Wizard(tm) September 2014
+
+This game is derived from Warrior and WizardTM, copyright 2008 by Christopher A. Goodwin and is licensed for our use under the Creative Commons and Open Game Licenses.
+
+The text of SKIRMISHTM is dual licensed under a Creative Commons Attribution-Share Alike 3.0 United States License and under the terms of the Open Game License. For more details see Legal Stuff
+
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior express permission of the publisher.
+
+Express permission is given to reproduce this document for personal use.
+
+Send all correspondence to: westrichmondwargamegroup@gmail.com
