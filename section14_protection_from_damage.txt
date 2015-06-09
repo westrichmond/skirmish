@@ -1,0 +1,125 @@
+ 14  Protection from Damage
+ 14.1  Armor
+Each type of armor is rated with a defense value. Any time a character is hit in combat, subtract the armor's defense value from the amount of damage rolled. The result is the amount of damage the character takes. 
+
+If using the Optional Nonlethal Damage Rules, damage stopped is Lethal damage first. Cloth/Padded Armor stops 1 Lethal and 2 Nonlethal, and is assumed to be worn under all other armor types; all armor types thus stop 2 Nonlethal damage in addition to their full Lethal value.
+
+A shield can be used to block attacks. A shield held in the "ready" position protects against attacks from the character's front zone (the three front hexes), while a shield slung on the back protects against attacks from behind only (the hex directly behind the character). 
+
+A dagger held in the left hand can be used to parry or block attacks as well. 
+
+Besides providing defense, armor is also heavy and binding, and reduces both a character's ability to move and his Effective Dexterity score. (If using the Optional Movement Rules, the Dexterity penalty determines the movement reduction.) 
+
+Armor does not protect from poisonous gases, hostile environments, or vacuum, and only partially protects from fire. [redo shields to reflect lighter materials]
+
+Armor
+Type:
+Defense
+Value:
+DEX
+Penalty
+Weight
+(kg)
+Movement
+Penalty
+Notes
+Energy Suit Protective Suit
+nil
+-1
+2
+nil
+
+Spacesuit
+1
+-2
+10
+-1
+
+Padded
+(Cloth)
+1
+-0
+7
+-0
+
+Leather
+2
+-1
+8
+-2
+
+Steel
+5
+-3
+10
+-4
+
+Projectile Absorbing Cloth
+10
+-2
+3
+-4
+
+Ceramic
+13
+-3
+7
+-4
+
+Heavy Alloy
+15
+-4
+14
+-6
+
+Tower Shield
+3
+-1
+15
+-
+
+Large Shield
+2
+0
+10
+-
+
+Full Backpack
+1
+-1 or -2
+Contents
+
+Stops 1 hit from behind, prevents shield from being slung on back
+Dagger
+1
+0
+
+
+See notes for Defending
+
+ 14.2  Encumbrance
+Encumbrance can reduce a character's Effective Dexterity as well as his movement. Penalties to Effective Dexterity are cumulative with the type of armor worn; movement penalties are not. (If using the Optional Advanced Movement Rules, movement loss does accumulate based on Dexterity penalties as well.)
+
+Amount Carried
+Effects
+0-2x STR in kg
+None. No penalties; full swimming movement allowed.
+2-3x STR in kg
+-2 to Movement
+3-4x STR in kg
+-4 to Movement. -1 to Effective Dexterity
+4-5x STR in kg
+-6 to Movement. -2 to Effective Dexterity
+5-7x STR in kg
+-6 to Movement. -1 STR every 2 minutes (nonlethal/fatigue).  Max of 10 minutes.
+STR squared in kg
+Maximum lift. Character can move 1 hex with 4d6 Effective Strength check, otherwise no movement allowed.
+
+ 14.3  Shielding and Energy Shields
+Shielding, in the form of energy reflecting, absorbing, and dispersing material, protects from energy weapons, fire and partially from all other weapons. Energy Shields protect from energy weapons and fire, only. Shielding and Energy Shields stop energy weapons and fire damage like armor but it subtracts the amount of hits equal to the number rolled on dice. The amount of dice rolled is expressed by the R-factor. If one fires on a target with R2 shielding, the amount of hits stopped is rolled on 2 dice. 
+
+Energy Shields protect from the person wearing it and any figures in adjacent hexes. All people in this area must be wearing a protective suit to avoid taking damage from the field. This damage is equal to the unit's R-factor in hits per turn. Every time an energy shield is turned on roll 3 dice, on an 18 it breaks. Force Field stop damage from shots fired from the inside of this field and from the outside. Deflectors protect from shot fired from the outside of it only. Reflectors send successful shot back to their firers' doing half damage. One cannot tell what kind of shield is or whether it is on or not unless he fires into it. A player who turns a shield on should write this fact down at the beginning of the turn.
+
+When an energy weapon hits a figure wearing shielding the shielding will remove a certain number of dice from the damage roll equal to its R-factor. If a laser rifle is fired at a figure with R-2 shielding it would do 4 dice damage instead of 6 dice. For all other weapons, it would stop the number of hits specified by the table.
+
+If a figure wearing an energy shield gets hit from the rear hex only, and if is not an aimed shot, roll the amount of damage it does or less on four dice to see if the shield breaks.

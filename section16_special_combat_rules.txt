@@ -1,0 +1,318 @@
+ 16  Special Combat Rules
+ 16.1  Improvised Weapons: “Clubs,” “Rocks,” and “Knives”
+Improvised weapons can be found in most environments treated like clubs, rocks, or knives. A club or knife is a melee weapons, while a rock is a thrown weapon and both do damage based on the attacker's Strength. Pipes, bats, large wrenches, lumber, and other items of similar shape can be considered clubs. Similarly pistol handles and shotgun or rifle stocks may be used as a club if the weapon can not be used because it is out of ammunition or broken. Bottles, bricks, etc., can be considered rocks. Shanks, shivs, broken bottles or other sharp weapons can be considered knives. 
+A rock does the damage shown on the HTH combat damage table. A one-handed club does the same plus 3; the two-handed club does the same plus 4. Brass knuckles count as clubs but are always one-handed, can't be thrown, can't be dropped, and can be used in HTH combat. 
+Some improvised weapons may be unbalanced and their use is at a DEX penalty. They may also break easily upon use like a bottle or chair in the classic bar room brawl. Exact rules will vary depending on an item and should be agreed upon ahead of time. [Examples] [ Effective range of rocks based on ST]
+
+ 16.2  Pole Weapons
+If a Charge and Attack action is used with a Pole Arm, and the last three hexes of the attacker's movement are in a straight line (no facing changes), the attack does double damage. If a character with a Pole Arm is attacked by someone Charging, and he sets the Pole Arm to meet the charge, he gets +2 to his Effective Dexterity to hit the Charger, and does double damage. 
+
+Pole Weapons of long length can also be used to jab at an enemy two hexes away. Only enemies in the hexes in front of the attacker's front hexes can be jabbed. An enemy two hexes directly ahead can only be jabbed if there is no figure in the intervening hex. A charge attack with a pole weapon can not be combined with a jab attack. A jab attack never gets a damage bonus.
+
+[create and insert diagram of long polearm use]
+
+ 16.3  Bayonets
+A knife can be attached to a rifle type weapon (Either before combat or one turn during combat) it is a bayonet. A bayonet does the same amount of damage that a knife would, but if you move 3 or more hexes before attacking this damage is doubled, cumulative with any other damage multiples. A weapon can also fire and attack with a bayonet in the same turn without adjustment if they against the same target. A bayonet is a regular weapon and can only attack into adjacent hexes. Because of the length of the bayonet it will strike before any other weapon will, no matter what the attacker's DEX is.
+
+ 16.4  Sweep Attacks
+Any two handed cutting weapon (Broadsword, Katana, Fire axe, Plasma Sword, for example) may be used to make a sweep attack against any foes in the attackers threat zone. (3 hexes for most attackers, 5 if the attacker has Martial Arts Level 4). Roll to hit normally, but add a -4 DEX penalty for the sweep attack.
+ 16.5  Staff
+A staff requires a Strength of 11 and when used to do a melee attack does 1d6 + 2 damage. It addition to being used to defend, it can do two special attacks: the staff may be used to attempt to disarm a defender. Its a -4 to effective DEX and if successful the defender must make a successful saving throw of 3d6 against DEX or the defender drops their weapon. Similarly the staff may be used to trip a defender. Its a -4 DEX attack and if successful the defender must make a 3d6/STR saving throw to avoid failing onto the ground.
+
+ 16.6  Selective Fire and Automatic Weapons
+Some firearms are capable of multiple attacks per turn, including several single shots, burst fire and fully automatic fire. Selective fire weapons allow the attacker to switch between these modes once per turn. In the weapons table, the rate of fire for selective fire weapons will show three numbers. For example, the Assault Rifle shows: 4 / 2 / 13 meaning: 4 shots per turn in semi-automatic mode, 2 three-round bursts in burst mode, and 13 shots per turn in full automatic mode.
+
+There is a minimum STR listed for each weapon. For every STR a character lacks for that weapon, there is a -1 DEX penalty. Resting the weapon against a solid object with remove 2 from this penalty. Using a bipod will reduce the recoil penalty by half (round down) and a tripod or static mount will eliminate the recoil penalty. When using weapons in burst or fully automatic mode, there is also an additional one point of STR required for every 3 rounds shot beyond the first.
+
+Burst fire is typically three rounds and fully automatic fire shoots up to the maximum rate of fire per turn. For every three rounds fired at a target, the attacker gets a +1 DEX bonus to hit. After applying all the DEX bonuses and penalties roll to hit normally, but your margin of success yields how many bullets hit the target. 
+
+Zorgo (STR=11, DEX=12) first fires his Assault Rifle at a target 10 multihexes ( 40 meters ) away. The first turn he fires two 3-round burst at +1 automatic fire, -4 for distance for each burst. Make a roll to hit for each burst. Then on the next turn fires in fully automatic mode: 13 rounds, +4 automatic fire, -4 for distance [recoil penalty]  At this point he only has 6 rounds left in his magazine.
+
+When trying to roll to avoid a character, the automatic fire bonus becomes a penalty. If John was in Zorgo's way at 5 multihexes, there would be a -2 penalty for distance and a -4 penalty for automatic fire during the roll to miss. Any rounds that miss John could still hit Zorgo's intended target.
+
+When firing at more than one target in a turn, there is a penalty of +1 per Multihex distance between the first target and the new target.
+
+If the foe takes 8 or more hits of damage during automatic fire he will fall down immediately and any remaining rounds will fly past his body. A character that takes 8 or more damage in a single turn falls down. If using rules for aimed shots critical hits, there may be different situations that cause the foe to fall.
+
+Sweep attacks under fully automatic fire can effect every character within the arc of fire. In addition to all typical bonuses and penalties, add a -4 DEX penalty for every target in a sweep attack. The attacker must first state the line of the beginning and end of the sweep. Starting with the first character is the sweep of automatic weapon fire, make a roll to hit, record how many bullets hit each target. then proceed to every character within the sweep. Unless the next target is immediately adjacent to the last, loose one round per hex between each target. The sweep continues until you reach the end of the intended arc, or run out of shots that turn. [roll to miss]
+
+A jam may occur any time a broken weapon result is encountered during a roll to  hit. Characters with the right skill are able to clear this jam. [increase of jam for successive turns of automatic fire]
+
+ 16.7  Shotguns
+Shotguns are capable of firing several different types of ammunition: birdshot, buckshot and slug. [Proposed: less lethal/rubber/wooden slugs, grenade, electric stun.] 
+
+When firing birdshot or buckshot the shot spreads as it travels away from the shotgun. There is a +1 DEX bonus for any target at less than half the effective range and +2 DEX bonus after half the effective range. This bonus does not apply when firing slug ammunition. It acts like a single bullet.
+
+Types of shot: Birdshot is typically used for hunting small game and has lower recoil and is used with shotguns set for a wide spread. Birdshot does 2d6 damage. Buckshot is used for larger game and in combat and is used in shotguns set for a narrow spread. Slugs are basically very large bullets fired from the shotgun and have the most recoil.
+
+The Hunting Shotgun is a pump action shotgun with a full length barrel and is showed loaded with birdshot. The Combat Shotgun is a semi-automatic shotgun with a full length barrel and loaded with buckshot. The Sawed-off Shotgun has a shorted double-barrel loaded with buckshot. Slugs can be loaded in any of these although its most likely used in the Combat Shotgun.
+
+The effective range with a shotgun will depend partial on the gun and partially on the type of shot. With birdshot / wide has 40% of the effective range for buckshot / narrow. Birdshot / narrow ? Buckshot / wide ? The effective range for slugs is twice buckshot / narrow. Divide damage by two if you hit any target past effective range. 
+
+Birdshot does 2d6 damage -2 ST to use, Buckshot 4d6, Slug 5d6, +1ST to fire 
+
+ Full Body Armor is twice as effective against birdshot and buckshot as slugs or regular bullets. Armored vests and jackets do not have this advantage.
+
+NAME
+DAMAGE
+COST IN CREDITS
+ROUNDS
+COST OF RELOAD
+SHOTS / TURN
+MASS IN KG
+ST ONE HANDED
+ST TWO HANDED
+
+Hunting Shotgun
+2d6 w
+150
+5
+3
+2
+3
+xx
+10
+Combat Shotgun
+4d6 n
+350
+8
+6
+3
+3.5
+23
+13
+Sawed-off Shotgun
+4d6 w
+
+2
+1
+2
+2.5
+22
+12
+
+[ Redo shotguns
+Hunting shotgun: long length, birdshot wide spread 2d6 damage, less recoil
+Combat shotgun: medium length: buckshot narrow spread 4d6 damage, mount for bayonet. Slug rounds: no spread, longer range, more recoil
+]
+
+
+ 16.8  Energy Weapons 
+All energy weapons are powered by batteries. The weapon chart lists the number of shots that may be fired before it drains a single battery. Once a battery is drained, it must be switched for a fresh battery using the Ready action much like reloading a firearm. Most energy weapons are capable of firing multiple shots of lower energy. The least powerful of these shots is 1d6 of damage. For example, the laser rifle may do up to 6d6 of damage, or when switched, it can fire 6 shots of 1d6 each, or 3 shots of 2d6. One is not required to fire more than one shot at the lower power levels. [Maybe battery capacities should be listed as d6 worth of shots say 48 or 50] [Built-in battery, battery belt pack, battery backpack.
+
+Energy weapons are less influenced by range – only half the distance penalty of firearms. Anti-laser smoke will act as R1 shielding on lasers until it dissipates. Head shots with lasers may cause blindness if the target wasn't wearing protective googles or face mask.
+
+ 16.9  Stun Weapons
+Don't cause much damage, but if they do at least one point of damage the target must make a 4d6/eSTR roll to avoid dropping ready weapons and being knocked down for two turns during which they may take no actions. Characters with Tough skill roll a 3d6/eSTR and Characters with Very Tough skill roll a 2d6/eSTR.
+
+ 16.10  Plasma and Mono-filament Swords
+They require the Sword skill and their effectiveness is enhanced by the Fencing skill. A Plasma Sword uses charged particles in a tight field to do its damage and is an energy weapon for all purposes. The Mono-filament sword uses a strong mono-filament wire supported by a force field and is not an energy weapon even though it is powered by a battery. Swords are regular weapons and can only attack into the adjacent hexes. If any weapon defends against a variable sword it is broken as a weapon although it can still defend. The same is true for Plasma Sword except when defending with another Plasma Sword [Vibroblades?]
+
+ 16.11  Fire
+[Make sure weapons producing fire damage match these new rules]
+Fire damage is based on the size of the fire and the amount of exposure to it. Generally, a weapon that is on fire does +2 damage; a burning torch is treated as if it were a club that is on fire. Realistically, a flaming weapon probably won't set the target on fire; if the target is highly flammable (doused in gasoline or the like) the chance is 50/50 on a successful hit. (Even for things like newspaper, one normally needs to apply the flame for a few seconds to get it to burn; see for yourself the next time you start a fire.) 
+
+For a target on fire: 
+
+* One limb only (such as the arm): 1d6-4 per Turn, until it's put out 
+* Half the body: 1d6-2 per Turn, until it's put out 
+* Whole body: 1d6 per Turn, until it's put out. 
+
+Stop, drop, and roll can put out a fire in one Turn; the character takes one full Turn of burning unless someone is helping. Running while on fire fans the flames; one Turn of running turns one burning limb into a half-body burn, and a half-body burn into a full body burn; running while burning increases whole body damage by +2 per Turn. The character must succeed on an Intelligence Check to avoid running (3d6 for one limb, 4d6 for half body, 5d6 for whole body); attempting to stop running while already doing so is at +1 die. 
+
+A character moving through a burning hex takes 1d6-4 damage, +2 per additional hex moved through. A character who stops in a burning hex takes 1d6-2 damage. A character who, for some reason, stays put in a burning hex, takes 1d6 damage per turn he stays there. If the fire has burned down to hot coals, add +1d6 to the damage (note that a hex that has just caught on fire, because of a spell or other reason, probably is not at the hot coals stage). A character must succeed on a 3d6 Intelligence Check to move into or stay in a burning hex. 
+
+Armor protects against all, some, or none of this damage, depending on the circumstances. Against burning attacks such as a torch, flaming arrow, or fireball, armor provides its full value. If the character is immolated, or is inside a hex of fire (via the spell, being inside a burning building, etc.), any non-fireproofed, medieval-type armor protects with half its value. If the character is wearing armor and is dunked or soaked in gasoline or some other flammable liquid that runs inside the armor and coats the character, armor won't protect against this. 
+
+ 16.12  Grenades and Molotovs
+[ Types: Concussion, Fragmentation, Stun, Flammable, Incendiary, Smoke, Gas ]
+
+All types of grenades can be thrown but because you aren't trying to strike an enemy, but an area near enemies, you take a -1 DEX adjustment for every multihex distant. There are no rolls to avoid like with thrown and missile weapons. If you miss your roll it still lands, but not in the place you wanted it to. After you miss, roll one die to determine the direction in which the grenade lands. The number of hexes in this direction is equal to margin of failure of the attempt to hit, that is, if you rolled 15 and you need a 13 or less it lands two hexes from its original target hex. 3, 4, and 5 are automatic hits, but produce no other effects, a 16 and 17 are automatic misses, and an 18 means that you have dropped it in your hex. Because of mechanical or electronic fuses, one does not have to light any type of grenade or molotov. Maximum Range for all thrown grenades is 3 x STR of the thrower in meters ( 2.25 x STR in hexes, 0.75 x STR in MH.)
+
+The effects of a molotov are immediate. All other grenades go off at the
+end of the turn thrown or at the end of the next movement phase. The player states which, before it is thrown. A molotov does 4 hits of damage
+to anyone in the hex it lands in and 2 hits to anyone in the adjacent hexes.
+Anyone in the target hex must make a 4d6/eDEX, to avoid being soaked by the burning liquid. Failure means the target is on fire. The liquid will keep burning in the target hex or on a soaked figure for 12 turns after it lands. It does 4 hits of damage immediately to anyone who moves into the target hex and stops and does 2 immediately hits to anyone that moves through the burning hex. The only armor that will protect against fire damage is full body armor and it will only protect a soaked figure for one turn. After that, he takes 4 hits/turn until the fire is put out (either diving underwater or a fire extinguisher). [reconcile this with W&W fire rules]
+
+A fire extinguisher counts as a one-handed weapon for size. All hits done by fire are cumulative before subtracting armor, that is, you add the total number of hits that fire does to you then subtract armor. If one ran through two fire hexes and stopped in a third (wearing armor that stopped 5 hits) he would take 6 hits. Fires also produces smoke in the hex they occupy, see Smoke Grenades, below. 
+
+A high explosive grenade does 4d6 damage in the MH it lands in and 2d6 damage in the adjacent hexes. Armored vests and jackets will stop only half as many hits as they normally do against this kind of damage. An incendiary grenade uses molotov rules but spreads a burning material which cannot be extinguished, into the MH it lands in. When it explodes it does 8 hits to anyone in the target MH it lands in and 4 hits to those in the adjacent hexes. when anyone moves into such a fire hex he takes 4 hits if he moves through and 8 hits if he stops. 
+
+Smoke and gas grenades produce clouds. On the first turn it is one hex in size. On the second turn it is a MH in size. The cloud will grow into the adjacent hexes until it has burned 5 turns, then it stops. The cloud dissipates two turns after the grenade has burned out. A slight wind will cause the cloud to drift. A strong wind will disperse the cloud with few effects on characters. A tear gas grenade causes a -4 DEX [ and -2 INT?] to everyone that stands or moves though the cloud without a gas mask. This penalty remains until the end of the combat. A smoke grenade causes a -1 DEX for every hex of smoke fired through, from, or into. It also acts as R1 shielding for energy weapons firing through it. Smoke is also produced from fires as a result of molotovs, incendiary grenades, and flame throwers. Unlike other grenade type weapons, smoke and gas grenades can be picked up and re-thrown. The person who re-throws it takes 2 hits of damage per turn he has the grenade in his hands. Only jacket and body armor protect from such damage, because they are the only armor to include gloves. A gas mask will protect from tear gas, but causes a -1 DEX. Even though a grenade can be thrown and gets adjustments as one, it is not a thrown weapon. [Some skillful characters may be able to throw back grenades before they explode under the right circumstances.] [Types of gas: irritant, corrosive, nerve. Types of protection]
+
+ 16.13  Flame Throwers
+These weapons fire and ignite a stream of oil, producing effects similar to those produced by molotovs. when firing one can select whether to shoot a small or large burst. One can fire 4 small, 2 large, or 2 small and 1 large burst before he runs out of fuel. A small burst will produce 3 hexes of fire and a large burst will produce 7 hexes of fire. when rolling to hit use missile weapon adjustments. When the oil lands place fire counters in the appropriate amount of hexes, connected, in any arrangement the firing player wants. If the roll to hit was successful one of these hexes could be placed in the target figure's hex. If it misses, a fire counter must be placed adjacent to the figure and the other counters placed adjacent to it and each other, but not in the target figures hex. If there are more than one figure within the area that the fire will land, roll to hit separately. when the oil lands in does 4 hits to anyone in the hexes the oil lands in and 2 hits in the adjacent hexes. Anyone in these fire hexes must roll 4 dice against DEX to avoid being soaked with oil. All other effect are the same as fires created by molotovs.
+
+If a figure with a flame thrower is hit from the rear hex, only, there is a chance that the flame thrower blows up. If the shot is an aimed shot, roll the amount of damage or less the shot does on 3 dice to see if the fuel ignites. All effects are the same as for the molotov, but one must make a 5d6/eDEX saving roll. One cannot wear a flame thrower at the same time one is wearing an energy shield. backpack, or backpack battery. 
+
+ 16.14  Knockdown Attack, and Throws
+These attacks all work similarly. A knockdown attack is also called a slam or, if wielding a shield, a shield-rush. A slam is just running into someone with a shoulder or body mass, while a shield rush is the same thing only leading with the shield. In a throw, the attacker actually grabs a target and tosses him. In all cases, the attacker must make a successful attack roll. The target then rolls a 3 die Strength Check (based on his unwounded Strength); if he fails this check, he is down on the ground. (Anyone trained in Martial Arts throwing may substitute a Dexterity Check for a Strength Check.)  If the target is stronger than the attacker, he receives a bonus to his Strength Check equal to the difference; if weaker, he receives a penalty equal to the difference. 
+
+ 16.15  Hand-to-hand and Unarmed Combat
+There are two ways to do combat with hands and feet: attacking a foe in an adjacent hex and Hand-to-hand combat within the same hex. One's strength determines the damage in both types of combat. See Unarmed Combat Damage. It also determines damage from knives and brass knuckles. There are also other combat options than just attacking or defending. Martial Arts skills greatly enhance HTH and Unarmed Combat.
+
+ 16.15.1  Unarmed Combat Damage
+Use the following table to determine damage from an unarmed attack in regular or HTH combat. If the attack roll results in a dropped or broken weapon result, the attacker does 1d6 damage to themselves.
+
+STR
+Damage
+HTH
+Brass Knuckles
+One-Handed Club
+Two-handed Club / Knife HTH
+8 or less
+1d6 – 4
+1d6 – 3
+1d6 – 2
+1d6 – 1
+1d6
+9 or 10
+1d6 – 3
+1d6 – 2
+1d6 – 1
+1d6
+1d6 + 1
+11 or 12
+1d6 – 2
+1d6 – 1
+1d6
+1d6 + 1
+1d6 + 2
+13 or 14
+1d6 – 1
+1d6
+1d6 + 1
+1d6 + 2
+1d6 + 3
+15 or 16
+1d6
+1d6 + 1
+1d6 + 2
+1d6 + 3
+2d6 – 2
+17 to 20
+1d6 + 1
+1d6 + 2
+1d6 + 3
+2d6 – 2
+2d6 – 1
+21 to 24
+1d6 + 2
+1d6 + 3
+2d6 – 2
+2d6 – 1
+2d6
+25 to 30 
+1d6 + 3
+2d6 – 2
+2d6 – 1
+2d6
+2d6 + 1
+
+Damage done in HTH combat is the above +1
+Damage done in HTH combat with a knife is above +4
+Damage done in HTH combat with brass knuckles is above +2
+Damage done in regular combat with a one handed club is above +3
+Damage done in regular combat with a two handed clubs is above +4
+Rocks used as thrown weapons do the damage shown.
+
+ 16.15.2  Standard Damage Progression 
+When converting bonuses to dice, the progression is: 1 point, 2 points/1d6-4, 3 points/1d6-3, 1d6-2, 1d6-1, 1d6. Dice are additive to this; 1d6+2 with an additional +1 becomes 1d6+3 or 2d6-3, an additional +1 makes it 2d6-2, and so on. When a value falls on the cusp between some number of dice +3 and one more die -3, (for example, 1d6+3 and 2d6-3) usually the better choice is fewer dice with the bonus. 
+
+See the following table: 
+
+Damage Progression Table
+
+
+Bonus:
+0 dice
+One die
+Two dice
+Three dice
++1
+1 point
+1d6+1
+2d6+1
+3d6+1
++2
+2 points/
+1d6-4
+1d6+2
+2d6+2
+3d6+2
++3
+1d6-3
+1d6+3/
+2d6-3
+2d6+3/
+3d6-3
+3d6+3/
+4d6-3
++4
+1d6-2
+2d6-2
+3d6-2
+4d6-2
++5
+1d6-1
+2d6-1
+3d6-1
+4d6-1
++6
+1d6
+2d6
+3d6
+4d6
+
+[a]I know this part is wonky. I haven't ever gotten around to fixing it. I've actually got a fix in email somewhere, I just haven't ever implemented it.
+
+	 
+
+When adding bonuses to values that already have bonuses or penalties, a full dice value +1 goes to the top of the next column. For instance, 1d6+3 with an additional +4 in bonuses becomes 1d6+7 which becomes 2d6+1, while 1d6-3 with +4 in bonuses becomes 1d6+1. 
+
+This table can also be used to determine base damage done by Strength value; the 0 dice column is simply Strength equal to the listed bonus, while the one die column is equal to 6 plus the bonus, the two dice column 12 plus the bonus, and so on. A punch is considered a bludgeoning attack, while any other attack does damage by weapon type. (For example, a character with 10 Strength (read the One die column at +4) does 2d6-2 bludgeoning damage with a punch, while a character with 14 Strength would do 2d6+2.) 
+
+ 16.15.3  Attempting Hand-to-hand Combat
+A character may attempt Hand-to-hand combat only under the following circumstances:
+1] The enemy is unable to move; he has his back to the wall.
+2] The enemy is kneeling or prone.
+3] The enemy has a lower MOV.
+4] The attack comes from the rear hex.
+5] The enemy also wants to attempt HTH Combat.
+
+Attempting HTH combat counts as an attack. If any of the above circumstances allow the attempt, move the character into the enemy's hex. If the attacking character has a knife or pistol ready, they may use it within HTH Combat, otherwise they must drop other weapons or items in their hands. Roll one die to  determine how the defender act using the following table:
+
+2 or less
+The defender drops all weapons or other items in their hands ( unless it was a pistol or knife ) and both character's fall to the ground.
+3 or 4
+As above, but if the defender has a pistol or knife on their belt, they have in ready within HTH Combat on the next turn.
+5 or 6
+The attacker stays in their hex. The defender does not drop their weapons and HTH Combat does not take place.
+7 or more
+As above, but the defender gets one automatic hit and then calculates damage from their ready weapon. The defender may then pick another option and complete their turn.
+
+Modify the above roll as follows: 
+If the attacker comes from behind -2
+For every level of Martial Arts skill that the Defender has above the attacker: +1
+
+If any more characters attempt to join an existing HTH Combat, no roll is needed.
+
+Characters engaged in HTH combat have a +4 DEX to hit each other. Any character outside of HTH combat wishing to attack them with a melee weapon also get a +4 DEX. If one, engaged in HTH combat, misses their target they must roll to avoid any other characters in HTH combat. If any adjacent character, outside of HTH combat, attempts to attack another character within HTH combat misses them, then they must roll to avoid all other characters in the brawl. If anyone, outside HTH combat, attempts to attack characters within HTH combat with a thrown or missile weapon, roll to hit first then roll randomly to see who it hit.
+
+ 16.15.4  Using Martial Arts Skills
+Using Martial Arts skills is limited to characters who are unarmored, or who's armor and/or shields reduce their DEX by no more than 2 or is wearing an armored vest.
+
+Martial Arts Level 1 gives +1 damage to done in regular unarmed combat and HTH
+Martial Arts Level 2 gives +2 damage and the character may attempt to knockdown their enemy.
+Martial Arts Level 3 gives +3 damage, the knockdown option, the ability to defend bare handed against all weapons, and they may attempt to throw their enemy.
+Martial Arts Level 4 gives all the abilities of Martial Arts 3 plus all their side hexes count as front hexes, and their rear hex counts as a side hex. When attempting to defend, the attacker must roll 5d6/eDEX – 5 is an automatic hit, 24-26 are automatic misses, 27-28 are dropped weapons, 29-30 are broken weapons.
+Martial Arts Master gives all the abilities of Martial Arts 4 plus when anyone tries to hit them in a normal attack they must use 4d6/eDEX. When anyone tries to hit them while they are dodging they must use 5d6/eDEX. When they try to attack bare handed and do 3 more more hits on an enemy, they have hit a critical area and the enemy must drop their weapon.
+
+ 16.15.5  Knockdowns and Throws.
+If allowed, knockdowns and throws can be done instead of melee attack. Roll Opposed Rolls 3d6 against effective Strength. Characters with Martial Arts training may choose to use eDEX instead of eSTR and they get a +1 for each level of Martial Arts skills. 3, 4, or 5 is always a success. 16, 17, or 18 is always a failure. If successful the opponent is knocked to the ground. A throw is resolved like a knockdown, but if successful the attacker knocks them to the ground and moves them one hex.
+
+ 16.15.6  Subduing a Foe
+A character in HTH combat may attempt to subdue their enemy. Opposed rolls on 3d6 against eSTR are made. A character with Martial Arts training may optionally use eDEX instead of eSTR. Add +1 for every level of Martial Arts skill the character has. If the roll is successful the enemy can not move or take any other action for two turns. After that they may make another opposed rolls to break away, otherwise they have been subdued. Any attacks against a subdued foe are an automatic hit.
+
+ 16.15.7  Disarm Opponent
+In HTH combat, if your enemy has a ready weapon, like a knife or pistol, and you are unarmed, you may attempt to take it away from them or force them to drop their weapon. Make opposed rolls vs effective Strength. Add +1 for every level of Martial Arts skill the character has. Success means the enemy has lost their weapon and its now your ready weapon or (your option) on the ground.

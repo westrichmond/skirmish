@@ -1,0 +1,18 @@
+ 15  Other Items
+ 15.1  Batteries
+
+All energy weapons and mono-filament swords use energy stored in batteries. When a weapon runs out of energy, after a number of shots or turns, one must spend one turn reloading it. But a character can use a battery pack attached to the belt and connected to the weapon with a cord. This pack has as much energy as two batteries, in addition to the battery in the weapon. The only disadvantage is that it counts as a weapon in size, taking up space on the belt. Only one battery pack can be attached to a weapon at one time and can be removed in one turn. Batteries from every weapon may be recharged between combats for 5₢. 
+[Battery backpacks]
+ 15.2  Misc
+
+Rope  (10 m)
+Flashlight
+Fire Extinguisher ( one use )
+Gas Mask
+Tether ( per hex in length )
+Visor
+Flash Goggles
+Bipod
+Tripod
+Sandbags - ½ m high
+Entrenching Tools

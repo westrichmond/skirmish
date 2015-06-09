@@ -1,0 +1,32 @@
+ 8  Fighting 
+First, some necessary definitions: 
+
+ 8.1  Threat Zone
+The hex immediately in front of a character, and the two hexes immediately adjacent to that hex. Also called the character's "front hexes". A character who is unconscious, dead, fallen, prone, surprised, etc., has no Threat Zone. 
+ 
+ 8.2  Disengaged
+A character who is not in another character's Threat Zone is Disengaged. 
+
+ 8.3  Engaged
+A character who is in another character's Threat Zone is Engaged. The character doing the Engaging is not necessarily himself be Engaged, though two characters who are facing one another and are in each other's Threat Zones are both Engaged with each other. A foe with his back or side to you cannot engage you nor can they attack you with a melee, thrown or missile weapon. 
+ It is possible that a character may be unable to Engage another, due to large disparities in size, power level, etc.; a normal human (one hex) is unable to, by himself, Engage a dragon (seven hexes or more). 
+
+Characters who are Disengaged have much more freedom of movement than characters who are Engaged; see below under Combat Movement for more information. 
+ 8.4  Turns and Phases
+Combat takes place in turns, representing five seconds each. The events during a turn follow a strict sequence. Nothing happens simultaneously. Each movement or attack may affect the next one. 
+
+During a turn, each figure may execute one movement option and one action option from the lists below. Available actions are limited by the amount of movement a character has done that turn. The options available also depend on whether the character is engaged or disengaged. 
+
+A combat turn is broken up into the following Phases: 
+ 8.4.1  Initiative
+Determine the order that players move their characters. For more details see Initiative.
+ 8.4.2  Movement
+Characters take their movement actions (including not moving) in the order determined during the initiative phase. How far he moves is limited to the option chosen and his MOV. The second player does the same and the third, etc. See Combat Movement.
+
+ 8.4.3  Actions
+All actions, especially attacks, are carried out. This includes declaration of actions, attacks, defending or dodging, rolls to hit or miss, determination of damage, and applying effects of damage. Figures act in order of an effective Dexterity. This eDEX is only modified by armor, encumbrance, and accumulated damage. When making the attack this effective DEX and further adjust it for things such as range, concealment etc. If any figure gets knocked down or is killed before his turn to act comes he does not get to act that turn. See Combat Actions.
+
+ 8.4.4  Forced Retreats
+Any character who has a standing enemy in the characters threat zone and  inflicted hits on that enemy while not getting hit by that enemy may force the enemy to retreat. See Forced Retreats.
+
+If both sides have figures still willing and able to fight, begin the next turn. 

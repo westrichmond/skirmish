@@ -1,0 +1,271 @@
+SKIRMISH!
+A Game of Close Quarters Combat Using Modern and Speculative Weapons
+by Carlisle Childress and Chad Brandt Illustrations by Chad Brandt Copyright 2015
+
+Version 2.0 Draft C
+
+Version History:
+1.0 First Release, January 1982
+1.1 Digital Conversion, fix typos and minor clarifications, March 2014 1.2 Re-indexing, more minor fixes April 2014
+2.0 Rewritten to be based on Warrior and Wizard(tm) September 2014
+
+This game is derived from Warrior and WizardTM, copyright 2008 by Christopher A. Goodwin and is licensed for our use under the Creative Commons and Open Game Licenses.
+
+The text of SKIRMISHTM is dual licensed under a Creative Commons Attribution-Share Alike 3.0 United States License and under the terms of the Open Game License. For more details see Legal Stuff
+
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior express permission of the publisher.
+
+Express permission is given to reproduce this document for personal use.
+
+Send all correspondence to: westrichmondwargamegroup@gmail.com
+
+Table of Contents
+ 1 Prelude	8
+ 2 1982 Preface	8
+ 3 2014 Preface	9
+ 4 Introduction	10
+ 4.1 Dice	10
+ 4.2 Movement and Distance	10
+ 4.3 Characters	11
+ 5 Attributes	11
+ 5.1 Strength – STR	11
+ 5.2 Dexterity – DEX	11
+ 5.3 Intelligence – INT	12
+ 5.4 Movement – MOV	12
+ 5.5 Wealth – ₢	12
+ 5.6 Starting Values for Human Characters	12
+ 5.7 Effective Attribute Values	12
+ 5.8 Increasing Attributes and Skills	13
+ 5.9 Attribute Checks	13
+ 5.9.1 Difficulty	13
+ 5.9.2 Margin	14
+ 5.9.3 Opposed Rolls	14
+ 6 Skills	14
+ 6.1 INT 7 Skills	15
+ 6.1.1 Axe	15
+ 6.1.2 Bayonet	15
+ 6.1.3 Bow	15
+ 6.1.4 Crossbow	15
+ 6.1.5 Knife	15
+ 6.1.6 Polearms	15
+ 6.1.7 Shield	15
+ 6.1.8 Sword	16
+ 6.2 INT 8 Skills	16
+ 6.2.1 Common Melee Weapons	16
+ 6.2.2 Literacy	16
+ 6.2.3 Running	16
+ 6.2.4 Shotguns	16
+ 6.2.5 Shoulderarms	16
+ 6.2.6 Sidearms	16
+ 6.2.7 Small Arms	16
+ 6.2.8 Staff	17
+ 6.2.9 Swimming	17
+ 6.2.10 Thrown Weapons	17
+ 6.3 INT 9 Skills	17
+ 6.3.1 Alertness	17
+ 6.3.2 Automatic Weapons	17
+ 6.3.3 Climbing	17
+ 6.3.4 Enhanced Hearing	18
+ 6.3.5 Expert Swimmer	18
+ 6.3.6 Marksmanship	18
+ 6.3.7 Spacesuit	18
+ 6.3.8 Stealth	18
+ 6.3.9 Tough	19
+ 6.3.10 Very Tough	19
+ 6.3.11 Weight Training	19
+ 6.4 INT 10 Skills	19
+ 6.4.1 Acrobatics	19
+ 6.4.2 Astrobatics	19
+ 6.4.3 Fencing	19
+ 6.4.4 Martial Arts Level 1	20
+ 6.4.1 Quick Reflexes	20
+ 6.5 INT 11 Skills	20
+ 6.5.1 Medic	20
+ 6.5.2 Tactics	20
+ 6.5.3 Two Weapon Fighting	20
+ 6.6 INT 12 Skills	21
+ 6.6.1 Expert Stealth	21
+ 6.6.2 Martial Arts Level 2	21
+ 6.7 INT 13 Skills	21
+ 6.7.1 Strategy	21
+ 6.8 INT 14 Skills	1
+ 6.8.1 Doctor	1
+ 6.8.2 Martial Arts Level 3	1
+ 6.8.3 Martial Arts Level 4	1
+ 6.8.4 Martial Arts Master	1
+ 6.9 Weapon Skills	1
+ 6.9.1 Weapon Familiarity	1
+ 6.9.2 Common Melee Weapons:	2
+ 6.9.3 Common Missile Weapons:	2
+ 6.9.4 Uncommon Melee Weapons:	2
+ 6.9.5 Common Small Arms:	2
+ 6.9.6 Common Thrown Weapons:	2
+ 7 Example Character	4
+ 8 Fighting	4
+ 8.1 Threat Zone	4
+ 8.2 Disengaged	4
+ 8.3 Engaged	5
+ 8.4 Turns and Phases	5
+ 8.4.1 Initiative	5
+ 8.4.2 Movement	5
+ 8.4.3 Actions	5
+ 8.4.4 Forced Retreats	6
+ 9 Initiative	6
+ 10 Combat Movement	6
+ 10.1 Important Rule of Thumb	7
+ 10.2 Jumping	7
+ 10.3 Falling	7
+ 10.4 Actions During Movement	8
+ 10.5 Facing And Position	8
+ 10.6 Moving Onto Other Characters	8
+ 10.7 Movement Options for Disengaged Characters	8
+ 10.7.1 Stand Still	9
+ 10.7.2 Stand up	9
+ 10.7.3 Move One Step	9
+ 10.7.4 Move One Pace	9
+ 10.7.5 Half Move	9
+ 10.7.6 Full Move	9
+ 10.7.7 Delay	9
+ 10.8 Movement Options for Engaged Characters	9
+ 10.8.1 Stand still	10
+ 10.8.2 Stand up	10
+ 10.8.3 Shift	10
+ 11 Combat Actions	10
+ 11.1 Stand up	11
+ 11.2 Shoot	11
+ 11.3 Attack	11
+ 11.4 Defend or Dodge	11
+ 11.5 Disengage	11
+ 11.6 Changing Options	12
+ 11.7 Actions Available to Disengaged Characters	12
+ 11.7.1 Stand up	12
+ 11.7.2 Take a breather (Optional)	12
+ 11.7.3 Shoot	12
+ 11.7.4 Ready	12
+ 11.7.5 Drop	13
+ 11.7.6 Dodge	13
+ 11.7.7 Optional: Move and shoot	13
+ 11.7.8 Charge attack	13
+ 11.7.9 Full move	13
+ 11.8 Actions Available to Engaged Characters	13
+ 11.8.1 Stand up	13
+ 11.8.2 Shoot a charging enemy	14
+ 11.8.3 Drop and/or pick up weapons	14
+ 11.8.4 Attack	14
+ 11.8.5 Defend	14
+ 11.8.6 Attack hand-to-hand	14
+ 11.8.7 Disengage	14
+ 11.9 Actions Available to Characters in HTH Combat	14
+ 11.9.1 Attack	15
+ 11.9.2 Ready a Weapon	15
+ 11.9.3 Attempt to Disengage	15
+ 11.9.4 Attempt to Subdue	15
+ 11.9.5 Disarm Opponent	15
+ 12 Attacking	15
+ 12.1 Rolling To Hit	16
+ 12.2 Rolling To Avoid	17
+ 12.3 Damage	18
+ 12.4 Effects of Damage	18
+ 12.5 Forced Retreats	19
+ 12.6 Standard Damage Progression	19
+ 13 Weapons	20
+ 13.1 Weapon Limitations	23
+ 13.2 Strength Minimum	23
+ 13.3 Two-Handed Weapons	24
+ 13.4 Weapon Length	24
+ 13.5 Thrown Weapons	24
+ 13.6 Missile Weapons	24
+ 13.7 Aiming	25
+ 13.8 Attacking Into a Melee	26
+ 14 Protection from Damage	26
+ 14.1 Armor	26
+ 14.2 Encumbrance	27
+ 14.3 Shielding and Energy Shields	28
+ 15 Other Items	29
+ 15.1 Batteries	29
+ 15.2 Misc	29
+ 16 Special Combat Rules	29
+ 16.1 Improvised Weapons: “Clubs,” “Rocks,” and “Knives”	29
+ 16.2 Pole Weapons	30
+ 16.3 Bayonets	30
+ 16.4 Sweep Attacks	31
+ 16.5 Staff	31
+ 16.6 Selective Fire and Automatic Weapons	31
+ 16.7 Shotguns	33
+ 16.8 Energy Weapons	34
+ 16.9 Stun Weapons	35
+ 16.10 Plasma and Mono-filament Swords	35
+ 16.11 Fire	35
+ 16.12 Grenades and Molotovs	36
+ 16.13 Flame Throwers	38
+ 16.14 Knockdown Attack, and Throws	38
+ 16.15 Hand-to-hand and Unarmed Combat	39
+ 16.15.1 Unarmed Combat Damage	39
+ 16.15.2 Standard Damage Progression	40
+ 16.15.3 Attempting Hand-to-hand Combat	41
+ 16.15.4 Using Martial Arts Skills	42
+ 16.15.5 Knockdowns and Throws.	43
+ 16.15.6 Subduing a Foe	43
+ 16.15.7 Disarm Opponent	43
+ 17 Terrain and Environmental Factors	44
+ 17.1 Broken Ground	44
+ 17.2 Water	44
+ 17.3 Mud And Snow	44
+ 17.4 Smoke, Fog, and Dense Atmospheres.	44
+ 17.5 Complete Darkness	44
+ 17.6 Ice	45
+ 17.7 Walls	45
+ 17.8 Pits And Holes	45
+ 17.9 Changes In Gravity	45
+ 17.10 Microgravity	46
+ 17.11 Vacuum or Hostile Atmospheres	47
+ 18 Experience Points	47
+ 18.1 Redeeming Experience Points	48
+ 18.2 Buying Skill bonuses	49
+ 18.3 Improving Attributes	49
+ 19 Types of Scenarios	50
+ 19.1 Arena	50
+ 19.2 Duel	51
+ 19.3 Practice Combat	51
+ 19.4 Interior adventures	51
+ 19.5 Replacement for another game	51
+ 19.6 Handicap	52
+ 20 Combat Example	53
+ 21 Optional Rules	54
+ 21.1 Optional Advanced Initiative System:	54
+ 21.2 Movement	54
+ 21.3 Fatigue / Nonlethal Damage	55
+ 21.4 Aimed Shots and Critical hits	56
+ 21.5 Quick-Shot	57
+ 21.6 Partial Armor	57
+ 21.7 Degraded Armor	58
+ 21.8 Opportunity and Suppression Fire	58
+ 22 Proposed Rules	59
+ 22.1 Gauss / coil guns	59
+ 22.2 Exoskeletons / Powered Suits	59
+ 22.3 Death and Revival	59
+ 22.4 Changing scale	59
+ 22.5 Long distance	59
+ 22.6 Square grid	59
+ 22.7 Action Point system	60
+ 23 Legal Stuff	60
+ 23.1 Copyright Registration of Games	60
+ 23.2 Creative Commons License	60
+ 23.3 Open Gaming License	61
+ 24 Dexterity Adjustments Table	63
+ 24.1 MISSILE AND THROWN WEAPONS	63
+ 24.2 CONCEALMENT	63
+ 24.3 SUPPORT	63
+ 24.4 AIMING AND AIMED SHOTS	63
+ 24.5 ADVERSE CONDITIONS	64
+ 24.6 OTHER	64
+ 24.7 ADJUSTMENTS DUE TO RANGE	64
+ 24.8 WOUNDING	64
+ 25 Lists of Actions	65
+ 26 Skill List	66
+ 27 Dice and Probabilities	67
+ 27.1 2d6	67
+ 27.2 3d6	67
+ 27.3 4d6	68
+ 27.4 5d6	68
+ 28 Notes	68

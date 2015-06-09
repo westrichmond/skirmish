@@ -1,0 +1,105 @@
+ 24  Dexterity Adjustments Table
+ 24.1  MISSILE AND THROWN WEAPONS
+
+Using a missile weapon with the Marksmanship skill	
++3
+Throwing anything with the Thrown weapons skill		
++2
+Throwing anything over a wall that you cannot see over
+-6
+Firing a shotgun at a target 15 or more hexes away		
++3
+Firing pistol after a quickdraw					
+-2
+Firing in Complete Darkness				
+your DEX is 5 (not -5)
+Moving more than one hex firing any missile weapon	
+-2
+ 24.2  CONCEALMENT 
+(not cumulative with each other)
+
+Firing at a target that is half-hidden			
+-4
+Firing at a prone or kneeling target behind a body	
+-4
+Firing at a prone figure						
+-3
+Firing at a kneeling figure					
+-2
+ 24.3  SUPPORT 
+(not cumulative with each other)
+
+Supported by a tripod						
++4
+Supported by a bipod						
++3
+Using a rifle weapon moving no more than one hex	
++1
+Using a pistol weapon when prone				
++1
+Weapon is supported						
++2
+ 24.4  AIMING AND AIMED SHOTS 
+(any weapon)
+
+Aiming for one turn						
++1
+Aiming for two or more turns					
++2
+Any head shot							
+-6
+Arm or leg shot							
+-4
+Arm shot with a knife						
+-6
+ 24.5  ADVERSE CONDITIONS
+
+Broken ground, water, mud, snow					
+-2
+Complete darkness for regular weapons				
+-8
+Attacking into or from smoke or fog 					
+-1 per hex
+Using a regular weapon against or from a floating figure	
+-4
+Effected by Tear Gas							
+-4
+ 24.6  OTHER
+
+Using a weapon that you do not have the skill for, except for
+clubs, rocks, and brass knuckles	
+-4
+Using a weapon that you do not have the ST to use	 
+-1 for every ST you lack
+Hand to Hand combat								
++4
+Attacking with a regular weapon at an enemy with his back to you
++4
+Attacking with a regular weapon at an enemy wiﬂt) his side to you
++2
+ 24.7  ADJUSTMENTS DUE TO RANGE
+
+For missile weapons, 0-2 MH			
+No adjustment
+For missile weapons, beyond 2			
+-1 for every 2 additional MH
+For thrown weapons 					
+-1/hex
+For throwing grenade weapons			
+-1/MH
+ 24.8  WOUNDING
+
+You took 5, 6, or 7 points of damage last turn	
+-2
+You took 8 or more points of damage 		
+-2 and Fall down
+You ST is 2 or 3 	
+-3
+You ST is 1 or 0						
+Cannot attack; fall down
+You got hit in the head doing 2, 3, or 4 points of damage		
+-2
+You got hit in the head doing 5 or more points of damage		
+Cannot attack; fall down.
+
+Also see the Weapons and Armor Table for complete explanations.

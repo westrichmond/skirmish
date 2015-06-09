@@ -1,0 +1,57 @@
+ 25  Lists of Actions
+
+Disengaged Characters
+Action
+Maximum Movement before Action
+Stand Up
+Stand Still
+Take a breather
+Stand Still
+Shoot
+One Step
+Ready Weapon
+One Pace
+Drop
+Half-Move
+Dodge
+Half-Move
+Attack
+Half-Move
+Run
+Full-Move
+
+Engaged Characters
+Action
+Maximum Movement before Action
+Stand Up
+Stand Still
+Shoot
+Stand Still
+Drop
+Stand Still
+Pick up a weapon
+Stand Still
+Attack
+Shift
+Defend
+Shift
+Switch
+Shift
+Attempt HTH
+Shift
+Disengage
+Stand Still
+
+Hand-to-Hand Combat Options
+Action
+Maximum Movement before Action
+Attack
+Stand Still
+Ready
+Stand Still
+Disengage
+Stand Still
+Subdue
+Stand Still
+Disarm 
+Stand Still

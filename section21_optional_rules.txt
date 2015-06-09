@@ -1,0 +1,56 @@
+ 21  Optional Rules
+ 21.1  Optional Advanced Initiative System: 
+All characters make a Dexterity Check, and go first in order from highest to lowest margin of success. Skills of Tactics and Strategy are applied.
+ 21.2  Movement
+MOV=(STR+eDEX)/2    Movement is equal to the character's (Current Strength + Effective Dexterity) / 2 (round up). Care should be taken when calculating this value, as it can change even during combat; wounds, armor, and other factors can all have an effect on the character's Movement. 
+
+ 21.3  Fatigue / Nonlethal Damage
+If using the Optional Movement Rules above, a character loses 1 Movement for every 2 damage he takes (this is calculated from Strength loss; don't recalculate Movement for Strength then apply this as additional penalty!). 
+
+Optional Nonlethal Damage Rule: Damage is divided into two types: Lethal and Nonlethal. There are four types of attacks: 
+
+* Stunning, which do all of their damage as Nonlethal only 
+* Bludgeoning, which do 1/3 of their damage as Lethal and 2/3 as Nonlethal 
+* Damaging, which do all of their damage as Lethal 
+* Shock, which do all of their damage as Lethal, and the same amount as Nonlethal 
+
+All other attacks, and spells that are not specified, do their full damage as Lethal. Strength loss from spellcasting is considered to be Nonlethal damage. As in the Optional Spellcasting Damage Rule, a character falls unconscious when he has taken a total amount damage (Lethal and Nonlethal) equal to his Strength, but only dies when his Lethal damage equals his Strength score. 
+
+Armor stops Lethal damage first, and healing spells heal Lethal damage first, unless otherwise specified. 
+
+A character can take a breather; he does nothing else and recovers 1d6 worth of nonlethal damage. This means he does nothing else during the turn; no movement, no fighting, no spending STR on maintaining spells (though any spells that aren't up for upkeep this turn, or any spells that cost 0 STR for upkeep, will continue). If he takes any damage at all through armor, lethal or nonlethal, during the Turn, then his breather is spoiled and he does not recover. Other characters are at +3 to hit a character who is taking a breather. 
+ 
+A character who goes unconscious essentially spends every turn taking a breather; he recovers 1d6 nonlethal damage each turn. He becomes conscious once he recovers more STR than the amount of lethal damage he has taken (note that that's greater than, not greater than or equal to; a character who has taken 2 lethal damage has to recover to 3 STR or better before he becomes conscious). Example: A character with 10 STR who has taken 12 damage, 4 lethal and 8 nonlethal, is now at -2 STR. Since he has taken 4 lethal damage he has to recover to greater to 5 or more STR, so he has to recover at least 7 STR worth of nonlethal damage. 
+
+A character who has gone unconscious due to taking a total of more than half his STR in lethal damage won't wake up during this combat; it takes 1 minute per additional STR loss to wake up, and he has to be receiving some kind of assistance.
+* Take a breather: (Optional)  A character can recover 1d6 nonlethal damage and do nothing else.
+Optional: each turn of melee attack, defense or full run increase fatigue by one
+[Should a new attribute: Endurance, be introduced to track this?]
+ 21.4  Aimed Shots and Critical hits
+In this game hits represent generalized injury. Double and Triple damage represent hits in vulnerable places, like the heart. Damage can also be taken in special critical places producing adverse effects without necessarily killing the target. These hits can be either accidental or intentional. If on any to-hit roll on 3 or 4 dice you roll a 3, 4, 5, or 6 you have a chance of making a critical hit. Roll 2 dice to find where it is. A 2-7 is not a critical hit. 8 is right leg, 9 is left leg, 10 is weapon arm (usually right unless otherwise stated), 11 is other arm, and 12 is head.
+
+One can also select these areas as the target of an attack. The DEX adjustment for making a head shot is -6. One at the arms or legs is -4. If a shot at the head is successful and does 2 or more hits the target has a -4 DEX next turn. If it does 5 or more hits he is stunned and falls unconscious. If a shot to the arm is successful and does 3 or more hits the target drops his weapon if it hit the weapon hand. If it does 6 or more hits the arm cannot be used until it heals between combats. If it does 8 or more hits the arm is lost, permanently. All other damage above 8 passes by and is not applied to the target.
+
+ If a shot to the leg does 3 or more hits he must immediately drop to the kneeling position. He remains down for the rest of this turn and the next turn. On the third turn he may standup and do any other option. If it does 6 or more hits he falls and the use of the leg is lost until healing occurs between combats. His MOV is reduced to 0. If a hit to the leg does 18 or more hits, the leg is lost permanently; Your MOV is reduced to 0 for this combat and is permanently reduced to 4 for any other combats. All other damage above 18 passes by and is not applied to the target.
+
+ 21.5  Quick-Shot
+[Quick Actions: Draw and fire, leave cover and fire, quick drop, quick reload] 
+
+One may attempt a quick shot of short missile weapon (like a pistol) or thrown weapon (like a knife)  They may try only if he does not have a ready weapon and there is a short missile or thrown weapon on his belt. The roll to hit is increased by 1d6, thus its usually 4d6 against most foes, but 5d6 against a dodging foe. If two figures with the same eDEX perform a quick draw at each other, instead of randomly deciding who fires first, use the roll to draw, the most successful, that is has the highest margin, fires first. 
+
+[critical failure on quick-shot causes attacker to drop weapon or injure himself] 
+[critical failure on leave cover and fire allows foe to get in a shot]
+
+You also get special adjustments and rules concerning automatic weapon fire. If a figure with a shoulderarm weapon becomes engaged he may either fire off one shot (or two shots for the assault rifle and machine gun on full automatic fire) and drop it or use it as a melee weapon, i.e. club or bayonet. If one fires it while using a bayonet he must then drop it.
+ 21.6  Partial Armor
+An armored jacket or vest can be worn instead of full body armor. The advantage of the jacket is that it can be worn without loss to MOV. An armored vest or helmet can be worn without loss to both DEX and MOV. But, anytime an aimed shot or a critical hit to the legs, for the jacket, or to the legs and arms, for the vest, occurs, the armor does not stop it. The same is true for jacket and vest shielding. Figures without helmets are not protected from critical or aimed shot to the head. Flash Goggles and Visors protect from the bright flashes associated with energy weapons. If a figure without googles or a visor is hit in the head by an energy weapon he must make a 4d6/eDEX saving roll to avoid blinding. The permanent disability of -4 DEX occurs when blinded. A helmet without a visor is also not protected from aimed shots with a thrown knife.
+
+Against fire, grenades, and shotguns the armored vest or jacket is not as effective. Any vest stops only one third, rounded down, as many hits against these weapons. The jacket stops one-half as many hits, rounded down. Full body armor is not effected by this.
+
+See Armor table for details about jackets, vests and helmets for each armor type.
+ 21.7  Degraded Armor
+This will take extra record keeping but is more realistic. As armor takes hits it will break down until it is completely useless. Full body armor will take 40 times the number of hits it will absorb before it is degraded. Thus Graphite-Epoxy, which absorbs 13 hits will take 520 hits before it is useless. Shielding will take 40 times its R rating in damage dice of absorption before it is useless. R2 shielding will absorb 80 dice of damage. Armor that is taken to an Armorer before it is more than half damaged can be fully repaired (cost?)
+ 21.8  Opportunity and Suppression Fire 
+A character attacking with a missile or thrown weapon may elect to target a hex instead of a particular foe. A character with a melee weapon may select an adjacent hex in their hostile zone, for example, in anticipation of a foe coming through a doorway. Once this action is declared, the attack takes place during the foe's next movement phase when a foe enters the targeted hex (of nearby)  The attacking player may wish to write down the targeted hex to conceal the exact location from opposing players. The roll to hit is done immediately, during the foes movement phase, instead of during the attackers normal action phase. If a foe moves into that hex during the movement phase then opportunity fire takes place immediately. Similarly if a foe that was under cover, leaves cover for any reason during the action phase, opportunity fire takes place during the foe's action. The attacker is at a -2 DEX penalty, but this can be removed if they had been aiming. In general, only a single foe may be attacked during opportunity fire, even with a weapon capable of multiple attacks although other foes may be hit by a weapon that does blast damage like a shotgun or grenade. The attacker may not move or change facing during opportunity fire, although they may stop opportunity fire, change facing or move no more than one hex, then declare opportunity fire again during the attack phase, giving their foes a brief chance to move. Normal Range penalties apply. Change target hex penalty: The attacker may attack a foe who presents themselves, but it not in the target hex, however a -1 DEX penalty is applied per hex between the declared target hex and where the foe is. 
+
+Similar to opportunity fire, an attacker selects a hex that they will be actively firing to. There is no additional DEX penalty but they expend the maximum shots/turn of the weapon for each turn of suppression fire, even it no foe enters the hex, or no foe is hit. Multiple foes may be hit up to the shot fired by the suppressing weapon. Normal Range penalties apply. Automatic weapons are particularly suited for suppression fire.

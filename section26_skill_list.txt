@@ -1,0 +1,289 @@
+ 26  Skill List
+Name
+Slots
+INT
+DEX
+STR
+Prerequisite Skill
+Axe
+2
+7
+
+
+
+Bayonet
+1
+7
+
+
+
+Crossbow
+1
+7
+
+
+
+Knife
+1
+7
+
+
+
+Longbow
+1
+7
+
+
+
+Pole Weapons
+2
+7
+
+
+(Bayonet)
+Shield
+1
+7
+
+
+
+Sword
+1
+7
+
+
+(Knife)
+Literacy
+1
+8
+
+
+
+Common Melee Weapons
+3
+8
+
+
+(any Melee)
+Running
+2
+8
+
+
+
+Sidearms
+1
+8
+
+
+
+Shoulderarms
+1
+8
+
+
+
+Flame Thrower
+1
+8
+
+
+
+Machine Gun
+1
+8
+
+
+
+Grenade Launcher
+1
+8
+
+
+
+Staff
+1
+8
+
+
+
+Swimming
+1
+8
+
+
+
+Thrown Weapons
+2
+8
+
+
+
+Alertness
+2
+9
+
+
+
+Climbing
+1
+9
+
+
+
+Enhanced Hearing
+3
+9
+
+
+
+Expert Swimmer
+1
+9
+
+
+Swimming
+Small Arms
+2
+9
+
+
+(any firearms)
+Heavy Weapons
+2
+9
+
+
+(any hvy weap)
+Energy Weapons
+1
+9
+
+
+
+Marksmanship*
+1 – 3
+9
+14
+
+(any missile weap)
+Weapon Master*
+1 – 3
+9
+14
+
+(any melee)
+Spacesuit
+1
+9
+
+
+
+Stealth
+2
+9
+
+
+
+Weight Training
+3
+9
+
+
+
+Tough
+2
+9
+
+14
+
+Very Tough*
+3
+9
+
+16
+Tough
+Acrobatics
+3
+10
+12
+
+
+Astrobatics
+2
+10
+
+
+
+Martial Arts Level 1
+2
+10
+13
+
+
+Quick Reflexes
+3
+10
+13
+
+
+Medic
+2
+11
+
+
+
+Tactics
+1
+11
+
+
+
+Two Weapon Fighting
+3
+11
+13
+
+(any melee)
+Expert Stealth*
+3
+12
+
+
+Stealth
+Martial Arts Level 2
+2
+12
+13
+
+Martial Arts 1
+Strategy*
+2
+13
+
+
+Tactics
+Doctor*
+2
+14
+
+
+Medic
+Martial Arts Level 3
+2
+14
+14
+
+Martial Arts 2
+Martial Arts Level 4
+2
+14
+15
+
+Martial Arts 3
+Martial Arts Master*
+3
+14
+16
+
+Martial Arts 4

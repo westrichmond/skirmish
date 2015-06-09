@@ -1,0 +1,18 @@
+ 22  Proposed Rules
+ 22.1  Gauss / coil guns
+
+ 22.2  Exoskeletons / Powered Suits
+
+ 22.3  Death and Revival
+
+ 22.4  Changing scale
+
+ 22.5  Long distance 
+Long distance shooting and maximum range of weapons. When firing missile weapons at targets at very long distances (those well beyond the range of the board) there are limits of maximum range base on each weapon's characteristics. Maximum effective range is the maximum distance before there is a reduction in the amount of damage that weapon does. Marksmanship skill also gives more advantages when shooting at long distances than just the increase chance to hit.
+
+[Chart]
+
+ 22.6  Square grid 
+If using a square grid, one multihex is a group of nine squares arranged three-by-three; it might prove useful to set one multihex to be 4 meters by 4 meters. In a square grid, assume that for lateral movement, one diagonal square is equal to two squares of movement distance, but for areas assume that one space diagonally is equal to one hex (one yard or meter). 
+ 22.7  Action Point system
+ Can the system of combat movement and actions be converted into system of action points which allow for the same actions but are also more flexible and still playable?

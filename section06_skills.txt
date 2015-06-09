@@ -1,0 +1,218 @@
+ 6  Skills 
+Skills are abilities or knowledge that a character has learned to do. In general a character cannot do something unless he has the skill for it. Some abilities can be done without having learned a skill, but with an additional penalty to success. For example, characters can use weapons that they do not have a skill for, but they are at a -4 DEX modifier when trying to hit. No skill is needed to fight with certain improvised weapons.
+
+A starting character can learn a total number of Skills equal to his Intelligence; some Skills take up two or more "slots" toward this total. The cost of each Skill, as well as the minimum Intelligence required to learn it, is noted following the Skill's description. A character cannot learn a Skill unless his Intelligence is equal to or greater than its INT minimum. Some skills have prerequisites of other skills or other attribute minimums. A character can change their skills between, but not during, combats. 
+
+Many Skills call for an Attribute Check under certain circumstances; normally an Attribute Check is only required in a situation of combat, conflict, or other stress. An Attribute Check should only be required if the consequences of failure are as interesting as those of success. 
+
+Prerequisites: For some Skills a prerequisite is listed. The character must have all of the prerequisites in place for a Skill before he can learn it. For instance, if a Skill calls for having a Dexterity score of 13 or more, plus the Swords Skill, the character must have 13 or more Dexterity and Swords before he can learn the other one.
+ 6.1  INT 7 Skills
+Characters wishing to learn these skills must have an INT of 7 or more.
+ 6.1.1  Axe
+The ability to fight with axes, hammers, mauls, and maces. Note: no skill is required to use a club in combat. Cost: 2 Slots.
+ 6.1.2  Bayonet
+The ability to fight with a bayonet as attached to a rifle or other firearm. 
+Cost: 1 Slot.
+ 6.1.3  Bow
+The ability to shoot accurately with bow and arrow. Cost: 2 Slots.
+ 6.1.4  Crossbow
+The ability to fire a crossbow accurately. Cost: 1 Slot.
+ 6.1.5  Knife
+The ability to fight with short bladed weapons. Cost: 1 Slot.
+ 6.1.6  Polearms
+The ability to fight with pole arms such as spears, halberts, and glaives. Pole weapons have special combat rules. Cost: 2 Slots. (only 1 if the characters already knows Bayonet)
+ 6.1.7  Shield
+The ability to hold a shield in one hand while fighting with a weapon in another. Shields have special combat rules. Cost: 1 Slot. [In addition to armor protection, should a shield wearer be able to defend and attack in the same action with an attack penalty? Or is this only for people who also have two-weapon skill?]
+ 6.1.8  Sword
+The ability to fight with all sizes of bladed weapons. Cost: 2 Slots. (only 1 if the characters already knows Knife)
+ 6.2  INT 8 Skills
+ 6.2.1  Common Melee Weapons
+A collective skill that covers the use of Axe, Knives, Pole Weapons, and Swords. Cost: 3 Slots.
+ 6.2.2  Literacy
+The character knows how to read and write any languages he can speak. Assumed to be part of general knowledge in educated societies. Literacy Cost: None. In societies where few are educated, this costs 1 slot and is a prerequisite for any skill involving research or formal study.
+ 6.2.3  Running
+Running is primarily skill at long distance running; add +2 to the character's Movement in all situations where long distance running is a factor. Running Cost: 2 slots.
+ 6.2.4  Shotguns
+Like the Sidearms skill, but covers just Shotguns. Cost: 1 Slot.
+ 6.2.5  Shoulderarms
+Like the Sidearms skill, but covers the ability to use rifles and similar long barreled firearms. Cost: 1 Slot.
+ 6.2.6  Sidearms
+The ability to use pistols and similar short barreled firearms. Not only does this skill cover how to safely fire the weapon, but also standard safety procedures, field maintenance and simple repairs. Cost: 1 Slot.
+ 6.2.7  Small Arms
+Combines the skills of Sidearms, Shotguns, and Shoulderarms. Cost: 2 Slots. (only 1 Slot if you already have Sidearms, Shotguns, or Shoulderarms)
+[Should fully automatic fire be a separate skill?]
+ 6.2.8  Staff
+Not a Wizard's Staff but a study pole about two meters in length used for Stick Fighting. It may also be called a Quarterstaff, Short Staff, or Bō. They have special combat rules. An item of the right length and diameter could be used as an improvised weapon, but it may break easier. Cost: 1 Slot.
+ 6.2.9  Swimming
+The character knows how to swim. A character without this Skill makes a 3d6 Dexterity Check every turn or begins to drown. Encumbrance reduces this directly. A character with Swimming only has to make this roll in an emergency situation. Swimming Cost: 1 Slot.
+ 6.2.10  Thrown Weapons
+The characters is train to toss weapons such as knives, rocks, small axes, and spears forcefully and accurately. They also get a +2 DEX bonus whenever they thrown something and may make a quick shot attack with thrown weapons. Cost: 2 Slots.
+ 6.3  INT 9 Skills
+ 6.3.1  Alertness
+A character with the Alertness Skill rolls 1 die less on Intelligence Checks related to seeing and perception, whether actively searching or passively noticing things. He can also roll a 3d6 Intelligence Check to notice an ambush before being attacked. Alertness Cost: 2 slots. Min. INT: 9
+ 6.3.2  Automatic Weapons
+The ability to use fully automatic weapons. Without this skill there is a -4 DEX penalty to use fully automatic weapon even if the character is trained to use the weapon in semi-	automatic or burst modes. Includes routine maintenance and the ability to clear jams. Prerequisite: Shoulderarms. Cost 1 Slot.
+ 6.3.3  Climbing
+Climbing is the ability to climb mountains and rock walls; it's any climbing where climbing gear is used (ropes, spikes, pitons, etc.) This Skill requires a climbing kit to use effectively. Climbing Cost: 1 Slot.
+
+
+
+ 6.3.4  Enhanced Hearing
+The character hears much better than normal. He rolls 1 fewer die on all hearing Perception Checks, and has a chance to hear other characters in situations where they are normally unable to be heard (such as while attempting Stealth, planning an ambush, etc.)  Enhanced Hearing Cost: 3 slots.
+ 6.3.5  Expert Swimmer
+The character is an excellent swimmer and is skilled in water rescue techniques such as lifeguarding, CPR, and rescue swimming. He is certified to save lives on the water, if in a culture that does so. He can roll a 3d6 Dexterity Check to attempt to rescue a swimmer who is drowning, and can roll a 4d6 Intelligence Check to attempt resuscitation against a swimmer who has lost all Strength to drowning, if begun within 3 minutes. Expert Swimmer Cost: 1 Slot.
+ 6.3.6  Marksmanship
+The character gets a +3 bonus to hit with all missile weapons that he knows how to use. Cost: 3 Slots
+ 6.3.7  Spacesuit
+The ability to work and fight while wearing a spacesuit in outer space or protective suit in other hostile environments. This also includes training on how to deal with punctures or other common emergencies and the proper use of airlocks and decontamination procedures. This skill is not needed to simply wear a suit, but without this skill actives are limited. Cost: 1 Slot.
+ 6.3.8  Stealth
+The character has the ability to move silently. On a successful 3d6 vs eDEX Check, the character cannot be heard by characters with normal hearing. Characters with Enhanced Hearing can hear the character up to 3 multihexes away, but only if they are actively listening. On a failed roll, those with Enhanced Hearing can hear the character if they are passively listening within 3 MH; those with normal hearing can hear the character if they are actively listening and within 3 MH. In both cases a successful 3d6 Intelligence Check is necessary, with a margin of success greater than the Stealth character's Dexterity Check. Stealth Cost: 2 Slots.
+
+
+
+ 6.3.9  Tough
+A Tough character has had years of rough and tumble combat experience, and has taken a few hits in his time. He takes one point less damage from every hit in combat. (If the optional nonlethal damage rules are used, he also takes two points less nonlethal damage.)  Tough Cost: 2 slots. Prerequisite: STR 14+
+ 6.3.10  Very Tough
+This character makes the Tough character look like a green troop, wet behind the ears. He takes two points less damage from every hit. (If the nonlethal damage rules are used, he also takes 4 points less nonlethal damage.)  Very Tough Cost: 3 Slots. Prerequisites: STR 16+ and Tough.
+ 6.3.11  Weight Training
+The character has engaged in an exercise discipline that allows them to carry more than others of their same Strength attribute. It increases their effective STR but does not give them any additional hit points. +2 STR Cost: 3 Slots.
+ 6.4  INT 10 Skills
+ 6.4.1  Acrobatics
+Acrobatics allows the character to roll one fewer die on any Attribute Checks required to keep his balance, maintain footing, avoid falling objects, or other similar feats. He can also increase his leaping Movement (....) with a successful 3d6 Dexterity Check. He can also climb up a rope, or climb a wall, tree, or other obstacle, using a rope, at a rate of 2 hexes per Turn, with no Attribute Check required (anyone without this Skill must roll a successful 2d6 Dexterity Check, and can only move 1 hex per Turn). Cost: 3 Slots. Prerequisite: Dexterity 12 or more.
+ 6.4.2  Astrobatics
+The ability to work and fight in outer space and microgravity environments with and without a spacesuit. See Microgravity in Adverse Conditions. Prerequisite: Dexterity 12 Cost: 2 Slots, only 1 if you already have Acrobatics.
+ 6.4.3  Fencing
+The character is an expert swordsman, studied and skilled in formal sword combat; Fencing is essentially a martial art form. The character can only use Fencing if his Effective Dexterity is 14 or higher. In sword combat, the character does double damage on a roll of 5-7 and triple damage on a roll of 3-4. Fencing Cost: 3 Slots. Prerequisites: Dexterity 14+, Effective Dexterity 14+, Weapon Familiarity with Swords. 
+
+ 6.4.4  Martial Arts Level 1
+This is a basic, formally studied unarmed combat form. The Skill represents multiple forms, and the player can choose which the Skill is intended to represent. The character does one extra point of damage when fighting bare-handed. In order to use any Martial Arts Skills, the character must either be unarmored or wearing armor no heavier than cloth. Martial Arts I Cost: 2 Slots. Prerequisites: DEX 13+ 
+ 6.4.1  Quick Reflexes
+Quicker than average manual dexterity. It allows the character to roll one fewer die on any Attribute Checks required for a quick-shot, catch a thrown object, or other similar feats. Cost 3 Slots. Prerequisite: DEX 13+
+
+ 6.5  INT 11 Skills
+ 6.5.1  Medic
+The Medic is a skilled in emergency or combat first aid. He can heal up to 2 points of damage to any character (lethal or nonlethal) immediately after the combat or incident in which the damage was incurred. He must have a medical kit. Two or more chirurgeons cannot pool their efforts to heal a character of more than 2 points. Each use of the Medic Skill takes 5 minutes. Cost: 2 Slots.
+ 6.5.2  Tactics
+This is the ability to formulate battle plans, anticipate what the enemy will do, and "push troops". The character can use this in combat at any scale from single to about battalion size. The character can have the GM roll a 5d6 Intelligence Check to determine what the enemy (NPC) will do; if the roll succeeds, the GM must tell the player, truthfully, what he plans to have the enemy do. The character (and his party, if he is the party leader) gets +1 on any initiative rolls. Tactics Cost: 1 Slot.
+ 6.5.3  Two Weapon Fighting
+A character with this Skill has the ability to fight with a weapon in each hand. More to the point, he can fight with two weapons that aren't part of a combination (combinations are sword and dagger, sword and main gauche, sword and spiked buckler, net and trident, paired cesti); a character without this skill can fight with two weapons that are part of a combination. 
+
+The character with Two Weapon Fighting can:
+ 
+Attack with both weapons, against the same or different targets. The first attack is at normal value; the second is at -4. 
+Attack with one weapon and parry (defend) with one. 
+Parry (defend) with both. 
+
+Two Weapon Fighting can be used in combination with the Fencing skill and appropriate weapons (two rapiers or a rapier and main gauche). Two Weapon Fighting Cost: 3 Slots. Prerequisites: DEX 13+, skills for all weapons used.
+ 6.6  INT 12 Skills
+ 6.6.1  Expert Stealth
+This is the ability to "hide in plain sight". With successful 3d6 Intelligence Check, the character can hide in an area even when there is a chance someone might be able to see him; if there is any cover at all he can hide behind it, or he can hide in bizarre areas where no one would think to hide, much less look. He can peek around corners and through windows and slightly-open doors without being seen. With a successful 4d6 Intelligence Check he can "break a tail" if there is someone following him. (Without this Skill these checks are on 5d6 and 7d6, respectively.)  To use Expert Stealth, the character must be wearing leather, cloth, or no armor. Expert Stealth Cost: 3 Slots. Prerequisite: Stealth
+ 6.6.2  Martial Arts Level 2
+Like Martial Arts Level 1, but the character does 2 points of damage in combat. The character can also throw a target; this acts like a shield rush, and uses the rules for shield rush, but a shield isn't required. Cost: 2 Slots. Prerequisite: Martial Arts 1
+ 6.7  INT 13 Skills
+ 6.7.1  Strategy
+This is knowledge of strategy and military science. This is a higher level than Tactics; it involves coordination of troop movements at battalion level and above, knowledge of supply lines, the ability to coordinate disparate operations groups (such as air and ground, or ground troops and psychological operations), and the like. A party led by a character with Strategy receives +2 on all Initiative in combat. Strategy Cost: 2 Slots. Prerequisites: Tactics, plus two years' military experience. 
+
+ 6.8  INT 14 Skills
+ 6.8.1  Doctor
+One trained in trauma medicine. A Doctor has all of the abilities of a Medic, and can heal one additional point of damage with or without a medical kit. (Note that healed damage is not cumulative between Doctors and/or Medics; two of either or both can't work together to add their healing abilities). Cost: 2 Slots. Prerequisite: Medic
+ 6.8.2  Martial Arts Level 3
+Prerequisite: Martial Arts Level 2, DEX of 14+ For details see Hand-to-Hand Combat. Cost: 2 Slots.
+ 6.8.3  Martial Arts Level 4
+Prerequisite: Martial Arts Level 3, DEX of 15+ For details see Hand-to-Hand Combat. Cost: 2 Slots.
+ 6.8.4  Martial Arts Master
+Prerequisite: Martial Arts Level 4, DEX of 16+ For details see Hand-to-Hand Combat. Cost: 3 Slots.
+ 6.9  Weapon Skills 
+ 6.9.1  Weapon Familiarity
+The character is familiar with a weapon, or type of weapon, and knows how to use it in combat at no penalty. Attempting to use a weapon in combat without knowing how to use it incurs a -4 penalty on all rolls to hit; some weapons either can't be used unskilled or can potentially injure the unskilled user (this is noted in the weapon's description). Costs and Minimum Intelligence scores for the various weapon groups are listed in the table below:
+
+
+Skill
+Slots
+Min. INT
+Notes
+Axe/Mace/Hammer
+2
+7
+Except club (no skill required)
+Bows
+2
+7
+
+Common Melee Weapons
+3
+9
+Weapon Category
+Common Missile Weapons
+3
+9
+Weapon Category
+Crossbow
+1
+7
+
+Knife
+1
+7
+
+Longbow
+1
+7
+
+Pistols
+1
+8
+Refers to modern pistols
+Pole Arms
+2
+7
+
+Quarterstaff
+1
+8
+Uncommon Melee Weapon
+Rifles
+1
+8
+Refers to modern rifles
+Shield
+1
+7
+
+Shotguns
+1
+8
+Refers to modern shotguns.
+Small Arms
+2
+8
+ Weapon Category
+Swords
+2
+7
+Weapon Category (includes Knives).  Part of Common Melee Weapons
+Thrown Weapons
+2
+8
+
+
+
+
+
+
+
+The weapon categories are as follows:
+ 6.9.2  Common Melee Weapons: 
+Includes Axe/Mace/Hammer, Knives, Pole Arms, Swords.
+ 6.9.3  Common Missile Weapons: 
+Includes Bows, Crossbows, Slings.
+ 6.9.4  Uncommon Melee Weapons: 
+Each of the following is its own Skill and must be bought separately:  Blowgun, Bola, Boomerang, Cestus, Lasso, Naginata, Net, Quarterstaff, Sha-Ken, Spear Thrower.
+ 6.9.5  Common Small Arms:
+Pistols (incl. Revolvers), Rifles, Shotguns, Submachine Guns.
+ 6.9.6  Common Thrown Weapons:
+Thrown Rock, Thrown Knife, Grenades.
+
+The cost of any of the "Common" groups is reduced if you have any of the component groups, by the cost of the component groups. More information on weapons, including using them in combat, may be found in the Combat section.
+
+Familiarity with a weapon also provides some effective Armory skill when using that weapon; the character knows how to perform basic field maintenance and some extremely minor repairs. Weapon Familiarity Cost: See table. Min. INT: See table.

@@ -1,0 +1,394 @@
+ 13  Weapons 
+The weapons available to characters in SKIRMISH are listed in the table below. 
+
+Weapons Table
+
+
+Weapon Name
+Damage
+STR Min.
+Length
+Notes
+Knives:
+
+
+
+
+Utility Knife
+1d6-1
+-
+Short
+Thrown
+Fighting Knife
+1d6+1
+10
+Short
+
+
+
+
+
+
+Swords:
+
+
+
+
+Saber / Machete / Cutlass
+2d6-2
+10
+Medium
+
+Broadsword / Katanna 
+2d6-1
+13
+Medium
+
+Broadsword / Katanna 
+2d6+1
+13
+Medium
+Two-handed 
+Mono-filament Sword
+3d6+6
+
+Medium
+
+Plasma Sword
+5d6+4
+
+Medium
+
+
+
+
+
+
+Axe:
+
+
+
+
+Club/Baton
+1d6
+9
+Medium
+Thrown
+Hatchet
+1d6
+9
+Medium
+Thrown
+Stun Baton
+
+     
+
+
+
+
+
+
+
+Boarding Axe / Crash Axe / Tomahawk
+1d6+2
+11
+Medium
+Thrown
+Fire Axe 
+2d6
+12
+Medium
+Two-handed
+Sledge Hammer
+2d6+2
+14
+Medium
+Two-handed
+
+
+
+
+
+Pole Arms:
+
+
+
+
+Spear
+1d6
+11
+Long
+Thrown
+Spear
+1d6+1
+11
+Long
+2-handed
+Bayonet
+1d6+1
+11
+Long
+2-handed
+Stun Spear
+
+
+
+
+
+
+
+
+
+Missile Weapons:
+
+
+
+
+
+
+
+
+
+Sling
+1d6-2
+-
+
+
+Modern Recurve Bow
+
+
+
+
+Compound Bow
+
+
+
+
+Longbow
+1d6+2
+11
+
+2-handed
+Light Crossbow
+2d6
+12
+
+2-handed
+Heavy Crossbow
+3d6
+15
+
+2-handed
+
+
+
+
+
+Sidearms
+
+
+
+
+Pistol
+2d6
+9
+Short
+
+High-powered Pistol
+3d6 + 2
+15
+
+
+Semi-automatic Pistol
+2d6
+10
+Short
+
+High-powered Semi-automatic Pistol
+3d6 + 2
+16
+
+
+Laser Pistol
+4d6 + 2
+nil
+Medium
+
+Plasma Pistol
+5d6 + 3
+10
+Medium
+
+
+
+
+
+
+Shoulderarms
+
+
+
+
+Rifle
+4d6 + 1
+10
+Long
+Two-handed
+Semi-automatic Rifle
+4d6 + 1
+10
+Long
+Two-handed
+High-powered Rifle
+7d6
+17
+Long
+Two-handed
+Automatic Rifle
+3d6 – 1
+11
+Long
+Two-handed
+Submachine Gun
+2d6
+9
+Medium
+Two-handed
+Coil Rifle
+5d6
+10
+Long
+Two-handed
+Laser Rifle
+6d6
+nil
+Long
+Two-handed
+Plasma Rifle
+7d6 + 3
+10
+Long
+Two-handed
+Shotgun
+See rules
+12
+Long
+Two-handed
+Automatic Shotgun
+See rules
+12
+Long
+Two-handed
+ Stun Gun
+
+
+
+
+
+
+
+
+
+Other Weapons
+
+
+
+
+Brass Knuckles
+Varies with STR
+
+
+
+
+Th
+-
+
+Thrown
+Staff
+1d6+2
+11
+Medium
+
+Burning Torch
+(See Notes)
+-
+Medium
+See below under Fire Damage
+Improvised Weapon
+(See Notes)
+
+Short/Medium
+See below under Improvised Weapon
+Molotov
+(See Notes)
+
+
+See below under Fire Damage
+Fragmentation Grenade
+(See Notes)
+
+
+See below under Firearms
+Concussion Grenade
+(See Notes)
+
+
+See below under Firearms
+Gas Grenade
+(See Notes)
+
+
+See below under Poisons
+
+
+
+
+
+
+
+
+Legend 
+Weapon Name - this refers to the name of the weapon. 
+Damage - the number of dice rolled to determine the weapon's damage 
+STR Min. - the minimum STR required to wield the weapon effectively; see below under Strength Minimum. 
+
+ 13.1  Weapon Limitations 
+The weapons table shows the damage, number of attacks per turn, weight, cost, the STR required to use each weapon, and the number of rounds that can be fired before it needs reloading for every weapon. 
+
+A human can have no more than one two-handed weapon or two one-handed ready weapons at one time. He can carry up to two additional weapons on his belt, in a holster, slung on his back, etc. at one time. But he can carry up to four other small items (anything with a mass of less than 1 kg) One can carry one energy shield at one time. One can wear one set of either armor or shielding, two sets of armor or shielding, or one set of each at a time. DEX adjustments are cumulative, though. 
+
+Ultimately, the amount of things one can carry is limited by his strength. One can carry up to two times his STR in kilograms without encumbrance, from two to three at a -2 MOV, from three to four at a -1 DEX and a -4 MOV, and from four to not more than five times with a -2 DeX and a -6 MOV. These MOV reductions are not cumulative with armor and shielding; take the lowest adjustment. See Encumbrance.
+
+Most weapons the produce a recoil require strength to control when firing.
+For every STR point you lack when firing a weapon you get a -1 DEX. If this is
+a one-handed weapon, you can hold it two-handed, requiring only half the STR. Automatic Rifle or the Submachinegun one-handed, requiring twice the STR. This is because they have a pistol grip in the stock. The Particle Rifle and the Machine Gun also have but need greater strength to fire them one handed. 
+
+ 13.2  Strength Minimum
+This refers to the minimum Strength necessary in order to use the weapon. A weapon may be used by a character with less STR, but he is at -1 to hit for every 1 STR less, and at -1 to damage for every 2 STR less. A character with more Strength can do more damage, at +1 for every 2 STR higher, with a corresponding -1 DEX penalty to hit, up to a maximum of +3 damage. [ Maybe the penalty should be a greater chance for a broken weapon]
+
+ 13.3  Two-Handed Weapons
+Two-handed weapons require both hands for most characters. A shield must be either slung on the back or dropped in order to use a two-handed weapon. Melee weapons and guns that are normally two handed can be used one handed if STR is 10 or more above minimum strength requirements.
+
+ 13.4  Weapon Length
+Long melee weapons can attack an opponent up to two hexes away; Medium melee weapons can attack into the next hex; Short melee weapons can only attack in the same hex in hand-to-hand combat or into the next hex at a -1 DEX penalty. 
+
+ 13.5  Thrown Weapons
+A thrown weapon may be thrown by a character with the Thrown Weapons Skill, or with a weapon-specific skill that allows it. Thrown weapons take a penalty of -1 DEX to hit for every hex between the attacker and the target. A thrown weapon that misses its target might hit someone else; see below under Rolling to Avoid and Attacking Into Melee for more information. With the exception of an adjacent friendly character, If there are any intervening characters that the attacker wishes to miss, they must successfully make a roll to avoid each character before rolling to hit their target.
+
+ 13.6  Missile Weapons
+A missile weapon takes a -1 DEX penalty for every two multihexes (or, six hexes) between the attacker and the target. There is no penalty against targets in the same multihex or up to two away, -1 for 3 to 4 multihexes, -2 for 5 to 6, etc. Like with throw weapons, a roll to avoid must be made if there are intervening characters. 
+
+Missile weapons fire in a line of fire or, in the case of automatic weapons and shotguns an arc of fire. These start in the center point of the firer's hex though the center point of the target's hex (for lines of fire) or any center point (for arcs of fire) and continue to the ends of the board. If there is a figure in these lines or arcs of fire that you do not want to hit you must roll to avoid. See Rolling to Avoid. 
+
+The lines or arc of fire stop when all of the shots have hit figures or have passed by all figures. If, when rolling to hit, you roll a 16, 17, or 18 on any target other than the first for each bullet, you do not count any adverse effect on the weapon, but that shot cannot hit any more targets. Suppose you fire at a target, miss, and roll to hit one behind him. You roll an 18, but your weapon doesn't break, the bullet misses and cannot hit any more targets in the line of fire. 
+
+Missile weapons never get adjustments for the targets facing, but do have their own special adjustments. Characters get adjustments if their enemy is concealed. If your target is leaning from behind a wall you have a -4 DEX adjustment. If that figure was firing over a wall from behind it you have a -6 DEX. If you are leaning from behind a wall firing your weapon you are at a -2 DEX. If your target is prone or kneeling behind a body you are a -4 DEX. If you miss him, then roll to hit or miss the body. You also get a -2 DEX if you are firing at a prone or kneeling figure, even if is not behind a body. All those previous adjustments for concealment are not cumulative the same is for the next set concerning support. You get a +1 DEX if you are using a rifle and you moved no more than one hex. This is because you are using the stock. You also get a +1 DEX if you are firing a pistol when prone. You also get a +2 DEX if your weapon is supported by solid objects, such as the side or top of a wall, a table, etc. You get a +3 DEX if you fire while using a bipod. Bipods can only be used in the prone position, kneeling behind a 1 meter wall, or standing behind a half meter wall. Bipods can only be used on Shoulderarms. You also get adjustments for special actions. If you move more than one hex and shoot you are at a -2 DEX and the number of shot/turn of the weapon is halved. 
+
+ 13.7  Aiming
+An attacking character, using any type of weapon, may delay attacking in order to aiming or wait for an opening before attacking. Aiming is different from making an aimed shot. The attacking character may not move or change facing and the only other option they may choose is to Defend and only against the target he is aiming at. If he waits one turn he gets a +1 DEX and if he waits two or more turns he gets a +2 to DEX for this attack. If he is knocked down, moves voluntarily or involuntarily, took damage to the head, or took 5 or more hits, his aiming is negated. 
+
+ 13.8  Attacking Into a Melee
+
+[ If attacking into a brawl of characters engaged in Hand-to-hand fighting, add a -4 DEX penalty for each character in the brawl above one. So for two characters in a brawl there is a -4 DEX penalty, for three characters there is a -8 DEX penalty, etc. If you missed the intended target, then you need to roll to avoid the other brawlers.]
+
+If the path taken by a thrown or missile weapon passes through any hexes occupied by other characters, or into a hand-to-hand brawl in a single hex, the attack takes a -1 DEX penalty for each character in the way. If the attack misses its primary target, it could hit any of those other characters. Roll an Effective Dexterity Check for each character in the path, starting with the one closest to the attacker, at standard penalties for ranged combat; a successful check means the attack misses its unintended targets. This check is also called Rolling to Avoid. When attacking into a brawl, choose the order in which characters are targeted randomly. 

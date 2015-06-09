@@ -1,0 +1,110 @@
+ 12  Attacking 
+An attack is an attempt to harm an enemy. An attack may be by a melee, thrown, or missile weapon, or grenade, or Hand-to-hand combat. A melee weapon is one that can only attack from an adjacent hex and is not thrown, nor is a missile weapon. A missile weapon is one that projects a physical object at great speed, such as a bullet, or  a focus energy bolt to do damage. A thrown weapon is one that is thrown and does damage when it hits its target. Grenades and the like do damage by exploding or releasing a gas. Hand-to-hand Combat is close combat using fists and sometimes knives and pistols. 
+
+A ready weapon is the one in his hand, ready to use. It stays ready until dropped, thrown, broken, or is being reloaded. Some weapons can do multiple attacks in one turn. The number of times a weapon can attack in one turn is shown in the shots/turn column on the weapons table. 
+
+During the action phase all actions are completed in the order of an effective DEX. This is adjusted by armor and encumbrance only and is written beside the basic DEX, in parenthesis. The character with the highest effective DEX will complete his action first. If this action is the firing of a weapon and it is fired two or more times in the same turn, they all do not hit at the same time. The first shot is fired when the character's turn to act came. The next would not be fired until after all figures of the same DEX had gone. The next would not be fired until after all figures of the next lower DEX had gone. If one fired three shots and had an effective DEX of 13, the first would be fired when his turn to act came. The next would be fired before figures with an effective DEX of 12. fired. The last would be fired before figures of an effective DEX of 11 fired, when this figure rolls to hit for each shot he then includes all other DEX adjustments. The automatic rifle and machine gun are the only exceptions to this rule. They may fire in groups of two, instead of one, in the automatic setting. 
+
+To attack a character rolls a Dexterity Check also called a Roll to Hit, modified by his weapon, armor, wounds, Skill, and other factors. On a successful check, he hits the target and then rolls the weapon's damage.
+
+
+ 12.1  Rolling To Hit 
+When a character attacks, the player states which enemy is being attacked. He then rolls 3d6 to see whether or not he hits. To hit, a character must roll its Effective Dexterity or LESS on 3 dice. Many factors modify this roll. Some of the most common are the armor the attacker is wearing and the wounds he has suffered. Various DEX adjustments are scattered throughout this booklet, but are all listed in the DEX Adjustments Table. All adjustments are figured before each attack before rolling. If the roll is below the target number, you have hit. There are special rules for automatic fire. See Automatic Weapons. 
+
+There are a few exceptions when rolling to hit. If you roll a 3 it is always a hit and the weapon does triple damage. If you roll a 4 it is always a hit and the weapon does double damage. If you roll a 5 it is always a hit, the weapon does normal damage. 
+
+A roll of 16 is always a miss. A roll of 17 is also always a miss and the attacker drops his weapon, put a dropped weapon counter in that figures hex; he has to pick it up next turn. A roll of 18 is also a miss and the attacker's weapon is broken. If this is a missile or energy weapon roll one die. Rolls of 1, 2, and 3 for energy weapons and 1 for gas-action weapons mean the weapon is permanently broken and cannot be repaired unless taken to a Weaponsmith at their shop. Other results mean the weapon is temporarily broken and can be fixed between combats by anyone with the right weapon skill and tools. For any other weapon an 18 means it is permanently broken, except for a club which needs two 18 results to break. 
+
+On 4d6, below 8 is an automatic hit, above 20 is an automatic miss.
+On 5d6, below 11 is an automatic hit, above 24 is an automatic miss.
+On 2d6 a 2 is an automatic hit, a 12 is an automatic miss.
+On 1d6 a 1 is an automatic hit.
+
+ 12.2  Rolling To Avoid 
+When using thrown or missile weapons, if there are one or more characters in your line fire either in front of or beyond your intended target, then you may need to make a Roll to Avoid. A Roll to Avoid is only made after the Roll to Hit the intended target has failed. Make a 3d6/eDEX roll for each unintended target, in order of distance, but unlike the roll to attack, if you succeed this roll, you have missed this unintended target. If you have missed all unintended targets, then the shot is no longer considered a threat. 
+
+An exception to this rule occurs if the intervening character is in an adjacent hex to the attacker and is on the same side as the attacker. Thrown weapons that do not hit their target, or any unintended targets in front of the target become dropped weapons in the hex of the target [maybe they should go a little beyond]
+
+Some modifiers that were bonuses for the Roll to Hit become penalties for the Roll to miss: distance, automatic fire, shotgun shell spread. For example increasing amounts of distance make it harder to hit a target and so distance provides a DEX penalty. When trying to avoid an unintended target, distance makes less likely for a hit and so its a bonus. There is usually a bonus for the additional shots when firing from an automatic weapon. Similarly there is a bonus when firing shot from a shotgun. These become penalties – it's easier to hit the unintended target with these weapons.
+
+If there is an unintended target before the intended target, apply a penalty to hit to target equal to the distance modification of the intervening character. If the attacker misses the target and the margin of failure is less than this penalty, then there is a chance you've hit the intervening character instead. If there is more than one intervening character just use the penalty associated with the intervening character furthest away (that is, closest to the target). Example: Zork throws a knife at Bruce who is 6 hexes away. Alice steps in the way at 3 hexes away. The penalty to hit Bruce has now changed from a -6 to a -9  ( -3 being the distance penalty associated with Alice.) If Zork misses Bruce by less than 3, then he must Roll to Avoid Alice with a 3 DEX bonus – that is its makes it more likely for a miss. If Chuck beyond Bruce at 9 hexes away and in the line of fire then the Roll to Avoid bonus is 9.[up to what distance that you need to roll to avoid? 10 hexes for thrown. When penalties take chance of hit below 5?] [If intervening character is Dodging?] Also read Attacking Into a Melee.
+
+ 12.3  Damage 
+If the attacker hits with a weapon the damage caused by that weapon takes effect immediately. Most weapons require a roll on dice of determine the exact damage. when, on the weapons table, the damage is given, the first number is the number of dice you roll. If there is a second number you add or subtract it from the number you roll. A damage of 2d6 + 1 means you roll two six-sided dice and add one to the resulting number. From this number you subtract the number of hits your target's armor (if any) stops to yield the number of hits your target takes. Subtract this number from his STR. When attacking an unarmored foe, treat any weapon that has a modifier that may produce a 0 or less damage as producing 1 hit.
+
+When a character is wounded in combat, subtract the value of any armor or other protective abilities from the amount of damage. The result is the amount of damage the character takes. For example, if a target wearing Plate armor (with an armor value of 5) is hit for an attack dealing 8 points of damage, he takes 8 minus 5 yielding 3 points in damage.
+
+Also see shielding and energy shields to see how they treat energy weapons.
+
+ 12.4  Effects of Damage 
+
+A character's Effective Strength is equal to his regular Strength minus the amount of damage he has taken. When a character's Effective Strength reaches 3 he gets an extra -3 DEX penalty. When his eSTR is 1 as a result of damage, he falls unconscious; when it reaches 0, he dies. 
+
+[Optional rules to make death and recovery more realistic ]
+
+A character that takes 5 or more points of damage in a single turn has his Effective Dexterity reduced by 2 for one turned – defined as one movement and one action phase. Thus if a character takes 5 hits before his own action, he has a -2 eDEX for the action phase this turn and the movement phase next turn.
+
+A character that takes 8 or more damage in a single turn falls down. If the damage is figured after armor, the character falls down automatically; if the total is 8 damage before armor but less than that after, the character can make a Dexterity Check at -2 (no penalty if he has the Acrobatics Skill) to avoid falling down. If this roll is successful, he is instead moved back one hex. 
+
+If using the Optional Movement Rules above, a character loses 1 Movement for every 2 damage he takes (this is calculated from Strength loss; don't recalculate Movement for Strength then apply this as additional penalty!). 
+
+Also see Optional Rules for details on Nonlethal Damage. 
+
+ 12.5  Forced Retreats
+If one attacks an adjacent enemy with any weapon, doing damage, but not taking any himself, he may move that enemy one hex in any direction. He may then chose to move into the vacated hex or stand still. if the only hex to retreat into contains a dangerous condition (deep water, fire, pit, etc.) the retreating figure must roll 3d6/DEX to avoid moving and/or falling into it. If he is successful he does not retreat. 
+
+ 12.6  Standard Damage Progression 
+When converting bonuses to dice, the progression is: 1 point, 2 points/1d6-4, 3 points/1d6-3, 1d6-2, 1d6-1, 1d6. Dice are additive to this; 1d6+2 with an additional +1 becomes 1d6+3 or 2d6-3, an additional +1 makes it 2d6-2, and so on. When a value falls on the cusp between some number of dice +3 and one more die -3, (for example, 1d6+3 and 2d6-3) usually the better choice is fewer dice with the bonus. 
+
+See the following table: 
+
+Damage Progression Table
+
+
+Bonus:
+0 dice
+One die
+Two dice
+Three dice
++1
+1 point
+1d6+1
+2d6+1
+3d6+1
++2
+2 points/
+1d6-4
+1d6+2
+2d6+2
+3d6+2
++3
+1d6-3
+1d6+3/
+2d6-3
+2d6+3/
+3d6-3
+3d6+3/
+4d6-3
++4
+1d6-2
+2d6-2
+3d6-2
+4d6-2
++5
+1d6-1
+2d6-1
+3d6-1
+4d6-1
++6
+1d6
+2d6
+3d6
+4d6
+
+[a]I know this part is wonky. I haven't ever gotten around to fixing it. I've actually got a fix in email somewhere, I just haven't ever implemented it.
+
+	 
+
+When adding bonuses to values that already have bonuses or penalties, a full dice value +1 goes to the top of the next column. For instance, 1d6+3 with an additional +4 in bonuses becomes 1d6+7 which becomes 2d6+1, while 1d6-3 with +4 in bonuses becomes 1d6+1. 
+
+This table can also be used to determine base damage done by Strength value; the 0 dice column is simply Strength equal to the listed bonus, while the one die column is equal to 6 plus the bonus, the two dice column 12 plus the bonus, and so on. A punch is considered a bludgeoning attack, while any other attack does damage by weapon type. (For example, a character with 10 Strength (read the One die column at +4) does 2d6-2 bludgeoning damage with a punch, while a character with 14 Strength would do 2d6+2.) 

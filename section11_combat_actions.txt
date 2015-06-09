@@ -1,0 +1,99 @@
+ 11  Combat Actions 
+When it comes to combat, a character is considered to be in one of three states: Disengaged, Engaged, or Engaged in Hand-to-hand Combat (HTH). A character who moves into another character's threat zone (which means the hex directly in front of that character and the two hexes on either side of it) becomes Engaged and must stop moving immediately. An Engaged character is Engaged regardless of his own facing; the salient feature is that another character is capable of attacking him. 
+
+A character who is anywhere but in another character's threat zone is Disengaged and is free to choose many actions. 
+
+Characters go in order of their Effective Dexterity scores, from high to low. If two characters are tied, go in order of their initiative for this turn
+
+The order determined during this Phase holds for the rest of the combat turn, even if a character's Effective Dexterity changes during the turn. 
+
+The actions are further explained below: 
+
+ 11.1  Stand up
+A character who has fallen, been knocked down, or prone may stand up. This uses up all of his movement for the turn. A character that is kneeling may stand up and take limited actions.
+
+ 11.2  Shoot
+The character attacks with a ready missile weapon. 
+
+ 11.3  Attack
+The character attacks another with a non-ranged attack (ready melee weapon or barehanded). 
+
+ 11.4  Defend or Dodge
+These are similar in that it makes a character harder to hit by an enemy. Defend is used by a character who is Engaged, against hand-to-hand or melee combat (i.e. any non-ranged attack), while Dodge is used by a character who is Disengaged, against ranged attacks (missile attacks or thrown weapons.)  In order to Defend, a character must have a ready weapon in hand with which to parry or block the incoming attack; in order to Dodge, the character must be able to move. If a target is Dodging or Defending, the attacker rolls an additional 1d6 die, typically a 4d6/eDEX to hit him instead of 3d6/eDEX. A roll of 4 and 5 are automatic hits and have no other effects. 20 is an automatic miss. 21 and 22 are dropped weapons. 23 and 24 are broken weapons. A person must have some object in his hands (weapon, stick, etc.) to defend. Defending is effective against figures in your front hexes. Neither of these options will allow for an attack, they are totally defensive. [Should an unarmed blocks be allowed to defend against small weapons?] [Should a character be allowed to attack while defending if their attacker missed the roll by greater than a certain margin?]
+
+ 11.5  Disengage
+A Disengage action occurs during the Combat Actions phase rather than Movement. To Disengage, move one hex away from the opponent, outside of his threat zone. If he wishes to attack you he may do so, regardless of your relative Effective Dexterity scores; if your eDEX is greater than his, his attack roll is at -1 per point of difference. Disengaging from Hand-to-hand combat has its own rules. [Disengaging while kneeling or prone]
+
+ 11.6  Changing Options
+It is legal to change intended options to meet changing conditions. The only requirement is that you must not have moved more than the new option allows. If you moved none or one hex you could change to any other option of the table. If you moved more than one half your MA you cannot take any other option. 
+
+A character who performs a Step action into another character's threat zone (thus becoming Engaged) may be treated as if he performed a Shift action, and can perform any of the "Shift and..." actions. 
+
+ 11.7  Actions Available to Disengaged Characters
+During the Combat Actions Phase, a character who is Disengaged may perform one of the following actions (note in all instances the Move portion of the action has already occurred during the Movement Phase): 
+
+ 11.7.1  Stand up
+A character who is fallen, prone, kneeling, swatting, crawling or sitting may stand up during the turn and do nothing else. 
+ 11.7.2  Take a breather  (Optional)
+If using optional nonlethal damage rules, a character can recover 1d6 nonlethal damage and do nothing else. 
+ 11.7.3  Shoot
+A character who has moved no more than One Step ( one hex ) or did not move but dropped to prone, kneeling, or sitting position may shoot with a missile weapon he has ready. The character may also attempt a quick draw.
+ 11.7.4  Ready
+A character who has moved no more than One Pace (two hexes) may drop or re-sling their weapon (if they have one) and then ready a weapon that is not currently ready. Two disengaged figures within a hex of each other may use this option to exchange weapons. A prone figure must roll 3 dice against DEX to ready a weapon. 
+
+ 11.7.5  Drop
+A character who has travelled no more than a Half Move may drop to the ground, to a prone, kneeling, crouching, or sitting position (the player specifies which) 
+ 11.7.6  Dodge
+A character who has travelled no more than a Half Move may perform a Dodge action. 
+
+ 11.7.7  Optional: Move and shoot
+A character who has travelled no more than a Half Move while also firing a non-bow missile weapon. They have a -4 DEX penalty. 
+
+ 11.7.8  Charge attack
+A character who has travelled no more than a Half Move may attack with any ready weapon, except a missile weapon, or attempt Hand-to-hand combat. If the moved at least three hexes toward a foe and attack with a pole weapon, they get a damage bonus. If a charge and attack is done against someone with a pole weapon, the pole weapon user gets an attack bonus. See Pole Weapons for more details.
+ 11.7.9  Full move
+A character who has moved more than half, up to his full Movement score may take no action during the turn. 
+
+ 11.8  Actions Available to Engaged Characters
+
+A character who is Engaged may perform one of the following actions (note again that all movement related to these actions has already occurred during the Movement Phase): 
+
+ 11.8.1  Stand up
+A character who has already stood up during the turn may do nothing else. 
+
+ 11.8.2  Shoot a charging enemy
+A character who has not moved during the turn, and became engaged due to a charging enemy,  may shoot once at that enemy with a ready missile weapon. He the missile weapon is longer than short, he then drops the missile weapon. A character can almost always do this; the situations in which he can't will be specified. 
+
+ 11.8.3  Drop and/or pick up weapons
+A character who has shifted no more than one hex may drop any weapon or object(s) he has in hand, and either ready one new non-missile weapon, or pick up one dropped weapons in his hex. He may do nothing else. 
+
+ 11.8.4  Attack
+A character who has shifted no more than one hex may attack with a non-missile, ready weapon. 
+
+ 11.8.5  Defend
+A character who has shifted no more than one hex may perform a Defend action. 
+
+ 11.8.6  Attack hand-to-hand
+A character who has shifted no more than one hex may attack barehanded or with a small weapon. He drops all weapons he has in hand that are not small weapons that can be used in HTH combat. 
+
+ 11.8.7  Disengage
+A character who has not moved during the turn may attempt to move out of an opponent's threat zone. 
+
+ 11.9  Actions Available to Characters in HTH Combat
+
+When a character is involved in Hand-to-hand Combat they are not allowed to move during the Movement Phase. During the Combat Phase they may pick one of the following actions:
+
+ 11.9.1  Attack
+Attack an enemy with their hands or one of the allowed weapons in HTH combat such as a knife, brass knuckles, or pistol.
+
+ 11.9.2  Ready a Weapon
+Attempt to draw a knife or pistol, or pick up a dropped weapon. This requires a 3d6/DEX roll to succeed. Only one weapons may be readied. The +4 DEX bonus does not apply to this roll. 
+
+ 11.9.3  Attempt to Disengage
+Attempt to Disengage from Hand-to-hand Combat. See HTH Combat rules.
+
+ 11.9.4  Attempt to Subdue
+Attempt to subdue your enemy. See HTH Combat rules.
+
+ 11.9.5  Disarm Opponent
+Attempt to disarm your opponent. See HTH Combat rules.

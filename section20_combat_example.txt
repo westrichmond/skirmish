@@ -1,0 +1,56 @@
+ 20  Combat Example
+[NEEDS TO BE REDONE TO REFLECT NEW RULES]
+The combat in the introduction took place during the development of the game. This is how it went. First look at the character sheets‘
+
+Bruce Corr
+STR=11 DEX=12 INT=9 MOV=10
+EP=26
+
+Skills: 
+Knife (1), Sidearms (1), Marksmanship (3), Acrobatics (3)
+
+Item				Mass		Cost
+Heavy Alloy Vest		1 kg	100₢
+Graphite-Epoxy Helmet
+Visor
+Autopistol 			1.5 kg 130₢
+3 reloads (24 rounds) 	nil		3₢
+4 Riot Grenades
+Totals: 			2.5 kg	233₢, 17 left over
+
+Autopistol ready, 
+2 reloads, 4 grenades secondary.
+
+Zorgo
+STR=11 DEX=12 INT=9 MOV=12
+EP=0
+
+Skills:
+Shoulderarms (1), Thrown Weapons (2), Marksmanship (3), Running (2)
+
+Item				Mass		Cost
+Rifle						90₢
+12 Rounds ( 2 Reloads )		 2₢
+Kevlar Vest				100₢
+Grenade					50₢
+
+
+
+
+
+Rifle ready, 
+Grenade secondary
+
+Bruce has been in a duel before and has won, so he is an experienced character. Zorgo is a beginning character. The players decide that Zorgo should be given the initiative for the first and 2 extra credits to buy a grenade and Bruce should start without a ready weapon. Combat ensued like this:
+
+TURN 1- Zorgo has the initiative and lets Bruce move first. He drops to prone. Zorgo also drops to prone. Zorgo has the higher effective DEX: (DEX = 12 + 3 for Marksmanship -3 because Bruce is prone + 1 for firing a rifle without moving more than one hex = 13) He gets to fire first. He can fire two shots before Bruce acts. Both hit. The total amount of damage (greatly reduced by Bruce's armor) is 2. Bruce has an effective DEX of 12; he does a quick draw but misses his roll to draw the weapon so he cannot fire it this turn. Zorgo can and does fire one more shot which hits but does no damage.
+
+TURN 2 Zorgo wins the initiative and lets Bruce move. Bruce‘ does not move. Neither does Zorgo. Zorgo decides to aim this turn. Bruce readies his weapon.
+
+TURN 3 Bruce wins the initiative. Zorgo does not move. Bruce crawls one hex and Dodges. Zorgo fires 3 shots. The first with an additional DEX adjustment of +1 due to his aiming, hits doing 2 hits of damage. On the second he rolls an 18 broken weapon; roiling one die he finds it permanently broken. He can never use that gun again.
+
+TURN 4 Bruce gets the initiative. Both do not move. They roll one die because they both have the same effective DEX. Zorgo goes first. He Stands Up and cannot do anything else. Bruce fires 5 rounds from his autopistol. Four rounds miss but one hits doing 2 points of damage.
+
+TURN 5 Zorgo gets the initiative. He goes first, moving 2 hexes and reading
+a grenade. Bruce does not move. Bruce can fire the last 4 rounds from his
+gun. The first hits doing 2 points of damage; so does the second doing 4 points of damage. The third hits doing 4 points of damage and killing Zorgo. For EXP he gets 22 for the hits he did on him and 24 for killing him, but subtracts 24 due to the 12 hexes between them when Zorgo died. He also gets an extra 252 Credits because this was a duel. Bruce now has a total of 48 EXP, 205 Credits, and all the weapons he started with. He decided to sell all his enemies' weapons. 

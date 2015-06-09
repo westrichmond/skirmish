@@ -1,0 +1,7 @@
+ 9  Initiative
+During the Initiative phase, characters don't do anything. Players determine which characters move first. However, if one side surprises the other they automatically get the initiative. If all figures on one side did nothing but run last turn, they will always get the initiative if they plan to run this turn. If they plan to turn and fight, roll for initiative. 
+
+Each side rolls one die and adds any modifiers from Tactics or Strategy skills. Movement then takes place in this order. 
+
+See Optional Rules for an optional alternative to this.
+ 

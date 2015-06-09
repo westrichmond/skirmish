@@ -1,0 +1,51 @@
+ 10  Combat Movement 
+Each figure has a movement allowance (MOV) of a certain number of hexes. All normal human figures have a basic MOV of 10. This can also be adjusted by the Running skill, armor, encumbrance, or adverse conditions. If your MOV is adjusted to one or below, the figure is not limited to moving a hex in order to complete and option. One can always move one hex and complete and option. One can move if he is kneeling or prone. His crawling MOV is 2 and is not adjusted unless his normal MOV is adjusted to one or below. A figure must stop its movement if it becomes engaged. 
+
+Characters move in Initiative order, with the exception of chases (situations where one character is moving and another character is trying to catch him -- this isn't a strict game definition; if it looks like a chase then it is one). In a chase, the character ahead always moves first, though for the other Phases the characters act in Effective Dexterity order. 
+
+ 10.1  Important Rule of Thumb
+Regarding combat movement and actions, a character can perform any action which his movement during the turn and current circumstances allow. For instance, if a character performs a Shift action while Engaged (thus moving one hex) and then somehow stops being Engaged for any reason (the character Engaging him dies, falls over, disappears, or anything else) he is now treated as a Disengaged character who has moved one hex, and can perform any of the actions available to a Disengaged character that has only moved one hex; he could shoot with a missile weapon if he has it ready, or ready a weapon, or drop, or dodge, or attack with a ready melee weapon or barehanded if he has a target. 
+
+ 10.2  Jumping
+A jump requires no extra MOV: a two hex pit require 2 MOV to jump over, but you must make a saving roll to jump it. 2 dice for a one hex hole, 5 for a two hex hole, 8 for a three hex hole (or wall of the same width) against STR + DEX. Missing means you fall into the pit or onto the wall; roll randomly if the wall is wider than one hex. If it is a pit that is more that two meters deep roll 3d6/DEX to see if you grab the other side. If successful you may try to pull yourself up a 4 die roll against STR saving roll. But ever you fail you take 1 hit or fatigue damage (see recovering from hits). 
+
+ 10.3  Falling
+
+If you fall in, you take 1 die damage for ever 5 meters you fall; any armor stopping no more than 2 hits! Pits over two meters deep cannot be climbed out; you must use a rope (at one meter a turn). Such a deep pit can only be fired into from an adjacent hex. One is such a pit can only fire into an adjacent normal leveled hex. [have hits from falling reflect exponential nature of acceleration]
+ 10.4  Actions During Movement 
+Certain actions maybe attempted during the movement part of the turn. Jumping is one such action. A disengaged character can also try to grab a dropped weapon on the run. If you spent 3 MOV you always pick it up and may continue to move. If you only move though the hex, after you have completed movement, you roll 3d6/eDEX to pick it up and no MOV is spent. No other action may be taken this turn. Also see Pits in the Adverse Conditions section. 
+ 10.5  Facing And Position 
+The counter or miniature that represents a character faces toward one side of its hex. It also can take various positions. Facing is shown by the direction the counter is in. A player may always change facing during the movement phase, even if it does not otherwise move. Facing determines which figures can attack which. Attacks can only be made into hexes in front of the figure. The prone position means you are lying on the ground. The kneeling position means you are on your knees and the standing position means you are on your feet. Only the Drop, Stand Up and Fire missile weapon option can be used to change positions. Anyone that is crawling or picking up a dropped weapon is considered to have all rear hexes for the purpose of being attacked. You can only engage figures if they are in one of your front hexes and vice versa. Figures on the same side do not engage each other. An attack with a melee weapon from the enemy's side hex gives a +2 DEX; attacks from the rear hex give a +4 DEX. If an attack is made on a kneeling figure it is at a +2 DEX and he attacks you with a -2 DEX. (for regular weapons only) If an attack is made on a prone figure with a regular weapon, it is made at a +4 and the prone figure cannot attack with a regular weapon. 
+
+ 10.6  Moving Onto Other Characters 
+Normally, only one figure occupies a hex. A figure may never move though a standing or kneeling figure. A figure may move into a hex with a fallen, unconscious, or dead figure and stop. He must roll 3 dice against his DEX to avoid falling when he does so. A figure may also jump over such a figure at a cost of 3 from its MA that turn, making the same saving roll. 
+
+ 10.7  Movement Options for Disengaged Characters
+ During the Movement Phase, only characters who are Disengaged when their chance to move arrives, may move freely. As the movement phase continues characters may change from being disengaged to engaged due to movements of their foes. Characters who are disengaged at the beginning of their movement phase may do any of the following options: 
+
+ 10.7.1  Stand Still
+Movement is not required. A character may choose to stay stationary.
+
+ 10.7.2  Stand up
+Standing up, from a fallen, crawling, or prone position, costs the character's full Movement for the Turn. A character standing up from a kneeling, swatting, or sitting position may either then do a Half Move or Change Weapons.
+
+ 10.7.3  Move One Step
+The character can move one hex. 
+ 10.7.4  Move One Pace
+The character can move up to two hexes. 
+ 10.7.5  Half Move
+The character can move up to half of his Movement (round up). 
+ 10.7.6  Full Move
+The character can move up to his full Movement. 
+ 10.7.7  Delay
+The character can choose to temporarily end his movement, to wait and see what else happens during the turn. A Delay action can be performed after moving any amount up to half of the character's Movement score. [probably needs to be removed]
+
+ 10.8  Movement Options for Engaged Characters
+During the Movement Phase, characters who are Engaged when their chance to move arrives are more limited in their choices. An Engaged character can make one of the following types of movement actions: 
+
+ 10.8.1  Stand still
+And use no movement. 
+ 10.8.2  Stand up
+This is almost identical to a Disengaged character's Stand up movement action. A character standing from a kneeling position can only shift or change weapons.
+ 10.8.3  Shift
+The character may move up to one hex, to another hex in which his Engagement status does not change. (In other words, he must be Engaged with all of the characters he was Engaged with before. If he was Engaged with only one character, he may move to one adjacent hex in his opponent's threat zone; if he was Engaged with more than one character, the adjacent hex he moves to must be in all opponents' threat zones.)  It costs the same amount of Movement as a Step (one hex in either case); the main difference between a Step and a Shift is that a Shift is done while Engaged, and must be done from an Engaged position to another Engaged position with the same character. 

@@ -1,0 +1,48 @@
+ 17  Terrain and Environmental Factors
+Battles are not always fought in flat unobstructed rooms. Adverse conditions
+add variety and keep the game from becoming boring quick-draw situations. The number and type of adverse condition should be agreed upon by the players before combat occurs, but at least one type should be used in even the simplest
+games.
+
+ 17.1  Broken Ground 
+Broken ground and other bad footing subtracts 2 from the DEX of any moving or fighting characters, except those that do not move and use thrown or missile weapon. Anyone that moves more than half his MOV must roll 3 dice against DEX, with the -2 DEX for bad footing. Failure means the figure falls down somewhere in this path, roll randomly to find where. Characters with Acrobatics need only roll 2d6/eDEX
+
+ 17.2  Water 
+Water that is ankle deep (10 cm) will have the same effects as broken ground. water that is knee-deep (50cm) has the same effects and cuts MOV by half. Water that is deep cannot be fought in effectively.
+
+ 17.3  Mud And Snow 
+Treat mud and snow as broken ground. Mud also reduces MOV to half (rounded up) at ankle depth and to one-quarter at knee depth. Snow cuts MOV by 4 at ankle depth and 8 at knee depth. Minimum MOV is always 1. [rolls for slipping]
+
+ 17.4  Smoke, Fog, and Dense Atmospheres. 
+These produce a -1 DEX to hit for every hex fired through or into. Laser weapons also have a -1 damage for each smoke hex it fired through. Any character standing in smoke without a gas mask is also at a -2 DEX. Anti-laser smoke reduces laser damage by 1 die – just like R1 shielding.
+
+ 17.5  Complete Darkness 
+Complete darkness subtracts 8 from your DEX and you must roll 3 dice against your DEX to avoid falling if you move more than half your MOV. If anyone fires a missile or thrown weapon, however, his DEX is reduced to 5 (not reduced by 5, but your DEX is considered 5, only lucky shots hit.
+
+A flashlight will completely remove all penalties for 3 MH in the direction
+it is pointed for the one that is holding it and anyone firing at him. It
+is small one-handed item for size and must be ready to turn on and point.
+
+ 17.6  Ice 
+If anyone is standing or moving 5 MOV or less roll 2d6/DEX to avoid falling down. If he moves more than 5 MOV he rolls 3 dice. Failure means the figure falls down somewhere in his path, roll randomly to see where. He must stand up or crawl next turn. One cannot fall if he is prone, kneeling, or crawling.
+
+ 17.7  Walls 
+A half-meter wall (stone, brick, dirt, sandbags, etc.) will completely
+protect a prone figure behind it. He can still fire over or around it but
+exposes himself. See Concealment. A meter wall does the same for kneeling
+and prone figures, but prone figures cannot fire over it. A two meter wall
+has the same effect for all figures, but only standing figures can fire over
+it. walls over two meters completely block fire and no one can fire over them.
+A half meter wall does not protect from a standing figure less than 3 hexes away.
+A meter wall does not protect from one next to it. One can throw grenades
+over a wall without exposing himself, but he has a -8 DEX because he cannot
+see what he is throwing at. walls that are 1 meter high cannot be moved over
+they must be jumped over using the rules below. walls over 1 meter cannot be jumped over.
+ 17.8  Pits And Holes 
+Pits, sometimes called foxholes, protect figures in them as though they were behind a wall of the appropriate depth (see above). A pit that is a meter deep or more must be jumped over, instead of walked through. See Jumping and Falling.
+ 17.9  Changes In Gravity 
+Gravity changes the amount your weapons and armor weigh and thus increase or decrease your encumbrance. This can reduce your MOV and/or DEX. See Weapon Limitations in the attacks section to find these effects. You first must decide how much the gravity is increased or decreased. Treat the Earth as having a gravity of 1; doubled gravity is 2, half gravity is 0.5. A gravity of 1.72 will completely incapacitate the average (STR 10) human. Multiply the total weight of what you are carrying by the gravity. This is your new total weight. Subtract 1 from the gravity factor, then multiply it by 70. Add this number to your weight carried. This adjustment is due to your own weight. (A human weighs 70 kg). Suppose Bruce (see page 7) goes fighting on a 0.7 gravity planet. His new weight would be 5.5 x 0.7 or 3.85. His own weight would be -0.3 x 70 or -21 to yield the effects of having -45kg. If he were on a 1.2 gravity planet the effects would be the same as carrying 20.6 kg. It also changes the distance that one can jump. If you wanted to jump a 2-hex wide hole under 0.5 gravity it would count as a 1 hex wide hole; the same hole under 1.5 gravities would count as a 3 hex wide hole. [ increase effective STR ]
+
+ 17.10  Microgravity 
+Microgravity can be a very hazardous environment to fight in. It occurs in objects in deep space, orbit or freefall. If you are running, fire a weapon that has recoil (that is, it requires STR to use) or are hit by such a weapon, there is a chance that you lose your footing and start floating. If you move more than 3 hexes or meet any of the other conditions make a saving roll of 4 dice against your STR + DEX, halved. If you are holding on a rail of handhold or another person anchored in such a way (using one hand to do so), subtract one die. If you are prone it is an automatic success. If you have Astrobatics skill subtract two dice. If you fail this saving roll you are floating. If you were running you are floating in the direction you were running at the same number of hexes per turn every turn until you regain control or run into something. You can voluntarily start floating, but cannot voluntarily stop; you must make the same saving roll. If you fire or are hit by a recoil weapon you are moving at one-quarter hex per turns if it requires a two-handed ST of 6 or less. The person who got hit moves at 1 hex every 4 turns. Additional shots automatically effect speed, so if he got hit by 3 more shots after he lost his footing he would be moving at one hex/turn. Weapons whose two-handed ST is between 7 and 14 push people at one-half hex/turn, and over 14 at one hex/turn. If you fired the weapon, you are floating in the direction opposite the one you fired it in, usually directly backwards. If you got hit by the weapon you are floating in the direction it was fired towards. If you got hit in the back you would be floating forward. One that loses footing cannot change direction or speed by using his feet. A figure can turn turn his counter by one hex side/turn; two if you have Astrobatics. Remember that you can only fire into your front hexes. To recover from floating pick the Stand Up option and roll the saving roll but add one die. All other adjustments occur. You stop automatically if you hit a wall, taking 1 hit of damage for every 3 hexes/turn you move. You can also turn and fire your weapon to stop moving. If you hit a person he must make the saving roll to avoid floating. If he is successful you stop moving. If he is not both of you are floating at half your original speed. If your speed is reduced to 0 you stop moving but are still floating. In such situations where microgravity occurs and you outside (spacecraft hull, asteroid, etc.) one might use a tether. Normally in such a situation, one could float off and never come back. A tether line limits movement and floating to the number of hexes it is long. One can pull himself on a tether at half his MA. A tether has a ST of 25 if you try to break it and is a -8 to hit with a throw or missile weapon. 
+ 17.11  Vacuum or Hostile Atmospheres 
+To fight under these conditions one must be wearing what is commonly called a spacesuit. A typical spacesuit has R1 shielding built in and stops a total of 2 hits of damage. One can wear either one set of armor or one set of shielding, not both. The spacesuit produces a -2 DEX and a -2 MOV. If any hit penetrates a spacesuit a leak occurs. One must spend all of the next turn patching one leak or take one die damage. No matter how many leaks there are one always taken the same damage. For every second turn there is a leak you take 2 dice damage; for every third, 3 dice, etc. Hostile environments, such as poisonous or poisoned atmospheres differ only in damage produced; players decide what it is.

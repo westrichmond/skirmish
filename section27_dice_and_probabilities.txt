@@ -1,0 +1,30 @@
+ 27  Dice and Probabilities
+
+Charts showing probabilities for different numbers of dice and the automatic hit and miss numbers.
+
+ 27.1  2d6
+
+
+ 27.2  3d6
+If you roll a 3 it is always a hit and the weapon does triple damage. If you roll a 4 it is always a hit and the weapon does double damage. If you roll a 5 it is always a hit, the weapon does normal damage. 
+
+A roll of 16 is always a miss. A roll of 17 is also always a miss and the attacker drops his weapon, put a dropped weapon counter in that figures hex; he has to pick it up next turn. A roll of 18 is also a miss and the attacker's weapon is broken. If this is a missile or energy weapon roll one die. Rolls of 1, 2, and 3 for energy weapons and 1 for gas-action weapons mean the weapon is permanently broken and cannot be repaired unless taken to a Weaponsmith at their shop. Other results mean the weapon is temporarily broken and can be fixed between combats by anyone with the right weapon skill and tools. For any other weapon an 18 means it is permanently broken, except for a club which needs two 18 results to break. 
+
+On 4d6, below 8 is an automatic hit, above 20 is an automatic miss.
+On 5d6, below 11 is an automatic hit, above 24 is an automatic miss.
+On 2d6 a 2 is an automatic hit, a 12 is an automatic miss.
+On 1d6 a 1 is an automatic hit.
+
+
+If on any to-hit roll on 3 or 4 dice you roll a 3, 4, 5, or 6 you have a chance of making a critical hit. Roll 2 dice to find where it is. A 2-7 is not a critical hit. 8 is right leg, 9 is left leg, 10 is weapon arm (usually right unless otherwise stated), 11 is other arm, and 12 is head. 
+
+
+ 27.3  4d6
+With increased difficulty, automatic hits and misses have different target numbers: On 4d6, a roll of 4 and 5 are automatic hits. 20 is an automatic miss. 21 and 22 are dropped weapons. 23 and 24 are broken weapons. 
+
+A roll of 4 and 5 are automatic hits and have no other effects. 20 is an automatic miss. 21 and 22 are dropped weapons. 23 and 24 are broken weapons. 
+
+ A roll of 4 and 5 are automatic hits and have no other effects. 20 is an automatic miss. 21 and 22 are dropped weapons. 23 and 24 are broken weapons.
+
+ 27.4  5d6
+5d6/eDEX – 5 is an automatic hit, 24-26 are automatic misses, 27-28 are dropped weapons, 29-30 are broken weapons.

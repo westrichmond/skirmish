@@ -1,0 +1,41 @@
+ 5  Attributes
+All characters have four Attributes: Strength, Dexterity, Intelligence, and Movement. Through accumulating experience points, these attributes can be increased. Some sever injuries may permanently reduce them. 
+ 5.1  Strength – STR
+Strength represents two things: a character's physical strength (including lifting ability and ability to deal damage), and his ability to withstand damage. Attacks do damage to a character's Strength (see Combat for more information); the character's current Strength is equal to his normal Strength score minus any damage he has taken.
+ 5.2  Dexterity – DEX
+Dexterity represents a character's quickness, general physical agility, and hand-eye coordination. Characters roll dice against their Dexterity to hit other characters during combat (see Attribute Checks). Some weapons, armor, and other conditions reduce a character's Dexterity score; this is referred to as a character's Effective Dexterity. Most of the time when a character rolls against his Dexterity, he always uses his Effective Dexterity.
+ 5.3  Intelligence – INT
+Intelligence represents a character's general reasoning, perception, and memory. Characters roll against their Intelligence to sense things, to remember things that happened in the past, and to troubleshoot problems.
+ 5.4  Movement – MOV
+Movement is not quite an Attribute, per se. Human characters begin with a Movement value of 10. Not-human characters may have different Movement values.
+
+There is also an alternative set of rules for movement under Section 17 Optional Rules.
+ 5.5  Wealth – ₢
+Although wealth is not a character attribute, it controls an important part of the capabilities of a character. A beginning character starts out with units of wealth, called Credits (₢), so that he may buy weapons and armor to use in combat. See the Armor and Weapons Table for prices.
+ 5.6  Starting Values for Human Characters
+All characters receive a total of 32 points to allocate between the three Attributes (plus Movement, if desired). Human characters have minimum scores of 8 in Strength, Dexterity, and Intelligence. A beginning character starts out with 200 Credits. Non-human characters can have different starting points or different minimums.
+ 5.7  Effective Attribute Values
+Attributes will sometimes be referred to by their "effective" values, such as Effective Strength (eSTR), Effective Dexterity (eDEX), or Effective Intelligence (eINT). Take the current value of those Attributes, modified by negative factors like injury or encumbrance, and positive factors like certain skills or technology. Wounds reduce a character's Effective Strength (see Effects of Damage), while a character's Effective Dexterity can be reduced either directly through the type of armor worn or indirectly through encumbrance (see Encumbrance). 
+
+ 5.8  Increasing Attributes and Skills
+Characters can gain Experience Points (EP) through adventuring. Experience Points may then be spent to increase Attributes and Skills. See Experience Points.
+ 5.9  Attribute Checks 
+Attribute Checks are used to resolve conflict. Essentially, anytime two forces: two characters or a character verses a difficult situation want something different to happen, an Attribute Check might be called for. Attribute Checks can represent combat, the use of skills, and inborn abilities, or feats of Strength, Dexterity, or Intelligence. Bonuses or penalties can be applied to the basic attribute value due to the influence of a character's skills, damage received in combat, or other factors.
+
+In most cases to make an Attribute Check, roll three 6-sided dice; also referred to as 3d6. If you roll less than or equal to the appropriate Attribute along with various bonuses or penalties, the check is a success. Sometimes Attribute Checks will be referred to by the name of the Attribute being checked, such as Strength Check, Dexterity Check, or Intelligence Check.
+
+In combat, the typical attribute check is made on three dice against effective dexterity (3d6/eDEX) is made to see if an attacker is able to strike their foe. This is also called a Roll to Hit or Roll to Attack.
+
+Any time there is another character in the line of fire of an intended target, either in front of the target or beyond the target there may be a need to make a 3d6/eDEX roll to avoid hitting the unintended character. A success of this roll means you have avoided the unintended target. This is also called a Roll to Avoid or a Roll to Miss.
+
+Other examples of attribute checks: 3d6/eINT to spot a hiding person, 4d6 if that person is camouflaged. 3D6/eSTR to break down a standard household door.
+ 5.9.1  Difficulty
+Some contests of skill are more difficult than others. To represent this, an Attribute Check is made using additional dice: instead of 3d6 use 4d6, 5d6, occasionally more. The mechanical effect is to reduce the chance a character will succeed at their Attribute Check. Some easy checks can be made on 2d6 as well. In combat, the Roll to Hit is usually done on three dice, but when the target is trying to avoid being hit (called Dodging or Defending) this difficulty is shown by using 4d6 vs effective Dexterity. Sometimes an easy attribute check is done using 2d6.
+
+With increased difficulty, automatic hits and misses have different target numbers: On 4d6, a roll of 4 and 5 are automatic hits. 20 is an automatic miss. 21 and 22 are dropped weapons. 23 and 24 are broken weapons.
+ 5.9.2  Margin
+Sometimes you'll want to know how well a character does at an action. The margin is the amount by which the character succeeds (margin of success) or fails (margin of failure) at an Attribute Check. Example: Bruce, with a Dexterity of 12, attempts to make his Dexterity Check. He rolls 9 on 3d6, making his margin of success 12 minus 9 or 3. 
+
+Margin of failure is considered a "negative margin of success"; any margin of failure is considered less than any margin of success.
+ 5.9.3  Opposed Rolls
+Occasionally, two characters will be in direct opposition to one another. In circumstances like this, each character rolls his Skill or Attribute Check; whichever one has a higher margin of success wins the check. Usually it just means that character gets what he wants, though there could be additional consequences depending on the exact circumstances of the conflict. If you need to know a net margin of success (the amount by which one character beats the other), subtract the lower margin of success from the higher.

@@ -1,0 +1,17 @@
+ 7  Example Character
+[THIS NEEDS TO BE REDONE TO REFLECT NEW RULES]
+After the player selected Bruce's attributes and skills he went to the Armor and weapons Table. He would enter combat with a ready automatic pistol and 2 reloads (the third is in the gun) which count as small items and do not encumber him, neither does the total weight of all the things he is carrying. 
+
+
+
+Bruce Corr
+STR=11 DEX=12 INT=9 MOV=10
+
+Skills: 
+Knife (1 Slot), Sidearms (1 Slot),  Swimming (1 Slot), Marksmanship (3 Slots), Acrobatics (3 Slots)
+
+Item				Mass		Cost
+Plastic Cloth Vest	1 kg		100₢
+Autopistol 			1.5 kg		130₢
+3 reloads (27 rounds) 	nil		3₢
+Totals: 			2.5 kg			233₢, 17₢ left over
